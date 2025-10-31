@@ -233,17 +233,6 @@
           "referencedHostIds": [],
           "additionalContent": {},
           "version": "0.2.0"
-        },
-        {
-          "id": "6912cc59-b9b2-4123-b576-593b60e1d5cb",
-          "type": "generic",
-          "date": "1999-09-22",
-          "isApprxDate": false,
-          "description": "DELETE THIS EVENT",
-          "images": [],
-          "referencedHostIds": [],
-          "additionalContent": {},
-          "version": "0.2.0"
         }
       ],
       "timelineEventReferences": [],
