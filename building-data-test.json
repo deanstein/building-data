@@ -112,6 +112,50 @@
               "toolbarJustification": "right",
               "version": "0.2.0",
               "id": "239e46b4-127d-49dc-a41b-bd5d313c681c"
+            },
+            {
+              "key": "ccp_blue_mall_60s70s_1",
+              "src": "https://res.cloudinary.com/jdg-main/image/upload/v1716959965/jdg-ui-svelte/ccp/blue-mall-60s70s-1_kpzlxi.png",
+              "alt": "Cinderella City's central Blue Mall, simulated in the 1968-1978 era.",
+              "caption": "Cinderella City's central Blue Mall, simulated in the 1968-1978 era.",
+              "attribution": "Englewood Public Library (AI recolored)",
+              "toolbarJustification": "center",
+              "showBackgroundBlur": true,
+              "version": "0.2.0",
+              "id": "d14fbea5-43b9-4fac-b1d1-5293fc83fc9a"
+            },
+            {
+              "key": "rose_mall_60s70s_2",
+              "src": "https://res.cloudinary.com/jdg-main/image/upload/v1740202820/jdg-ui-svelte/history/rose-mall-60s70s-2.jpg",
+              "alt": "Offices above Rose Mall.",
+              "caption": "Offices above Rose Mall.",
+              "attribution": "Denver Public Library",
+              "showBackgroundBlur": true,
+              "toolbarJustification": "right",
+              "version": "0.2.0",
+              "id": "cdc557f7-e6de-49e3-b390-b8378ce41f33"
+            },
+            {
+              "key": "rose_mall_60s70s_1",
+              "src": "https://res.cloudinary.com/jdg-main/image/upload/v1716959963/jdg-ui-svelte/history/rose-mall-60s70s-1_ncv9le.jpg",
+              "alt": "Rose Mall as it appeared before grand opening in 1968. And a bunch of other words to test long captions!",
+              "caption": "Rose Mall as it appeared before grand opening in 1968. And a bunch of other words to test long captions! Even longer longer longer captions!",
+              "attribution": "Denver Public Library",
+              "showBackgroundBlur": true,
+              "toolbarJustification": "right",
+              "version": "0.2.0",
+              "id": "1859b4b3-92d9-4f22-8000-51f6a61ac875"
+            },
+            {
+              "key": "plan_60s70s_1",
+              "src": "https://res.cloudinary.com/jdg-main/image/upload/v1716962803/ccp-website/plans/plan-60s70s-1_wkmpff.png",
+              "alt": "Cinderella City featured 5 sub-malls: Blue, Rose, Gold, Shamrock, and Cinder Alley.",
+              "caption": "Cinderella City featured 5 sub-malls: Blue, Rose, Gold, Shamrock, and Cinder Alley.",
+              "attribution": "Englewood Public Library",
+              "showBackgroundBlur": true,
+              "toolbarJustification": "right",
+              "version": "0.2.0",
+              "id": "56029ca6-6346-4e7f-ad76-2a4f5b8aac0c"
             }
           ],
           "referencedHostIds": [],
