@@ -43,7 +43,7 @@
           "id": "a5f05697-d981-4fa9-b928-9f03aff5ca5a",
           "type": "media",
           "date": "1998-02-01",
-          "isApprxDate": false,
+          "isApprxDate": true,
           "description": "The abandoned southeast Blue Mall entrance watches silently over an empty parking deck.",
           "images": [
             {
@@ -77,6 +77,16 @@
               "showBackgroundBlur": true,
               "toolbarJustification": "right",
               "version": "0.2.0"
+            },
+            {
+              "key": "ccm._1967_01_01_blue_mall_exterior_rendering",
+              "id": "d756eca8-d547-47fc-856a-652b2a4fb366",
+              "src": "https://res.cloudinary.com/jdg-main/image/upload/v1765689354/jdg-ui-svelte/ccm/1967-01-01-blue-mall-exterior-rendering.jpg",
+              "alt": "A 1967 rendering of the southeast Blue Mall entrance.",
+              "caption": "A 1967 rendering of the southeast Blue Mall entrance.",
+              "showBackgroundBlur": true,
+              "toolbarJustification": "right",
+              "version": "0.2.0"
             }
           ],
           "referencedHostIds": [],
@@ -90,6 +100,50 @@
           "isApprxDate": false,
           "description": "Cinderella City closes to the public when the last remaining tenant, Montgomery Ward, vacates its store.",
           "images": [],
+          "referencedHostIds": [],
+          "additionalContent": {},
+          "version": "0.2.0"
+        },
+        {
+          "id": "4f4972a6-ffb2-4fa5-b2e7-98d90ba58c28",
+          "type": "media",
+          "date": "1981-06-25",
+          "isApprxDate": false,
+          "description": "A sketch of the propsed Rose Mall renovation.",
+          "images": [
+            {
+              "key": "ccm._1981_06_25_rose_mall_sketch",
+              "id": "1868dedc-0c05-41e5-961e-60e82bd355ce",
+              "src": "https://res.cloudinary.com/jdg-main/image/upload/v1765687118/jdg-ui-svelte/ccm/1981-06-25-rose-mall-sketch.jpg",
+              "alt": "A 1981 sketch of the renovated Rose Mall.",
+              "caption": "A 1981 sketch of the renovated Rose Mall.",
+              "showBackgroundBlur": true,
+              "toolbarJustification": "right",
+              "version": "0.2.0"
+            }
+          ],
+          "referencedHostIds": [],
+          "additionalContent": {},
+          "version": "0.2.0"
+        },
+        {
+          "id": "870f7c2b-b291-4083-84a2-1f6e154b7f8c",
+          "type": "media",
+          "date": "1981-12-23",
+          "isApprxDate": false,
+          "description": "A sketch of the Blue Mall from the 1981 architectural drawing set for the upcoming Cinderella City renovation.",
+          "images": [
+            {
+              "key": "ccm._1981_12_23_center_court_sketch",
+              "id": "b7d77600-debc-4bba-9c38-43e658621dff",
+              "src": "https://res.cloudinary.com/jdg-main/image/upload/v1765686933/jdg-ui-svelte/ccm/1981-12-23-center-court-sketch.jpg",
+              "alt": "A 1981 sketch of the renovated Blue Mall center court.",
+              "caption": "A 1981 sketch of the renovated Blue Mall center court.",
+              "showBackgroundBlur": true,
+              "toolbarJustification": "right",
+              "version": "0.2.0"
+            }
+          ],
           "referencedHostIds": [],
           "additionalContent": {},
           "version": "0.2.0"
