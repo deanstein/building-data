@@ -193,6 +193,50 @@
           "referencedHostIds": [],
           "additionalContent": {},
           "version": "0.2.0"
+        },
+        {
+          "id": "4a6b0b1e-4990-440d-a3e1-04d22b6d8e31",
+          "type": "article",
+          "date": "1978-12-30",
+          "isApprxDate": false,
+          "description": "Gerri Von Frellick sells Cinderella City to KRAVCO Real Estate Holdings.",
+          "images": [
+            {
+              "key": "ccm._1978_12_30_von_frellick",
+              "id": "00ff7741-a792-413f-982b-4996775e3ff9",
+              "src": "https://res.cloudinary.com/jdg-main/image/upload/v1765691713/jdg-ui-svelte/ccm/1978-12-30-von-frellick.jpg",
+              "alt": "Von Frellick sells interest in Cinderella City.",
+              "caption": "Von Frellick sells interest in Cinderella City.",
+              "showBackgroundBlur": true,
+              "toolbarJustification": "right",
+              "version": "0.2.0"
+            }
+          ],
+          "referencedHostIds": [],
+          "additionalContent": {},
+          "version": "0.2.0"
+        },
+        {
+          "id": "5aaef837-2637-464e-9eef-232d7c14b06d",
+          "type": "media",
+          "date": "1987-01-01",
+          "isApprxDate": true,
+          "description": "A photo of the renovated Rose Mall.",
+          "images": [
+            {
+              "key": "ccm._1987_rose_mall",
+              "id": "63b2d605-6877-47b8-b034-ef5fd4fc8955",
+              "src": "https://res.cloudinary.com/jdg-main/image/upload/v1765691792/jdg-ui-svelte/ccm/1987-rose-mall.jpg",
+              "alt": "Rose Mall as seen in roughly 1987.",
+              "caption": "Rose Mall as seen in roughly 1987.",
+              "showBackgroundBlur": true,
+              "toolbarJustification": "right",
+              "version": "0.2.0"
+            }
+          ],
+          "referencedHostIds": [],
+          "additionalContent": {},
+          "version": "0.2.0"
         }
       ],
       "timelineEventReferences": [],
