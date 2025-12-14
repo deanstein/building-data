@@ -109,7 +109,7 @@
           "type": "media",
           "date": "1981-06-25",
           "isApprxDate": false,
-          "description": "A sketch of the propsed Rose Mall renovation.",
+          "description": "A sketch of the proposed Rose Mall renovation.",
           "images": [
             {
               "key": "ccm._1981_06_25_rose_mall_sketch",
@@ -161,6 +161,29 @@
               "src": "https://res.cloudinary.com/jdg-main/image/upload/v1765691026/jdg-ui-svelte/ccm/1983-05-19-blue-mall-and-food-court.jpg",
               "alt": "The newly-renovated Blue Mall and Food Court.",
               "caption": "The newly-renovated Blue Mall and Food Court.",
+              "attribution": "Englewood Public Library",
+              "showBackgroundBlur": true,
+              "toolbarJustification": "right",
+              "version": "0.2.0"
+            }
+          ],
+          "referencedHostIds": [],
+          "additionalContent": {},
+          "version": "0.2.0"
+        },
+        {
+          "id": "4cf8d474-46a5-4ec7-a7ce-9349d9020845",
+          "type": "generic",
+          "date": "1968-03-01",
+          "isApprxDate": false,
+          "description": "An early look at the Blue Mall before the mall opened.",
+          "images": [
+            {
+              "key": "_1968_blue_mall",
+              "id": "6b86e002-91b9-4ecf-8a18-5e150232f741",
+              "src": "https://res.cloudinary.com/jdg-main/image/upload/v1765691299/jdg-ui-svelte/1968-blue-mall.jpg",
+              "alt": "The Blue Mall some time in 1968.",
+              "caption": "The Blue Mall some time in 1968.",
               "attribution": "Englewood Public Library",
               "showBackgroundBlur": true,
               "toolbarJustification": "right",
