@@ -42,9 +42,9 @@
         {
           "id": "a5f05697-d981-4fa9-b928-9f03aff5ca5a",
           "type": "media",
-          "date": "1997-12-31",
+          "date": "1998-02-01",
           "isApprxDate": false,
-          "description": "Cinderella City closes to the public.",
+          "description": "The abandoned southeast Blue Mall entrance watches silently over an empty parking deck.",
           "images": [
             {
               "key": "ccm._1998_01_01_blue_mall_mw_entrance",
@@ -57,6 +57,39 @@
               "version": "0.2.0"
             }
           ],
+          "referencedHostIds": [],
+          "additionalContent": {},
+          "version": "0.2.0"
+        },
+        {
+          "id": "75e4a224-c5d1-426b-b5e0-f3198a48ffd6",
+          "type": "media",
+          "date": "1967-01-01",
+          "isApprxDate": true,
+          "description": "Concept sketches released showing Cinderella City's proposed design.",
+          "images": [
+            {
+              "key": "ccm._1967_blue_mall_interior_rendering",
+              "id": "832df8f3-b731-423c-986d-d95124756a1f",
+              "src": "https://res.cloudinary.com/jdg-main/image/upload/v1765686585/jdg-ui-svelte/ccm/1967-blue-mall-interior-rendering.jpg",
+              "alt": "A rendering of Cinderella City's Blue Mall.",
+              "caption": "A rendering of Cinderella City's Blue Mall.",
+              "showBackgroundBlur": true,
+              "toolbarJustification": "right",
+              "version": "0.2.0"
+            }
+          ],
+          "referencedHostIds": [],
+          "additionalContent": {},
+          "version": "0.2.0"
+        },
+        {
+          "id": "e62ecffb-943d-4c3d-9533-3d50a71654b3",
+          "type": "storeClosed",
+          "date": "1997-12-31",
+          "isApprxDate": false,
+          "description": "Cinderella City closes to the public when the last remaining tenant, Montgomery Wards, vacates its store.",
+          "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
           "version": "0.2.0"
