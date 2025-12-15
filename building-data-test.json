@@ -175,7 +175,7 @@
           "id": "4cf8d474-46a5-4ec7-a7ce-9349d9020845",
           "type": "generic",
           "date": "1968-03-01",
-          "isApprxDate": false,
+          "isApprxDate": true,
           "description": "An early look at the Blue Mall before the mall opened.",
           "images": [
             {
