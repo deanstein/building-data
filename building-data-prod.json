@@ -3,7 +3,7 @@
     {
       "id": "d5193216-b5b1-4c88-b0ad-8d725f5b962e",
       "name": "Cinderella City Mall",
-      "avatarImageMeta": {
+      "avatarImage": {
         "src": "https://res.cloudinary.com/jdg-main/image/upload/v1761358399/jdg-ui-svelte/jdg-avatar-placeholder.jpg",
         "alt": "Avatar",
         "showBackgroundBlur": true,

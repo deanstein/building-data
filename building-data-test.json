@@ -3,7 +3,14 @@
     {
       "id": "74d92940-4c98-4963-acdd-d7a6264f5426",
       "name": "Cinderella City Mall",
-      "avatar": "",
+      "avatarImage": {
+        "src": "https://res.cloudinary.com/jdg-main/image/upload/v1761358399/jdg-ui-svelte/jdg-avatar-placeholder.jpg",
+        "alt": "Avatar",
+        "showBackgroundBlur": true,
+        "toolbarJustification": "right",
+        "version": "0.2.0",
+        "id": "06323c8c-851f-4194-ac78-a8ca245a8c86"
+      },
       "timelineEvents": [
         {
           "id": "c13ce629-065f-4cd9-b280-26faf509f755",
@@ -243,20 +250,11 @@
       "contextualEvents": [],
       "version": "0.2.0",
       "inceptionDate": "1968-03-07",
-      "cessationDate": "1997-12-31",
-      "avatarImageMeta": {
-        "src": "https://res.cloudinary.com/jdg-main/image/upload/v1761358399/jdg-ui-svelte/jdg-avatar-placeholder.jpg",
-        "alt": "Avatar",
-        "showBackgroundBlur": true,
-        "toolbarJustification": "right",
-        "version": "0.2.0",
-        "id": "06323c8c-851f-4194-ac78-a8ca245a8c86"
-      }
+      "cessationDate": "1997-12-31"
     },
     {
       "id": "d038f5d3-4134-40b0-945f-119529452086",
       "name": "Villa Italia Mall",
-      "avatar": "",
       "timelineEvents": [
         {
           "id": "9eed97db-b653-4403-8980-56519f61c9a3",
@@ -279,7 +277,6 @@
     {
       "id": "4b922eac-f355-4d5f-810d-9c98bf218a13",
       "name": "Lakeside Mall",
-      "avatar": "",
       "timelineEvents": [],
       "timelineEventReferences": [],
       "contextualEvents": [],
@@ -288,7 +285,15 @@
     {
       "id": "bdeaaad5-f6a2-4414-9548-00ed1f7cb902",
       "name": "Test: No Event at Inception",
-      "avatar": "",
+      "avatarImage": {
+        "src": "",
+        "showBackgroundBlur": false,
+        "toolbarAlignment": "",
+        "alt": "",
+        "toolbarJustification": "right",
+        "version": "0.2.0",
+        "id": "3f9cfcd5-5a2d-46db-af0a-8b5534751a80"
+      },
       "inceptionDate": "1966-03-05",
       "cessationDate": "",
       "timelineEvents": [
@@ -457,21 +462,17 @@
       ],
       "timelineEventReferences": [],
       "contextualEvents": [],
-      "version": "0.2.0",
-      "avatarImageMeta": {
-        "src": "",
-        "showBackgroundBlur": false,
-        "toolbarAlignment": "",
-        "alt": "",
-        "toolbarJustification": "right",
-        "version": "0.2.0",
-        "id": "3f9cfcd5-5a2d-46db-af0a-8b5534751a80"
-      }
+      "version": "0.2.0"
     },
     {
       "id": "545872f2-1d1d-445c-bf85-be9655739aeb",
       "name": "Test: Event at Inception",
-      "avatar": "",
+      "avatarImage": {
+        "src": "",
+        "showBackgroundBlur": false,
+        "toolbarAlignment": "",
+        "alt": ""
+      },
       "inceptionDate": "1966-03-05",
       "cessationDate": "",
       "timelineEvents": [
@@ -555,13 +556,7 @@
       ],
       "timelineEventReferences": [],
       "contextualEvents": [],
-      "version": "0.2.0",
-      "avatarImageMeta": {
-        "src": "",
-        "showBackgroundBlur": false,
-        "toolbarAlignment": "",
-        "alt": ""
-      }
+      "version": "0.2.0"
     }
   ]
 }
