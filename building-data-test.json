@@ -175,15 +175,7 @@
     {
       "id": "bdeaaad5-f6a2-4414-9548-00ed1f7cb902",
       "name": "Test: No Event at Inception",
-      "avatarImage": {
-        "src": "",
-        "showBackgroundBlur": false,
-        "toolbarAlignment": "",
-        "alt": "",
-        "toolbarJustification": "right",
-        "version": "0.2.0",
-        "id": "3f9cfcd5-5a2d-46db-af0a-8b5534751a80"
-      },
+      "avatarImage": "",
       "inceptionDate": "1966-03-05",
       "cessationDate": "",
       "timelineEvents": [
@@ -192,7 +184,7 @@
           "type": "generic",
           "date": "1990-02-21",
           "isApprxDate": false,
-          "description": "Something happened in 1990! Let's make an edit here. And here! Another edit!",
+          "description": "Something happened in 1990! Let's make an edit here. And here! Another edit! This is one more edit.",
           "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
@@ -215,92 +207,7 @@
           "date": "2000-02-21",
           "isApprxDate": false,
           "description": "This is a test of images! A ton of images to force a very wide image thumbnail group.",
-          "images": [
-            {
-              "key": "aerial_60s70s_1",
-              "src": "https://res.cloudinary.com/jdg-main/image/upload/v1716959961/jdg-ui-svelte/history/aerial-60s70s-1_e4hg6b.jpg",
-              "alt": "Cinderella City as it appeared in 1968. And a bunch of other words to test long captions!",
-              "caption": "Cinderella City as it appeared in 1968. And a bunch of other words to test long captions! Here, have some more text! Even more now.",
-              "attribution": "Englewood Public Library (AI recolored)",
-              "showBackgroundBlur": true,
-              "toolbarJustification": "right",
-              "version": "0.2.0",
-              "id": "ca946c1a-0f40-4661-90e4-e2ac7c099d00"
-            },
-            {
-              "key": "architecture_1",
-              "src": "https://res.cloudinary.com/jdg-main/image/upload/v1716959964/jdg-ui-svelte/project-tiles/architecture_gdysdx.jpg",
-              "alt": "Architecture",
-              "caption": "Architecture",
-              "attribution": "Author",
-              "showBackgroundBlur": true,
-              "toolbarJustification": "right",
-              "version": "0.2.0",
-              "id": "239e46b4-127d-49dc-a41b-bd5d313c681c"
-            },
-            {
-              "key": "ccp_blue_mall_60s70s_1",
-              "src": "https://res.cloudinary.com/jdg-main/image/upload/v1716959965/jdg-ui-svelte/ccp/blue-mall-60s70s-1_kpzlxi.png",
-              "alt": "Cinderella City's central Blue Mall, simulated in the 1968-1978 era.",
-              "caption": "Cinderella City's central Blue Mall, simulated in the 1968-1978 era.",
-              "attribution": "Englewood Public Library (AI recolored)",
-              "toolbarJustification": "center",
-              "showBackgroundBlur": true,
-              "version": "0.2.0",
-              "id": "d14fbea5-43b9-4fac-b1d1-5293fc83fc9a"
-            },
-            {
-              "key": "rose_mall_60s70s_2",
-              "src": "https://res.cloudinary.com/jdg-main/image/upload/v1740202820/jdg-ui-svelte/history/rose-mall-60s70s-2.jpg",
-              "alt": "Offices above Rose Mall.",
-              "caption": "Offices above Rose Mall.",
-              "attribution": "Denver Public Library",
-              "showBackgroundBlur": true,
-              "toolbarJustification": "right",
-              "version": "0.2.0",
-              "id": "cdc557f7-e6de-49e3-b390-b8378ce41f33"
-            },
-            {
-              "key": "rose_mall_60s70s_1",
-              "src": "https://res.cloudinary.com/jdg-main/image/upload/v1716959963/jdg-ui-svelte/history/rose-mall-60s70s-1_ncv9le.jpg",
-              "alt": "Rose Mall as it appeared before grand opening in 1968. And a bunch of other words to test long captions!",
-              "caption": "Rose Mall as it appeared before grand opening in 1968. And a bunch of other words to test long captions! Even longer longer longer captions!",
-              "attribution": "Denver Public Library",
-              "showBackgroundBlur": true,
-              "toolbarJustification": "right",
-              "version": "0.2.0",
-              "id": "1859b4b3-92d9-4f22-8000-51f6a61ac875"
-            },
-            {
-              "key": "plan_60s70s_1",
-              "src": "https://res.cloudinary.com/jdg-main/image/upload/v1716962803/ccp-website/plans/plan-60s70s-1_wkmpff.png",
-              "alt": "Cinderella City featured 5 sub-malls: Blue, Rose, Gold, Shamrock, and Cinder Alley.",
-              "caption": "Cinderella City featured 5 sub-malls: Blue, Rose, Gold, Shamrock, and Cinder Alley.",
-              "attribution": "Englewood Public Library",
-              "showBackgroundBlur": true,
-              "toolbarJustification": "right",
-              "version": "0.2.0",
-              "id": "56029ca6-6346-4e7f-ad76-2a4f5b8aac0c"
-            },
-            {
-              "key": "fairgrounds_aerial",
-              "src": "https://res.cloudinary.com/jdg-main/image/upload/v1721195162/jdg-website/arch/fairgrounds-aerial.jpg",
-              "caption": "This is a very long caption. The intent is to demonstrate an image with a caption longer than another image in the same carousel, so the expand/collapse button updates appropriately when the imageMeta change.",
-              "showBackgroundBlur": true,
-              "toolbarJustification": "right",
-              "version": "0.2.0",
-              "id": "348da441-5fb4-44a2-9c30-9dbf819d8ac6",
-              "alt": "This is a very long caption. The intent is to demonstrate an image with a caption longer than another image in the same carousel, so the expand/collapse button updates appropriately when the imageMeta change."
-            },
-            {
-              "key": "arch.bayou_mixed_use_1",
-              "src": "https://res.cloudinary.com/jdg-main/image/upload/v1721190776/jdg-website/arch/bayou-mixed-use-1.jpg",
-              "showBackgroundBlur": true,
-              "toolbarJustification": "right",
-              "version": "0.2.0",
-              "id": "bda44feb-d30b-446e-9753-d28243fcc5b6"
-            }
-          ],
+          "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
           "version": "0.2.0"
@@ -352,7 +259,7 @@
       ],
       "timelineEventReferences": [],
       "contextualEvents": [],
-      "version": "0.2.0"
+      "version": "0.3.0"
     },
     {
       "id": "545872f2-1d1d-445c-bf85-be9655739aeb",
