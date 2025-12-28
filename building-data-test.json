@@ -140,7 +140,8 @@
       "contextualEvents": [],
       "version": "0.3.0",
       "inceptionDate": "1968-03-07",
-      "cessationDate": "1997-12-31"
+      "cessationDate": "1997-12-31",
+      "imageMetaRegistryRepoName": "jdg-ui-svelte"
     },
     {
       "id": "d038f5d3-4134-40b0-945f-119529452086",
@@ -259,17 +260,13 @@
       ],
       "timelineEventReferences": [],
       "contextualEvents": [],
-      "version": "0.3.0"
+      "version": "0.3.0",
+      "imageMetaRegistryRepoName": "jdg-ui-svelte"
     },
     {
       "id": "545872f2-1d1d-445c-bf85-be9655739aeb",
       "name": "Test: Event at Inception",
-      "avatarImage": {
-        "src": "",
-        "showBackgroundBlur": false,
-        "toolbarAlignment": "",
-        "alt": ""
-      },
+      "avatarImage": "",
       "inceptionDate": "1966-03-05",
       "cessationDate": "",
       "timelineEvents": [
@@ -353,7 +350,8 @@
       ],
       "timelineEventReferences": [],
       "contextualEvents": [],
-      "version": "0.2.0"
+      "version": "0.3.0",
+      "imageMetaRegistryRepoName": "jdg-ui-svelte"
     }
   ]
 }
