@@ -13,7 +13,9 @@
           "date": "1968-03-07",
           "isApprxDate": false,
           "description": "Cinderella City opens for business",
-          "images": [],
+          "images": [
+            "blue_mall._1968_03_07_von_frellick"
+          ],
           "referencedHostIds": [],
           "additionalContent": {},
           "version": "0.3.0"
