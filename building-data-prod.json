@@ -186,6 +186,18 @@
       "contextualEvents": [],
       "version": "0.3.0",
       "imageMetaRegistryRepo": "ccp-website"
+    },
+    {
+      "id": "f3c286ae-7610-4473-8917-50d230c8410f",
+      "name": "Lakeside Mall",
+      "imageMetaRegistryRepo": "",
+      "avatarImage": "jdg_avatar_placeholder",
+      "inceptionDate": "1956-08-31",
+      "cessationDate": "2004-01-01",
+      "timelineEvents": [],
+      "timelineEventReferences": [],
+      "contextualEvents": [],
+      "version": "0.3.0"
     }
   ]
 }
