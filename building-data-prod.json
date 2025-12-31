@@ -430,6 +430,18 @@
       "timelineEventReferences": [],
       "contextualEvents": [],
       "version": "0.3.0"
+    },
+    {
+      "id": "b6f3c98c-db83-4cab-b081-9b31390d4b0e",
+      "name": "Villa Italia Mall",
+      "imageMetaRegistryRepo": "",
+      "avatarImage": "jdg_avatar_placeholder",
+      "inceptionDate": "1966-03-07",
+      "cessationDate": "2001-07-01",
+      "timelineEvents": [],
+      "timelineEventReferences": [],
+      "contextualEvents": [],
+      "version": "0.3.0"
     }
   ]
 }
