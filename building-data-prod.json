@@ -49,7 +49,10 @@
           "date": "1967-01-01",
           "isApprxDate": true,
           "description": "Concept sketches released showing Cinderella City's proposed design.",
-          "images": [],
+          "images": [
+            "concept_art._1967_01_01_blue_mall_exterior_rendering",
+            "concept_art_1"
+          ],
           "referencedHostIds": [],
           "additionalContent": {},
           "version": "0.3.0"
@@ -86,7 +89,9 @@
           "date": "1983-05-19",
           "isApprxDate": false,
           "description": "The newly-renovated Blue Mall and Food Court are shown in a press photo.",
-          "images": [],
+          "images": [
+            "blue_mall._1983_05_19_blue_mall_and_food_court"
+          ],
           "referencedHostIds": [],
           "additionalContent": {},
           "version": "0.3.0"
