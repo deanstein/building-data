@@ -128,7 +128,7 @@
           "id": "e0743684-eef0-4e92-aa72-fbc97aba5259",
           "type": "media",
           "date": "1987-01-01",
-          "isApprxDate": false,
+          "isApprxDate": true,
           "description": "A photo of the renovated Rose Mall.",
           "images": [
             "rose_mall_80s90s_1"
@@ -176,6 +176,28 @@
           "date": "1960-08-01",
           "isApprxDate": true,
           "description": "Gerri Von Frellick, a veteran shopping mall developer, announced plans to build a shopping mall at East Hampden Avenue and South Franklin Street.\n\nVon Frellick proposed to build a \"new concept\" mall, with stores out of the weather under a single roof beside an air-conditioned mall or plaza. The mall, to be called Cinderella City, would be a two-level structure of Victorian architecture.",
+          "images": [],
+          "referencedHostIds": [],
+          "additionalContent": {},
+          "version": "0.3.0"
+        },
+        {
+          "id": "f7764948-7d00-4c6c-84d1-e3d410c8cc03",
+          "type": "storeOpened",
+          "date": "1987-11-05",
+          "isApprxDate": false,
+          "description": "Montgomery Ward opens at Cinderella City",
+          "images": [],
+          "referencedHostIds": [],
+          "additionalContent": {},
+          "version": "0.3.0"
+        },
+        {
+          "id": "848ea9ba-9a93-4320-a5cc-5df9b64d3a9f",
+          "type": "renovation",
+          "date": "1984-10-03",
+          "isApprxDate": false,
+          "description": "Broadway Southwest breaks ground on Cinderella City store after the Neusteters demolition completed",
           "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
