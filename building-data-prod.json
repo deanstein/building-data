@@ -104,7 +104,9 @@
           "date": "1978-12-30",
           "isApprxDate": false,
           "description": "Gerri Von Frellick sells Cinderella City to KRAVCO Real Estate Holdings.",
-          "images": [],
+          "images": [
+            "history._1978_12_30_von_frellick"
+          ],
           "referencedHostIds": [],
           "additionalContent": {},
           "version": "0.3.0"
