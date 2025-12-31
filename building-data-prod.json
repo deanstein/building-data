@@ -194,7 +194,30 @@
       "avatarImage": "jdg_avatar_placeholder",
       "inceptionDate": "1956-08-31",
       "cessationDate": "2004-01-01",
-      "timelineEvents": [],
+      "timelineEvents": [
+        {
+          "id": "7904b88c-f156-462c-9229-bf021ee0885d",
+          "type": "storeOpened",
+          "date": "1956-08-31",
+          "isApprxDate": false,
+          "description": "Lakeside Shopping Center opens to the public.",
+          "images": [],
+          "referencedHostIds": [],
+          "additionalContent": {},
+          "version": "0.3.0"
+        },
+        {
+          "id": "10f1e6f4-9404-4ef6-90ad-8b7c0e6a55eb",
+          "type": "storeClosed",
+          "date": "2004-01-01",
+          "isApprxDate": false,
+          "description": "Lakeside Center closes to the public.",
+          "images": [],
+          "referencedHostIds": [],
+          "additionalContent": {},
+          "version": "0.3.0"
+        }
+      ],
       "timelineEventReferences": [],
       "contextualEvents": [],
       "version": "0.3.0"
