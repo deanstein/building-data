@@ -238,6 +238,17 @@
           "referencedHostIds": [],
           "additionalContent": {},
           "version": "0.3.0"
+        },
+        {
+          "id": "a8b87822-4830-4512-98c0-d34b1c87bcbc",
+          "type": "renovation",
+          "date": "1976-10-29",
+          "isApprxDate": false,
+          "description": "Lake Level Mall renovation opens",
+          "images": [],
+          "referencedHostIds": [],
+          "additionalContent": {},
+          "version": "0.3.0"
         }
       ],
       "timelineEventReferences": [],
