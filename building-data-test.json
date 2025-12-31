@@ -186,7 +186,7 @@
           "type": "generic",
           "date": "1990-02-21",
           "isApprxDate": false,
-          "description": "Something happened in 1990! Let's make an edit here. And here! Another edit! This is one more edit.",
+          "description": "Something happened in 1990! Let's make an edit here. And here! Another edit!",
           "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
@@ -262,7 +262,8 @@
       "timelineEventReferences": [],
       "contextualEvents": [],
       "version": "0.3.0",
-      "imageMetaRegistryRepoName": "jdg-ui-svelte"
+      "imageMetaRegistryRepoName": "jdg-ui-svelte",
+      "imageMetaRegistryRepo": ""
     },
     {
       "id": "545872f2-1d1d-445c-bf85-be9655739aeb",
