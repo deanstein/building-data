@@ -438,7 +438,41 @@
       "avatarImage": "jdg_avatar_placeholder",
       "inceptionDate": "1966-03-07",
       "cessationDate": "2001-07-01",
-      "timelineEvents": [],
+      "timelineEvents": [
+        {
+          "id": "08722251-32eb-4e16-a4b2-62e33b562035",
+          "type": "storeOpened",
+          "date": "1966-03-07",
+          "isApprxDate": false,
+          "description": "Villa Italia opens to the public.",
+          "images": [],
+          "referencedHostIds": [],
+          "additionalContent": {},
+          "version": "0.3.0"
+        },
+        {
+          "id": "305f4bd5-e799-4659-a7fa-becfc66f5a49",
+          "type": "storeClosed",
+          "date": "2001-07-01",
+          "isApprxDate": false,
+          "description": "Villa Italia closes to the public.",
+          "images": [],
+          "referencedHostIds": [],
+          "additionalContent": {},
+          "version": "0.3.0"
+        },
+        {
+          "id": "22372630-b1d1-478c-9bd2-8dd400a9e926",
+          "type": "renovation",
+          "date": "1984-10-03",
+          "isApprxDate": false,
+          "description": "Construction starts on new Broadway Southwest store",
+          "images": [],
+          "referencedHostIds": [],
+          "additionalContent": {},
+          "version": "0.3.0"
+        }
+      ],
       "timelineEventReferences": [],
       "contextualEvents": [],
       "version": "0.3.0"
