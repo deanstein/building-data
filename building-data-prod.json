@@ -31,6 +31,94 @@
           "referencedHostIds": [],
           "additionalContent": {},
           "version": "0.3.0"
+        },
+        {
+          "id": "99288ccb-019b-4948-9c66-bc46f232593e",
+          "type": "media",
+          "date": "1998-02-01",
+          "isApprxDate": true,
+          "description": "The abandoned southeast Blue Mall entrance watches silently over an empty parking deck.",
+          "images": [],
+          "referencedHostIds": [],
+          "additionalContent": {},
+          "version": "0.3.0"
+        },
+        {
+          "id": "57eba2ec-9a5c-4764-9e90-462f0dbb6970",
+          "type": "media",
+          "date": "1967-01-01",
+          "isApprxDate": true,
+          "description": "Concept sketches released showing Cinderella City's proposed design.",
+          "images": [],
+          "referencedHostIds": [],
+          "additionalContent": {},
+          "version": "0.3.0"
+        },
+        {
+          "id": "627ede2f-f40f-4a38-bdd7-0c2671262f38",
+          "type": "media",
+          "date": "1981-06-25",
+          "isApprxDate": false,
+          "description": "A sketch of the proposed Rose Mall renovation.",
+          "images": [],
+          "referencedHostIds": [],
+          "additionalContent": {},
+          "version": "0.3.0"
+        },
+        {
+          "id": "17e561d6-34a7-45c9-b453-806fd0f0cf33",
+          "type": "media",
+          "date": "1981-12-23",
+          "isApprxDate": false,
+          "description": "A sketch of the Blue Mall from the 1981 architectural drawing set for the upcoming Cinderella City renovation.",
+          "images": [],
+          "referencedHostIds": [],
+          "additionalContent": {},
+          "version": "0.3.0"
+        },
+        {
+          "id": "4cd0de13-84a6-43a7-8ae9-727052e83ee9",
+          "type": "media",
+          "date": "1983-05-19",
+          "isApprxDate": false,
+          "description": "The newly-renovated Blue Mall and Food Court are shown in a press photo.",
+          "images": [],
+          "referencedHostIds": [],
+          "additionalContent": {},
+          "version": "0.3.0"
+        },
+        {
+          "id": "16481e91-075b-4f88-843c-7b9106770ce0",
+          "type": "media",
+          "date": "1968-03-01",
+          "isApprxDate": true,
+          "description": "An early look at the Blue Mall before Cinderella City opened for business.",
+          "images": [],
+          "referencedHostIds": [],
+          "additionalContent": {},
+          "version": "0.3.0"
+        },
+        {
+          "id": "8ca6dcb1-ffe4-4ea6-aa53-a3c6560ebbad",
+          "type": "article",
+          "date": "1978-12-30",
+          "isApprxDate": false,
+          "description": "Gerri Von Frellick sells Cinderella City to KRAVCO Real Estate Holdings.",
+          "images": [],
+          "referencedHostIds": [],
+          "additionalContent": {},
+          "version": "0.3.0"
+        },
+        {
+          "id": "e0743684-eef0-4e92-aa72-fbc97aba5259",
+          "type": "media",
+          "date": "1987-01-01",
+          "isApprxDate": false,
+          "description": "A photo of the renovated Rose Mall.",
+          "images": [],
+          "referencedHostIds": [],
+          "additionalContent": {},
+          "version": "0.3.0"
         }
       ],
       "timelineEventReferences": [],
