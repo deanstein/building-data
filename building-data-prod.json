@@ -293,6 +293,116 @@
           "referencedHostIds": [],
           "additionalContent": {},
           "version": "0.3.0"
+        },
+        {
+          "id": "ebc64c71-d796-425b-a996-cd97b3cb236f",
+          "type": "renovation",
+          "date": "1987-03-01",
+          "isApprxDate": false,
+          "description": "The Denver store becomes a \"Specialty Shops\" location",
+          "images": [],
+          "referencedHostIds": [],
+          "additionalContent": {},
+          "version": "0.3.0"
+        },
+        {
+          "id": "5f430535-dd1c-489f-b8dd-a892b68ca529",
+          "type": "article",
+          "date": "1987-08-30",
+          "isApprxDate": false,
+          "description": "Lakeside Mall checked for asbestos particles",
+          "images": [],
+          "referencedHostIds": [],
+          "additionalContent": {},
+          "version": "0.3.0"
+        },
+        {
+          "id": "bb41c14e-78cd-4c4a-b8c7-77c7eb1c3530",
+          "type": "article",
+          "date": "1987-09-01",
+          "isApprxDate": false,
+          "description": "Mall to decide plans for asbestos testing",
+          "images": [],
+          "referencedHostIds": [],
+          "additionalContent": {},
+          "version": "0.3.0"
+        },
+        {
+          "id": "49b2bf52-c596-40ac-b784-a48f6e977140",
+          "type": "article",
+          "date": "1987-09-03",
+          "isApprxDate": false,
+          "description": "Lakeside Mall agrees to more testing",
+          "images": [],
+          "referencedHostIds": [],
+          "additionalContent": {},
+          "version": "0.3.0"
+        },
+        {
+          "id": "c6cc603e-84d0-4789-85bd-3b8acaff2bac",
+          "type": "article",
+          "date": "1987-09-15",
+          "isApprxDate": false,
+          "description": "Health complaints by Lakeside merchants revealed",
+          "images": [],
+          "referencedHostIds": [],
+          "additionalContent": {},
+          "version": "0.3.0"
+        },
+        {
+          "id": "ff65cd8d-9a64-48c2-a67f-29b61d089e8f",
+          "type": "article",
+          "date": "1987-09-23",
+          "isApprxDate": false,
+          "description": "Asbestos closes store at Lakeside Mall",
+          "images": [],
+          "referencedHostIds": [],
+          "additionalContent": {},
+          "version": "0.3.0"
+        },
+        {
+          "id": "ec1eb20a-0c87-4700-9804-3fea3a7a0760",
+          "type": "article",
+          "date": "1987-09-25",
+          "isApprxDate": false,
+          "description": "Lakeside asbestos 'danger' to public",
+          "images": [],
+          "referencedHostIds": [],
+          "additionalContent": {},
+          "version": "0.3.0"
+        },
+        {
+          "id": "4e9e89eb-569b-42d1-bac1-87b137189dbf",
+          "type": "article",
+          "date": "1987-09-29",
+          "isApprxDate": false,
+          "description": "State health officials close 4 stores, hall at Lakeside",
+          "images": [],
+          "referencedHostIds": [],
+          "additionalContent": {},
+          "version": "0.3.0"
+        },
+        {
+          "id": "0e6c9bd4-90f1-46ba-bc3e-bd1897804c2b",
+          "type": "article",
+          "date": "1987-10-04",
+          "isApprxDate": false,
+          "description": "Asbestos threat called overrated",
+          "images": [],
+          "referencedHostIds": [],
+          "additionalContent": {},
+          "version": "0.3.0"
+        },
+        {
+          "id": "f7aa1b20-4f2f-4e55-915c-fb69919f84cc",
+          "type": "article",
+          "date": "1988-10-07",
+          "isApprxDate": false,
+          "description": "Lakeside Mall seeks annexation to Wheat Ridge",
+          "images": [],
+          "referencedHostIds": [],
+          "additionalContent": {},
+          "version": "0.3.0"
         }
       ],
       "timelineEventReferences": [],
