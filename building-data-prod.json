@@ -169,6 +169,17 @@
           "referencedHostIds": [],
           "additionalContent": {},
           "version": "0.3.0"
+        },
+        {
+          "id": "10f4da9a-50d2-4178-a411-ef812c9acfbc",
+          "type": "generic",
+          "date": "1960-08-01",
+          "isApprxDate": true,
+          "description": "Gerri Von Frellick, a veteran shopping mall developer, announced plans to build a shopping mall at East Hampden Avenue and South Franklin Street.",
+          "images": [],
+          "referencedHostIds": [],
+          "additionalContent": {},
+          "version": "0.3.0"
         }
       ],
       "timelineEventReferences": [],
