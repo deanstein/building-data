@@ -202,6 +202,17 @@
           "referencedHostIds": [],
           "additionalContent": {},
           "version": "0.3.0"
+        },
+        {
+          "id": "1ed5f003-96f5-4502-9560-02391be03d8d",
+          "type": "article",
+          "date": "1995-04-09",
+          "isApprxDate": false,
+          "description": "4 tenants remain at Cinderella City",
+          "images": [],
+          "referencedHostIds": [],
+          "additionalContent": {},
+          "version": "0.3.0"
         }
       ],
       "timelineEventReferences": [],
