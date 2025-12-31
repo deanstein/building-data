@@ -60,7 +60,9 @@
           "date": "1981-06-25",
           "isApprxDate": false,
           "description": "A sketch of the proposed Rose Mall renovation.",
-          "images": [],
+          "images": [
+            "rose_mall._1981_06_25_rose_mall_sketch"
+          ],
           "referencedHostIds": [],
           "additionalContent": {},
           "version": "0.3.0"
@@ -71,7 +73,9 @@
           "date": "1981-12-23",
           "isApprxDate": false,
           "description": "A sketch of the Blue Mall from the 1981 architectural drawing set for the upcoming Cinderella City renovation.",
-          "images": [],
+          "images": [
+            "blue_mall._1981_12_23_center_court_sketch"
+          ],
           "referencedHostIds": [],
           "additionalContent": {},
           "version": "0.3.0"
