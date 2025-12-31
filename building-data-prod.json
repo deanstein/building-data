@@ -136,6 +136,39 @@
           "referencedHostIds": [],
           "additionalContent": {},
           "version": "0.3.0"
+        },
+        {
+          "id": "0b54e83d-3b3d-42f9-bf56-4c5e0809c0b2",
+          "type": "generic",
+          "date": "1960-09-25",
+          "isApprxDate": false,
+          "description": "\"The architecture is of the Georgetown, Colorado era, the time of the gold and silver camps. That makes sense today, since we can use the cupolas for air conditioning equipment. And the entire area, landscaped minus signs, is designed to blend like a park into the surrounding community.\" - Gerri Von Frellick",
+          "images": [],
+          "referencedHostIds": [],
+          "additionalContent": {},
+          "version": "0.3.0"
+        },
+        {
+          "id": "9fd876f4-1444-455a-a434-ea2a03b2d4cb",
+          "type": "generic",
+          "date": "1960-09-25",
+          "isApprxDate": false,
+          "description": "Von Frellick announced that financing for the mall was assured, and he intended to build the mall regardless of opposition.",
+          "images": [],
+          "referencedHostIds": [],
+          "additionalContent": {},
+          "version": "0.3.0"
+        },
+        {
+          "id": "85888b13-326c-4cfb-a21e-53788ebf7d37",
+          "type": "generic",
+          "date": "1960-09-25",
+          "isApprxDate": false,
+          "description": "\"... because three years of surveys shows that's the place a regional shopping center is needed and should be located.\" - Gerri Von Frellick",
+          "images": [],
+          "referencedHostIds": [],
+          "additionalContent": {},
+          "version": "0.3.0"
         }
       ],
       "timelineEventReferences": [],
