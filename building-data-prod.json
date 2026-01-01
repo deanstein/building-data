@@ -139,13 +139,15 @@
         },
         {
           "id": "0b54e83d-3b3d-42f9-bf56-4c5e0809c0b2",
-          "type": "generic",
+          "type": "quote",
           "date": "1960-09-25",
           "isApprxDate": false,
           "description": "\"The architecture is of the Georgetown, Colorado era, the time of the gold and silver camps. That makes sense today, since we can use the cupolas for air conditioning equipment. And the entire area, landscaped minus signs, is designed to blend like a park into the surrounding community.\" - Gerri Von Frellick",
           "images": [],
           "referencedHostIds": [],
-          "additionalContent": {},
+          "additionalContent": {
+            "attribution": "Gerri Von Frellick"
+          },
           "version": "0.3.0"
         },
         {
@@ -161,13 +163,15 @@
         },
         {
           "id": "85888b13-326c-4cfb-a21e-53788ebf7d37",
-          "type": "generic",
+          "type": "quote",
           "date": "1960-09-25",
           "isApprxDate": false,
           "description": "\"... because three years of surveys shows that's the place a regional shopping center is needed and should be located.\" - Gerri Von Frellick",
           "images": [],
           "referencedHostIds": [],
-          "additionalContent": {},
+          "additionalContent": {
+            "attribution": ""
+          },
           "version": "0.3.0"
         },
         {
@@ -271,13 +275,15 @@
         },
         {
           "id": "a686dd9d-f1f2-4292-8f5b-e90b211cffb5",
-          "type": "article",
+          "type": "quote",
           "date": "1977-12-15",
           "isApprxDate": false,
-          "description": "\"We started this process in 1977, before we were aware of plans for Southwest Plaza\" - Camm Morton, Vice President of Development at Kravco",
+          "description": "\"We started this process in 1977, before we were aware of plans for Southwest Plaza\" - Cam Morton, Vice President of Development at Kravco",
           "images": [],
           "referencedHostIds": [],
-          "additionalContent": {},
+          "additionalContent": {
+            "attribution": ""
+          },
           "version": "0.3.0"
         },
         {
