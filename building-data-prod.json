@@ -320,7 +320,7 @@
           "type": "planning",
           "date": "1981-01-01",
           "isApprxDate": true,
-          "description": "Kravco and Equitable announce plans a $12 million renovation Cinderella City in two phases.",
+          "description": "Kravco and Equitable announce $12 million renovation plans to rejuvenate Cinderella City in two phases.",
           "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
@@ -423,7 +423,7 @@
         },
         {
           "id": "e8a9516e-05b1-4f9a-8ee0-72eb181a2a23",
-          "type": "generic",
+          "type": "statistic",
           "date": "1981-01-01",
           "isApprxDate": true,
           "description": "Generated nearly $3 million in sales tax revenue",
