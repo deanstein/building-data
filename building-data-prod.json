@@ -279,6 +279,17 @@
           "referencedHostIds": [],
           "additionalContent": {},
           "version": "0.3.0"
+        },
+        {
+          "id": "0f1182e8-0f0e-4af4-a38b-de0cae45a3cc",
+          "type": "renovation",
+          "date": "1981-01-01",
+          "isApprxDate": true,
+          "description": "Kravco and Equitable announce plans a $12 million renovation Cinderella City in two phases.",
+          "images": [],
+          "referencedHostIds": [],
+          "additionalContent": {},
+          "version": "0.3.0"
         }
       ],
       "timelineEventReferences": [],
