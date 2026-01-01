@@ -548,6 +548,17 @@
           "referencedHostIds": [],
           "additionalContent": {},
           "version": "0.3.0"
+        },
+        {
+          "id": "f0b88ca9-3902-41cc-b161-807e53d5183d",
+          "type": "renovation",
+          "date": "1983-10-01",
+          "isApprxDate": true,
+          "description": "Renovation and expansion of Villa Italia is scheduled to begin. Its cost is estimated at $31 million, more than double Cinderella City's $12 million investment",
+          "images": [],
+          "referencedHostIds": [],
+          "additionalContent": {},
+          "version": "0.3.0"
         }
       ],
       "timelineEventReferences": [],
