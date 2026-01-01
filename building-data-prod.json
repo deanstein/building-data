@@ -19,7 +19,8 @@
           ],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.3.0"
+          "version": "0.4.0",
+          "source": ""
         },
         {
           "id": "7d346604-9400-4c05-998f-3f1f72dbaa65",
@@ -30,7 +31,8 @@
           "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.3.0"
+          "version": "0.4.0",
+          "source": ""
         },
         {
           "id": "99288ccb-019b-4948-9c66-bc46f232593e",
@@ -43,7 +45,8 @@
           ],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.3.0"
+          "version": "0.4.0",
+          "source": ""
         },
         {
           "id": "57eba2ec-9a5c-4764-9e90-462f0dbb6970",
@@ -57,7 +60,8 @@
           ],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.3.0"
+          "version": "0.4.0",
+          "source": ""
         },
         {
           "id": "627ede2f-f40f-4a38-bdd7-0c2671262f38",
@@ -70,7 +74,8 @@
           ],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.3.0"
+          "version": "0.4.0",
+          "source": ""
         },
         {
           "id": "17e561d6-34a7-45c9-b453-806fd0f0cf33",
@@ -83,7 +88,8 @@
           ],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.3.0"
+          "version": "0.4.0",
+          "source": ""
         },
         {
           "id": "4cd0de13-84a6-43a7-8ae9-727052e83ee9",
@@ -96,7 +102,8 @@
           ],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.3.0"
+          "version": "0.4.0",
+          "source": ""
         },
         {
           "id": "16481e91-075b-4f88-843c-7b9106770ce0",
@@ -109,7 +116,8 @@
           ],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.3.0"
+          "version": "0.4.0",
+          "source": ""
         },
         {
           "id": "8ca6dcb1-ffe4-4ea6-aa53-a3c6560ebbad",
@@ -121,8 +129,11 @@
             "history._1978_12_30_von_frellick"
           ],
           "referencedHostIds": [],
-          "additionalContent": {},
-          "version": "0.3.0"
+          "additionalContent": {
+            "publication": ""
+          },
+          "version": "0.4.0",
+          "source": ""
         },
         {
           "id": "e0743684-eef0-4e92-aa72-fbc97aba5259",
@@ -135,7 +146,8 @@
           ],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.3.0"
+          "version": "0.4.0",
+          "source": ""
         },
         {
           "id": "0b54e83d-3b3d-42f9-bf56-4c5e0809c0b2",
@@ -148,7 +160,8 @@
           "additionalContent": {
             "attribution": "Gerri Von Frellick"
           },
-          "version": "0.3.0"
+          "version": "0.4.0",
+          "source": ""
         },
         {
           "id": "9fd876f4-1444-455a-a434-ea2a03b2d4cb",
@@ -159,7 +172,8 @@
           "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.3.0"
+          "version": "0.4.0",
+          "source": ""
         },
         {
           "id": "85888b13-326c-4cfb-a21e-53788ebf7d37",
@@ -172,7 +186,8 @@
           "additionalContent": {
             "attribution": "Gerri Von Frellick"
           },
-          "version": "0.3.0"
+          "version": "0.4.0",
+          "source": ""
         },
         {
           "id": "10f4da9a-50d2-4178-a411-ef812c9acfbc",
@@ -183,7 +198,8 @@
           "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.3.0"
+          "version": "0.4.0",
+          "source": ""
         },
         {
           "id": "f7764948-7d00-4c6c-84d1-e3d410c8cc03",
@@ -194,7 +210,8 @@
           "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.3.0"
+          "version": "0.4.0",
+          "source": ""
         },
         {
           "id": "848ea9ba-9a93-4320-a5cc-5df9b64d3a9f",
@@ -205,7 +222,8 @@
           "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.3.0"
+          "version": "0.4.0",
+          "source": ""
         },
         {
           "id": "1ed5f003-96f5-4502-9560-02391be03d8d",
@@ -215,8 +233,11 @@
           "description": "4 tenants remain at Cinderella City",
           "images": [],
           "referencedHostIds": [],
-          "additionalContent": {},
-          "version": "0.3.0"
+          "additionalContent": {
+            "publication": ""
+          },
+          "version": "0.4.0",
+          "source": ""
         },
         {
           "id": "7fc24149-9a15-4a4e-89a4-36b987f0330f",
@@ -227,7 +248,8 @@
           "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.3.0"
+          "version": "0.4.0",
+          "source": ""
         },
         {
           "id": "e819df00-bd57-4be1-a8d8-ac491cf13dfc",
@@ -238,7 +260,8 @@
           "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.3.0"
+          "version": "0.4.0",
+          "source": ""
         },
         {
           "id": "96c59da8-1579-468a-b37a-adb74cb10a6e",
@@ -248,8 +271,11 @@
           "description": "\"It needed an uplift phyiscally, mentally, and morally\" - Early Reynolds, Cinderella City Generam Manager",
           "images": [],
           "referencedHostIds": [],
-          "additionalContent": {},
-          "version": "0.3.0"
+          "additionalContent": {
+            "publication": ""
+          },
+          "version": "0.4.0",
+          "source": ""
         },
         {
           "id": "989bce48-ed64-4fbc-9061-8462226cf1d8",
@@ -260,7 +286,8 @@
           "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.3.0"
+          "version": "0.4.0",
+          "source": ""
         },
         {
           "id": "0ec2292e-75e6-4e44-86a5-44f36f8732e2",
@@ -271,7 +298,8 @@
           "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.3.0"
+          "version": "0.4.0",
+          "source": ""
         },
         {
           "id": "a686dd9d-f1f2-4292-8f5b-e90b211cffb5",
@@ -284,7 +312,8 @@
           "additionalContent": {
             "attribution": "Cam Morton, Vice President of Development at Kravco"
           },
-          "version": "0.3.0"
+          "version": "0.4.0",
+          "source": ""
         },
         {
           "id": "0f1182e8-0f0e-4af4-a38b-de0cae45a3cc",
@@ -295,7 +324,8 @@
           "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.3.0"
+          "version": "0.4.0",
+          "source": ""
         },
         {
           "id": "c7891ca2-4092-472e-9a4d-471b138d0585",
@@ -305,8 +335,11 @@
           "description": "Queen of malls bids to regain crown",
           "images": [],
           "referencedHostIds": [],
-          "additionalContent": {},
-          "version": "0.3.0"
+          "additionalContent": {
+            "publication": ""
+          },
+          "version": "0.4.0",
+          "source": ""
         },
         {
           "id": "b3e574b2-a93a-49c6-baaa-7ea826d22552",
@@ -317,7 +350,8 @@
           "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.3.0"
+          "version": "0.4.0",
+          "source": ""
         },
         {
           "id": "c9b6b253-8212-4c20-a12f-0793bd700f1e",
@@ -327,8 +361,11 @@
           "description": "Cinderella City renovation lifts Englewood",
           "images": [],
           "referencedHostIds": [],
-          "additionalContent": {},
-          "version": "0.3.0"
+          "additionalContent": {
+            "publication": ""
+          },
+          "version": "0.4.0",
+          "source": ""
         },
         {
           "id": "d2c90d68-b120-4c82-81b8-13ccfdcf4062",
@@ -338,8 +375,11 @@
           "description": "Cinderella City now a stepsister",
           "images": [],
           "referencedHostIds": [],
-          "additionalContent": {},
-          "version": "0.3.0"
+          "additionalContent": {
+            "publication": ""
+          },
+          "version": "0.4.0",
+          "source": ""
         },
         {
           "id": "cc961945-39c3-40df-b3d1-5a59c66f6062",
@@ -349,8 +389,11 @@
           "description": "Forlorn Cinderella City slumbers",
           "images": [],
           "referencedHostIds": [],
-          "additionalContent": {},
-          "version": "0.3.0"
+          "additionalContent": {
+            "publication": ""
+          },
+          "version": "0.4.0",
+          "source": ""
         },
         {
           "id": "c58e72fc-e46f-48ca-8c81-afd053041401",
@@ -360,19 +403,23 @@
           "description": "Englewood to put Cinderella City up for sale",
           "images": [],
           "referencedHostIds": [],
-          "additionalContent": {},
-          "version": "0.3.0"
+          "additionalContent": {
+            "publication": ""
+          },
+          "version": "0.4.0",
+          "source": ""
         },
         {
           "id": "f9c53af4-f0d3-4a3d-995f-9ed3f0293346",
-          "type": "generic",
+          "type": "statistic",
           "date": "1993-02-01",
           "isApprxDate": true,
           "description": "Mall hits 50% vacancy rate",
           "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.3.0"
+          "version": "0.4.0",
+          "source": ""
         },
         {
           "id": "e8a9516e-05b1-4f9a-8ee0-72eb181a2a23",
@@ -383,18 +430,20 @@
           "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.3.0"
+          "version": "0.4.0",
+          "source": ""
         },
         {
           "id": "c37208a9-8cb2-4498-8752-8d69a651ac02",
-          "type": "generic",
+          "type": "statistic",
           "date": "1991-01-01",
           "isApprxDate": false,
           "description": "Generated $2.2 million in sales tax revenue",
           "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.3.0"
+          "version": "0.4.0",
+          "source": ""
         },
         {
           "id": "9f0ba542-872d-494a-9cc7-ef4ad545ca6a",
@@ -405,7 +454,8 @@
           "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.3.0"
+          "version": "0.4.0",
+          "source": ""
         },
         {
           "id": "bf603ece-be04-4cdc-b470-8e8800a01ee1",
@@ -416,7 +466,8 @@
           "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.3.0"
+          "version": "0.4.0",
+          "source": ""
         },
         {
           "id": "e0087f4c-8b11-46e8-93df-486b11e7575e",
@@ -427,18 +478,20 @@
           "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.3.0"
+          "version": "0.4.0",
+          "source": ""
         },
         {
           "id": "89039f83-9f2d-4af0-8e1c-1b6eb031a84a",
-          "type": "generic",
+          "type": "statistic",
           "date": "1994-03-12",
           "isApprxDate": false,
           "description": "35 stores remain operating",
           "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.3.0"
+          "version": "0.4.0",
+          "source": ""
         },
         {
           "id": "9b7b1815-b713-4ac8-abff-2f2a6d6975b3",
@@ -449,7 +502,8 @@
           "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.3.0"
+          "version": "0.4.0",
+          "source": ""
         },
         {
           "id": "26283239-7ebe-42f3-b918-91619d893e65",
@@ -460,7 +514,8 @@
           "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.3.0"
+          "version": "0.4.0",
+          "source": ""
         },
         {
           "id": "7441fd1b-6ad2-479d-9b4b-57bf46b25eb3",
@@ -471,7 +526,8 @@
           "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.3.0"
+          "version": "0.4.0",
+          "source": ""
         },
         {
           "id": "d3fb377f-fe43-48be-a86c-256ef56abcd3",
@@ -481,8 +537,11 @@
           "description": "End near for Cinderella City - Joslins will pull out next year",
           "images": [],
           "referencedHostIds": [],
-          "additionalContent": {},
-          "version": "0.3.0"
+          "additionalContent": {
+            "publication": ""
+          },
+          "version": "0.4.0",
+          "source": ""
         },
         {
           "id": "224c8a2e-662b-42b3-8e02-848ca641fda0",
@@ -493,18 +552,20 @@
           "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.3.0"
+          "version": "0.4.0",
+          "source": ""
         },
         {
           "id": "0cefa8af-eef8-4e00-8fa3-43f51b091593",
-          "type": "generic",
+          "type": "statistic",
           "date": "1995-12-10",
           "isApprxDate": false,
           "description": "Only Montgomery Ward, Lenscrafters, and Village Inn remain",
           "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.3.0"
+          "version": "0.4.0",
+          "source": ""
         },
         {
           "id": "a747eb70-9328-44ff-acb3-a811b3b660a1",
@@ -514,8 +575,11 @@
           "description": "Mall site enters next phase",
           "images": [],
           "referencedHostIds": [],
-          "additionalContent": {},
-          "version": "0.3.0"
+          "additionalContent": {
+            "publication": ""
+          },
+          "version": "0.4.0",
+          "source": ""
         }
       ],
       "timelineEventReferences": [],
