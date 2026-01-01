@@ -736,6 +736,66 @@
           "source": "",
           "additionalContent": {},
           "version": "0.4.0"
+        },
+        {
+          "id": "f601142e-38de-4164-9969-c3a66cc6faf2",
+          "type": "storeOpened",
+          "date": "1968-07-25",
+          "isApprxDate": false,
+          "description": "Second Grand Opening - 35 new stores opened for business, bringing the number to 141.",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "",
+          "additionalContent": {},
+          "version": "0.4.0"
+        },
+        {
+          "id": "55ce7323-5339-4af0-bc19-cde8c3fabef9",
+          "type": "statistic",
+          "date": "1970-01-01",
+          "isApprxDate": true,
+          "description": "Cinderella City has 213 tenants and an average of 31,000 visitors and 14,000 cars daily",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "",
+          "additionalContent": {},
+          "version": "0.4.0"
+        },
+        {
+          "id": "86919ce3-8059-47d8-8680-b43422c33521",
+          "type": "statistic",
+          "date": "1971-10-01",
+          "isApprxDate": false,
+          "description": "Cinderella City had 207 retail outlets, law and medical offices, accountants, investment counselors, beauty salons, barber shops, an Englewood High School City Campus, employment agencies, insurance companies, an advising agency, a radio station, oil company offices, a computer center, and purchasing offices of Martin Marieteta Company.",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "",
+          "additionalContent": {},
+          "version": "0.4.0"
+        },
+        {
+          "id": "b4f8d217-053d-48d1-9969-3a1c8df74a4b",
+          "type": "storeOpened",
+          "date": "1969-09-01",
+          "isApprxDate": true,
+          "description": "Von Frellick and Englewood Schools administrator Don Harper opened the City Campus at Cinderella City - a branch of Englewood High School in Cinderella City's mezzanine level",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "",
+          "additionalContent": {},
+          "version": "0.4.0"
+        },
+        {
+          "id": "03fc81cc-0cdf-4fca-8e6c-b893fce820ea",
+          "type": "statistic",
+          "date": "1970-05-01",
+          "isApprxDate": true,
+          "description": "310 students enrolled in the City Campus programs.",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "",
+          "additionalContent": {},
+          "version": "0.4.0"
         }
       ],
       "timelineEventReferences": [],
