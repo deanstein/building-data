@@ -664,6 +664,78 @@
           "source": "",
           "additionalContent": {},
           "version": "0.4.0"
+        },
+        {
+          "id": "125a169e-0cbc-4bf5-87f0-4fa0bf6793d9",
+          "type": "generic",
+          "date": "1961-06-20",
+          "isApprxDate": false,
+          "description": "Englewood City Commission unanimously voted to annex the Hampden and Franklin site for commercial development amid jeers and loud protests.",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "",
+          "additionalContent": {},
+          "version": "0.4.0"
+        },
+        {
+          "id": "e9805eac-300e-4df2-8bae-bdc44cb3f93e",
+          "type": "generic",
+          "date": "1962-04-01",
+          "isApprxDate": true,
+          "description": "Arapahoe County judge Robert B. Lee ruled that the annexation and zoning of the Cinderella City land in a single action violated Englewood's city charter.",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "",
+          "additionalContent": {},
+          "version": "0.4.0"
+        },
+        {
+          "id": "343f02b4-612b-4437-badb-71dd14ed243c",
+          "type": "generic",
+          "date": "1962-11-01",
+          "isApprxDate": true,
+          "description": "Englewood City Council passes the zoning change for the Hampden and Franklin property. However, the city attorney determined that a 3/4 vote was necessary because more than 20% of the residents had petitioned against the project.",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "",
+          "additionalContent": {},
+          "version": "0.4.0"
+        },
+        {
+          "id": "7f54f206-8818-4838-9135-cdfd375ccf9a",
+          "type": "generic",
+          "date": "1962-11-07",
+          "isApprxDate": false,
+          "description": "Englewood businessmen, led by Don Carney, president of the FIrst National Bank of Englewood, suggested Englewood City Park as a logical alternative location, noting that the sale of the park would allow the city to develop smaller and safer parks throughout the city.",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "",
+          "additionalContent": {},
+          "version": "0.4.0"
+        },
+        {
+          "id": "a0f06ded-3ba0-4bdd-89dc-cad74167f4c4",
+          "type": "generic",
+          "date": "1963-02-01",
+          "isApprxDate": true,
+          "description": "Von Frellick accepts Englewood's offer to build on the City Park property.",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "",
+          "additionalContent": {},
+          "version": "0.4.0"
+        },
+        {
+          "id": "5739843c-7886-4f47-bd0f-d2b8fccfa08d",
+          "type": "renovation",
+          "date": "1966-03-30",
+          "isApprxDate": false,
+          "description": "Groundbreaking for New Englewood Shopping Center - a name that Von Frellick later lengthened to \"New Englewood the Cinderella City.\"",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "",
+          "additionalContent": {},
+          "version": "0.4.0"
         }
       ],
       "timelineEventReferences": [],
