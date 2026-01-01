@@ -116,7 +116,7 @@
           "type": "article",
           "date": "1978-12-30",
           "isApprxDate": false,
-          "description": "Gerri Von Frellick sells Cinderella City to KRAVCO Real Estate Holdings.",
+          "description": "Von Frellick's Cinderella City interest sold for $35 million",
           "images": [
             "history._1978_12_30_von_frellick"
           ],
@@ -219,7 +219,7 @@
           "type": "ownershipChanged",
           "date": "1980-01-01",
           "isApprxDate": true,
-          "description": "Cinderella City is purchased by Equitable Life Assurance Society of the United States and KRAVCO as a joint venture",
+          "description": "Cinderella City is purchased by Equitable Life Assurance Society of the United States and KRAVCO as a joint venture called Capital Alliance Companies",
           "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
@@ -253,6 +253,28 @@
           "date": "1984-03-01",
           "isApprxDate": false,
           "description": "Phase III of the renovation begins: Demolition of the Neusteters to make room for Broadway Southwest. The cost is nearly the total of the first two phases.",
+          "images": [],
+          "referencedHostIds": [],
+          "additionalContent": {},
+          "version": "0.3.0"
+        },
+        {
+          "id": "0ec2292e-75e6-4e44-86a5-44f36f8732e2",
+          "type": "generic",
+          "date": "1977-12-01",
+          "isApprxDate": true,
+          "description": "Kravco, 25% owner of Cinderella City, begins working with Equitable Life Assurance Society on a potential purchase and renovation plan for Cinderella City.",
+          "images": [],
+          "referencedHostIds": [],
+          "additionalContent": {},
+          "version": "0.3.0"
+        },
+        {
+          "id": "a686dd9d-f1f2-4292-8f5b-e90b211cffb5",
+          "type": "article",
+          "date": "1977-12-15",
+          "isApprxDate": false,
+          "description": "\"We started this process in 1977, before we were aware of plans for Southwest Plaza\" - Camm Morton, Vice President of Development at Kravco",
           "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
