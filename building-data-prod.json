@@ -213,6 +213,28 @@
           "referencedHostIds": [],
           "additionalContent": {},
           "version": "0.3.0"
+        },
+        {
+          "id": "7fc24149-9a15-4a4e-89a4-36b987f0330f",
+          "type": "ownershipChanged",
+          "date": "1980-01-01",
+          "isApprxDate": true,
+          "description": "Cinderella City is purchased by Equitable Life Assurance Society of the United States and KRAVCO as a joint venture",
+          "images": [],
+          "referencedHostIds": [],
+          "additionalContent": {},
+          "version": "0.3.0"
+        },
+        {
+          "id": "e819df00-bd57-4be1-a8d8-ac491cf13dfc",
+          "type": "renovation",
+          "date": "1983-05-01",
+          "isApprxDate": true,
+          "description": "Phase I and Phase II of the renovation are complete",
+          "images": [],
+          "referencedHostIds": [],
+          "additionalContent": {},
+          "version": "0.3.0"
         }
       ],
       "timelineEventReferences": [],
