@@ -499,6 +499,17 @@
           "referencedHostIds": [],
           "additionalContent": {},
           "version": "0.3.0"
+        },
+        {
+          "id": "a747eb70-9328-44ff-acb3-a811b3b660a1",
+          "type": "article",
+          "date": "1996-02-01",
+          "isApprxDate": false,
+          "description": "Mall site enters next phase",
+          "images": [],
+          "referencedHostIds": [],
+          "additionalContent": {},
+          "version": "0.3.0"
         }
       ],
       "timelineEventReferences": [],
