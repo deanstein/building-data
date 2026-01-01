@@ -323,6 +323,39 @@
           "referencedHostIds": [],
           "additionalContent": {},
           "version": "0.3.0"
+        },
+        {
+          "id": "d2c90d68-b120-4c82-81b8-13ccfdcf4062",
+          "type": "article",
+          "date": "1991-12-06",
+          "isApprxDate": false,
+          "description": "Cinderella City now a stepsister",
+          "images": [],
+          "referencedHostIds": [],
+          "additionalContent": {},
+          "version": "0.3.0"
+        },
+        {
+          "id": "cc961945-39c3-40df-b3d1-5a59c66f6062",
+          "type": "article",
+          "date": "1994-03-22",
+          "isApprxDate": false,
+          "description": "Forlorn Cinderella City slumbers",
+          "images": [],
+          "referencedHostIds": [],
+          "additionalContent": {},
+          "version": "0.3.0"
+        },
+        {
+          "id": "c58e72fc-e46f-48ca-8c81-afd053041401",
+          "type": "article",
+          "date": "1993-02-15",
+          "isApprxDate": false,
+          "description": "Englewood to put Cinderella City up for sale",
+          "images": [],
+          "referencedHostIds": [],
+          "additionalContent": {},
+          "version": "0.3.0"
         }
       ],
       "timelineEventReferences": [],
