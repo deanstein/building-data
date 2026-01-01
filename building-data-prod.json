@@ -356,6 +356,50 @@
           "referencedHostIds": [],
           "additionalContent": {},
           "version": "0.3.0"
+        },
+        {
+          "id": "f9c53af4-f0d3-4a3d-995f-9ed3f0293346",
+          "type": "generic",
+          "date": "1993-02-01",
+          "isApprxDate": true,
+          "description": "Mall hits ~50% vacancy rate",
+          "images": [],
+          "referencedHostIds": [],
+          "additionalContent": {},
+          "version": "0.3.0"
+        },
+        {
+          "id": "e8a9516e-05b1-4f9a-8ee0-72eb181a2a23",
+          "type": "generic",
+          "date": "1981-01-01",
+          "isApprxDate": true,
+          "description": "Generated nearly $3 million in sales tax revenue",
+          "images": [],
+          "referencedHostIds": [],
+          "additionalContent": {},
+          "version": "0.3.0"
+        },
+        {
+          "id": "c37208a9-8cb2-4498-8752-8d69a651ac02",
+          "type": "generic",
+          "date": "1991-01-01",
+          "isApprxDate": false,
+          "description": "Generated $2.2 million in sales tax revenue",
+          "images": [],
+          "referencedHostIds": [],
+          "additionalContent": {},
+          "version": "0.3.0"
+        },
+        {
+          "id": "9f0ba542-872d-494a-9cc7-ef4ad545ca6a",
+          "type": "generic",
+          "date": "1992-01-01",
+          "isApprxDate": false,
+          "description": "Generated $1.85 million in sales tax revenue; about 12% of Englewood's total sales tax revenue",
+          "images": [],
+          "referencedHostIds": [],
+          "additionalContent": {},
+          "version": "0.3.0"
         }
       ],
       "timelineEventReferences": [],
