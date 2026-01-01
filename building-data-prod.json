@@ -640,6 +640,18 @@
           "source": "",
           "additionalContent": {},
           "version": "0.4.0"
+        },
+        {
+          "id": "333e97bf-4ed6-4dee-87b7-e82c7d9d9d92",
+          "type": "ownershipChanged",
+          "date": "1997-04-05",
+          "isApprxDate": false,
+          "description": "Equitable agrees to transfer the Cinderella City property to the City of Englewood. It also agrees to spend $1.2 million in environmental cleanup. The City would then buy the Joslins building from Mercantile.",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "",
+          "additionalContent": {},
+          "version": "0.4.0"
         }
       ],
       "timelineEventReferences": [],
