@@ -290,6 +290,39 @@
           "referencedHostIds": [],
           "additionalContent": {},
           "version": "0.3.0"
+        },
+        {
+          "id": "c7891ca2-4092-472e-9a4d-471b138d0585",
+          "type": "article",
+          "date": "1984-07-18",
+          "isApprxDate": false,
+          "description": "Queen of malls bids to regain crown",
+          "images": [],
+          "referencedHostIds": [],
+          "additionalContent": {},
+          "version": "0.3.0"
+        },
+        {
+          "id": "b3e574b2-a93a-49c6-baaa-7ea826d22552",
+          "type": "article",
+          "date": "1982-01-01",
+          "isApprxDate": true,
+          "description": "Work begins on Phase I of the Cinderella City renovation: Improvements to Rose and Shamrock Malls",
+          "images": [],
+          "referencedHostIds": [],
+          "additionalContent": {},
+          "version": "0.3.0"
+        },
+        {
+          "id": "c9b6b253-8212-4c20-a12f-0793bd700f1e",
+          "type": "article",
+          "date": "1984-08-08",
+          "isApprxDate": false,
+          "description": "Cinderella City renovation lifts Englewood",
+          "images": [],
+          "referencedHostIds": [],
+          "additionalContent": {},
+          "version": "0.3.0"
         }
       ],
       "timelineEventReferences": [],
