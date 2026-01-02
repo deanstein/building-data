@@ -846,6 +846,32 @@
           "source": "Greeley Daily Tribune - January 26, 1973",
           "additionalContent": {},
           "version": "0.5.0"
+        },
+        {
+          "id": "81626a55-0848-4ef8-bf4a-165dba4c9545",
+          "type": "renovation",
+          "date": "1972-12-01",
+          "isApprxDate": false,
+          "description": "A routine inspection revealed concrete flaking from a pillar corbel, and a person who had been involved in the construction of the mall said the J.C. Penney store would be a good place to look for similar problems.",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "cc-historical-narrative",
+          "additionalContent": {},
+          "version": "0.5.0"
+        },
+        {
+          "id": "789b428e-4773-46d1-96ef-11715b96f390",
+          "type": "quote",
+          "date": "1973-01-26",
+          "isApprxDate": false,
+          "description": "\"There was never any precarious situation or any dange out there that I'm aware of.\" - Gerri Von Frellick",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "cc-historical-narrative",
+          "additionalContent": {
+            "attribution": "Gerri Von Frellick"
+          },
+          "version": "0.5.0"
         }
       ],
       "timelineEventReferences": [],
