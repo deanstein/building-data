@@ -1042,7 +1042,8 @@
           "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.3.0"
+          "version": "0.5.0",
+          "source": ""
         },
         {
           "id": "305f4bd5-e799-4659-a7fa-becfc66f5a49",
@@ -1053,7 +1054,8 @@
           "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.3.0"
+          "version": "0.5.0",
+          "source": ""
         },
         {
           "id": "22372630-b1d1-478c-9bd2-8dd400a9e926",
@@ -1064,7 +1066,8 @@
           "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.3.0"
+          "version": "0.5.0",
+          "source": "Englewood Sentinel - October 3, 1984"
         },
         {
           "id": "f0b88ca9-3902-41cc-b161-807e53d5183d",
@@ -1075,12 +1078,13 @@
           "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.3.0"
+          "version": "0.5.0",
+          "source": ""
         }
       ],
       "timelineEventReferences": [],
       "contextualEvents": [],
-      "version": "0.3.0"
+      "version": "0.5.0"
     }
   ]
 }
