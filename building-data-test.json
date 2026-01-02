@@ -7,7 +7,7 @@
       "timelineEvents": [
         {
           "id": "c13ce629-065f-4cd9-b280-26faf509f755",
-          "type": "storeOpened",
+          "type": "opening",
           "date": "1968-03-07",
           "isApprxDate": false,
           "description": "Cinderella City opens for business",
@@ -48,7 +48,7 @@
         },
         {
           "id": "e62ecffb-943d-4c3d-9533-3d50a71654b3",
-          "type": "storeClosed",
+          "type": "closure",
           "date": "1997-12-31",
           "isApprxDate": false,
           "description": "Cinderella City closes to the public when the last remaining tenant, Montgomery Ward, vacates its store.",

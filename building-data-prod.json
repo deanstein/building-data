@@ -9,7 +9,7 @@
       "timelineEvents": [
         {
           "id": "6d1fe5b3-988a-47e0-8765-57ff563db0f9",
-          "type": "storeOpened",
+          "type": "opening",
           "date": "1968-03-07",
           "isApprxDate": false,
           "description": "Cinderella City opens for business",
@@ -24,7 +24,7 @@
         },
         {
           "id": "7d346604-9400-4c05-998f-3f1f72dbaa65",
-          "type": "storeClosed",
+          "type": "closure",
           "date": "1997-12-31",
           "isApprxDate": false,
           "description": "Montgomery Ward closes its store, effectively closing Cinderella City.",
@@ -203,7 +203,7 @@
         },
         {
           "id": "f7764948-7d00-4c6c-84d1-e3d410c8cc03",
-          "type": "storeOpened",
+          "type": "opening",
           "date": "1987-11-05",
           "isApprxDate": false,
           "description": "Montgomery Ward opens at Cinderella City in the former Denver Dry Goods building",
@@ -241,7 +241,7 @@
         },
         {
           "id": "7fc24149-9a15-4a4e-89a4-36b987f0330f",
-          "type": "ownershipChanged",
+          "type": "ownershipChange",
           "date": "1980-01-01",
           "isApprxDate": true,
           "description": "Cinderella City is purchased by Equitable Life Assurance Society of the United States and KRAVCO as a joint venture called Capital Alliance Companies",
@@ -459,7 +459,7 @@
         },
         {
           "id": "bf603ece-be04-4cdc-b470-8e8800a01ee1",
-          "type": "storeClosed",
+          "type": "closure",
           "date": "1994-01-29",
           "isApprxDate": false,
           "description": "Foley's closes its Cinderella City store",
@@ -471,7 +471,7 @@
         },
         {
           "id": "e0087f4c-8b11-46e8-93df-486b11e7575e",
-          "type": "storeClosed",
+          "type": "closure",
           "date": "1994-05-28",
           "isApprxDate": false,
           "description": "JC Penney closes its Cinderella City store",
@@ -519,7 +519,7 @@
         },
         {
           "id": "7441fd1b-6ad2-479d-9b4b-57bf46b25eb3",
-          "type": "storeClosed",
+          "type": "closure",
           "date": "1995-02-01",
           "isApprxDate": true,
           "description": "Joslins closes its Cinderella City store",
@@ -545,7 +545,7 @@
         },
         {
           "id": "224c8a2e-662b-42b3-8e02-848ca641fda0",
-          "type": "storeClosed",
+          "type": "closure",
           "date": "1994-09-10",
           "isApprxDate": false,
           "description": "Wells Music closes its Cinderella City store and reopens the same day at 685 S. Broadway",
@@ -643,7 +643,7 @@
         },
         {
           "id": "333e97bf-4ed6-4dee-87b7-e82c7d9d9d92",
-          "type": "ownershipChanged",
+          "type": "ownershipChange",
           "date": "1997-04-05",
           "isApprxDate": false,
           "description": "Equitable agrees to transfer the Cinderella City property to the City of Englewood. It also agrees to spend $1.2 million in environmental cleanup. The City would then buy the Joslins building from Mercantile.",
@@ -655,7 +655,7 @@
         },
         {
           "id": "b16e7c30-8c4f-47e2-a50a-ba252331bd54",
-          "type": "storeClosed",
+          "type": "closure",
           "date": "1997-07-07",
           "isApprxDate": false,
           "description": "Montgomery Ward files for Chapter 11 bankruptcy.",
@@ -739,7 +739,7 @@
         },
         {
           "id": "f601142e-38de-4164-9969-c3a66cc6faf2",
-          "type": "storeOpened",
+          "type": "opening",
           "date": "1968-07-25",
           "isApprxDate": false,
           "description": "Second Grand Opening - 35 new stores opened for business, bringing the number to 141.",
@@ -775,7 +775,7 @@
         },
         {
           "id": "b4f8d217-053d-48d1-9969-3a1c8df74a4b",
-          "type": "storeOpened",
+          "type": "opening",
           "date": "1969-09-01",
           "isApprxDate": true,
           "description": "Von Frellick and Englewood Schools administrator Don Harper opened the City Campus at Cinderella City - a branch of Englewood High School in Cinderella City's mezzanine level",
@@ -813,7 +813,7 @@
       "timelineEvents": [
         {
           "id": "7904b88c-f156-462c-9229-bf021ee0885d",
-          "type": "storeOpened",
+          "type": "opening",
           "date": "1956-08-31",
           "isApprxDate": false,
           "description": "Lakeside Shopping Center opens to the public.",
@@ -824,7 +824,7 @@
         },
         {
           "id": "10f1e6f4-9404-4ef6-90ad-8b7c0e6a55eb",
-          "type": "storeClosed",
+          "type": "closure",
           "date": "2004-01-01",
           "isApprxDate": true,
           "description": "Lakeside Center closes to the public.",
@@ -1035,7 +1035,7 @@
       "timelineEvents": [
         {
           "id": "08722251-32eb-4e16-a4b2-62e33b562035",
-          "type": "storeOpened",
+          "type": "opening",
           "date": "1966-03-07",
           "isApprxDate": false,
           "description": "Villa Italia opens to the public.",
@@ -1046,7 +1046,7 @@
         },
         {
           "id": "305f4bd5-e799-4659-a7fa-becfc66f5a49",
-          "type": "storeClosed",
+          "type": "closure",
           "date": "2001-07-01",
           "isApprxDate": false,
           "description": "Villa Italia closes to the public.",
