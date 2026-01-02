@@ -822,6 +822,30 @@
             "attribution": "David Cord, senior investment broker"
           },
           "version": "0.5.0"
+        },
+        {
+          "id": "2f1d9f6d-c2c5-4d41-b2f4-0d8e2fdadb6a",
+          "type": "planning",
+          "date": "1969-06-19",
+          "isApprxDate": false,
+          "description": "Feasibility study under way for hotel at Cinderella City",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "Rocky Mountain News - June 19, 1969",
+          "additionalContent": {},
+          "version": "0.5.0"
+        },
+        {
+          "id": "242d85ea-da6b-4064-8e99-afe32e2e4b35",
+          "type": "renovation",
+          "date": "1973-01-26",
+          "isApprxDate": true,
+          "description": "Structural problems at Cinderella City become publicly acknowledged",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "Greeley Daily Tribune - January 26, 1973",
+          "additionalContent": {},
+          "version": "0.5.0"
         }
       ],
       "timelineEventReferences": [],
