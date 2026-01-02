@@ -20,7 +20,7 @@
           "referencedHostIds": [],
           "additionalContent": {},
           "version": "0.5.0",
-          "source": "cc-historical-narrative"
+          "source": ""
         },
         {
           "id": "7d346604-9400-4c05-998f-3f1f72dbaa65",
@@ -161,7 +161,7 @@
             "attribution": "Gerri Von Frellick"
           },
           "version": "0.5.0",
-          "source": ""
+          "source": "cc-historical-narrative"
         },
         {
           "id": "9fd876f4-1444-455a-a434-ea2a03b2d4cb",
@@ -173,7 +173,7 @@
           "referencedHostIds": [],
           "additionalContent": {},
           "version": "0.5.0",
-          "source": ""
+          "source": "cc-historical-narrative"
         },
         {
           "id": "85888b13-326c-4cfb-a21e-53788ebf7d37",
@@ -187,7 +187,7 @@
             "attribution": "Gerri Von Frellick"
           },
           "version": "0.5.0",
-          "source": ""
+          "source": "cc-historical-narrative"
         },
         {
           "id": "10f4da9a-50d2-4178-a411-ef812c9acfbc",
@@ -673,7 +673,7 @@
           "description": "Englewood City Commission unanimously voted to annex the Hampden and Franklin site for commercial development amid jeers and loud protests.",
           "images": [],
           "referencedHostIds": [],
-          "source": "",
+          "source": "cc-historical-narrative",
           "additionalContent": {},
           "version": "0.5.0"
         },
@@ -685,7 +685,7 @@
           "description": "Arapahoe County judge Robert B. Lee ruled that the annexation and zoning of the Cinderella City land in a single action violated Englewood's city charter.",
           "images": [],
           "referencedHostIds": [],
-          "source": "",
+          "source": "cc-historical-narrative",
           "additionalContent": {},
           "version": "0.5.0"
         },
@@ -697,7 +697,7 @@
           "description": "Englewood City Council passes the zoning change for the Hampden and Franklin property. However, the city attorney determined that a 3/4 vote was necessary because more than 20% of the residents had petitioned against the project.",
           "images": [],
           "referencedHostIds": [],
-          "source": "",
+          "source": "cc-historical-narrative",
           "additionalContent": {},
           "version": "0.5.0"
         },
@@ -709,7 +709,7 @@
           "description": "Englewood businessmen, led by Don Carney, president of the FIrst National Bank of Englewood, suggested Englewood City Park as a logical alternative location, noting that the sale of the park would allow the city to develop smaller and safer parks throughout the city.",
           "images": [],
           "referencedHostIds": [],
-          "source": "",
+          "source": "cc-historical-narrative",
           "additionalContent": {},
           "version": "0.5.0"
         },
@@ -733,7 +733,7 @@
           "description": "Groundbreaking for New Englewood Shopping Center - a name that Von Frellick later lengthened to \"New Englewood the Cinderella City.\"",
           "images": [],
           "referencedHostIds": [],
-          "source": "",
+          "source": "cc-historical-narrative",
           "additionalContent": {},
           "version": "0.5.0"
         },
@@ -745,7 +745,7 @@
           "description": "Second Grand Opening - 35 new stores opened for business, bringing the number to 141.",
           "images": [],
           "referencedHostIds": [],
-          "source": "",
+          "source": "cc-historical-narrative",
           "additionalContent": {},
           "version": "0.5.0"
         },
@@ -757,7 +757,7 @@
           "description": "Cinderella City has 213 tenants and an average of 31,000 visitors and 14,000 cars daily",
           "images": [],
           "referencedHostIds": [],
-          "source": "",
+          "source": "cc-historical-narrative",
           "additionalContent": {},
           "version": "0.5.0"
         },
@@ -781,7 +781,7 @@
           "description": "Von Frellick and Englewood Schools administrator Don Harper opened the City Campus at Cinderella City - a branch of Englewood High School in Cinderella City's mezzanine level",
           "images": [],
           "referencedHostIds": [],
-          "source": "",
+          "source": "cc-historical-narrative",
           "additionalContent": {},
           "version": "0.5.0"
         },
@@ -793,7 +793,7 @@
           "description": "310 students enrolled in the City Campus programs.",
           "images": [],
           "referencedHostIds": [],
-          "source": "",
+          "source": "cc-historical-narrative",
           "additionalContent": {},
           "version": "0.5.0"
         }
