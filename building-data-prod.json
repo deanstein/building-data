@@ -211,7 +211,7 @@
           "referencedHostIds": [],
           "additionalContent": {},
           "version": "0.5.0",
-          "source": ""
+          "source": "Englewood Sentinel - November 4, 1987"
         },
         {
           "id": "848ea9ba-9a93-4320-a5cc-5df9b64d3a9f",
@@ -419,7 +419,7 @@
           "referencedHostIds": [],
           "additionalContent": {},
           "version": "0.5.0",
-          "source": ""
+          "source": "Rocky Mountain News - February 15, 1993"
         },
         {
           "id": "e8a9516e-05b1-4f9a-8ee0-72eb181a2a23",
@@ -431,7 +431,7 @@
           "referencedHostIds": [],
           "additionalContent": {},
           "version": "0.5.0",
-          "source": ""
+          "source": "Rocky Mountain News - February 15, 1993"
         },
         {
           "id": "c37208a9-8cb2-4498-8752-8d69a651ac02",
@@ -443,7 +443,7 @@
           "referencedHostIds": [],
           "additionalContent": {},
           "version": "0.5.0",
-          "source": ""
+          "source": "Rocky Mountain News - February 15, 1993"
         },
         {
           "id": "9f0ba542-872d-494a-9cc7-ef4ad545ca6a",
@@ -455,7 +455,7 @@
           "referencedHostIds": [],
           "additionalContent": {},
           "version": "0.5.0",
-          "source": ""
+          "source": "Rocky Mountain News - February 15, 1993"
         },
         {
           "id": "bf603ece-be04-4cdc-b470-8e8800a01ee1",
@@ -527,7 +527,7 @@
           "referencedHostIds": [],
           "additionalContent": {},
           "version": "0.5.0",
-          "source": ""
+          "source": "Denver Post - August 19, 1994"
         },
         {
           "id": "d3fb377f-fe43-48be-a86c-256ef56abcd3",
@@ -553,7 +553,7 @@
           "referencedHostIds": [],
           "additionalContent": {},
           "version": "0.5.0",
-          "source": ""
+          "source": "Rocky Mountain News - September 1, 1994"
         },
         {
           "id": "0cefa8af-eef8-4e00-8fa3-43f51b091593",
@@ -565,7 +565,7 @@
           "referencedHostIds": [],
           "additionalContent": {},
           "version": "0.5.0",
-          "source": ""
+          "source": "Denver Post - December 10, 1995"
         },
         {
           "id": "a747eb70-9328-44ff-acb3-a811b3b660a1",
@@ -795,6 +795,32 @@
           "referencedHostIds": [],
           "source": "cc-historical-narrative",
           "additionalContent": {},
+          "version": "0.5.0"
+        },
+        {
+          "id": "6d301b70-bd6b-4fdc-a4fc-d5f54b4c40aa",
+          "type": "ownershipChange",
+          "date": "1986-11-01",
+          "isApprxDate": false,
+          "description": "Ken Moore, executive vice president of Kravco Inc., confirms Cinderella City is for sale.",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "Denver Post - November 12, 1986",
+          "additionalContent": {},
+          "version": "0.5.0"
+        },
+        {
+          "id": "2c141cb6-44b6-4b1f-ad74-c8641602b738",
+          "type": "quote",
+          "date": "1986-11-12",
+          "isApprxDate": false,
+          "description": "\"It's not a Grade A mall, but an adequate mall\" - David Cord, senior investment broker",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "Denver Post - November 12, 1986",
+          "additionalContent": {
+            "attribution": "David Cord, senior investment broker"
+          },
           "version": "0.5.0"
         }
       ],
