@@ -589,7 +589,7 @@
           "description": "Generated $2.2 million in sales tax revenue, 52% of Englewood's total tax revenue",
           "images": [],
           "referencedHostIds": [],
-          "source": "",
+          "source": "Denver Post - February 1, 1996",
           "additionalContent": {},
           "version": "0.5.0"
         },
@@ -613,7 +613,7 @@
           "description": "Generated $3.4 million in sales tax revenue, 47% of Englewood's total tax revenue.",
           "images": [],
           "referencedHostIds": [],
-          "source": "",
+          "source": "Denver Post - February 1, 1996",
           "additionalContent": {},
           "version": "0.5.0"
         },
@@ -622,10 +622,10 @@
           "type": "statistic",
           "date": "1984-01-01",
           "isApprxDate": true,
-          "description": "Generated $2.9 million in sales tax revenue, 25.8% of Englewood's total tax revenue",
+          "description": "Generated $2.9 million in sales tax revenue, about 30% of Englewood's total tax revenue",
           "images": [],
           "referencedHostIds": [],
-          "source": "",
+          "source": "Denver Post - February 1, 1996",
           "additionalContent": {},
           "version": "0.5.0"
         },
@@ -637,7 +637,7 @@
           "description": "Generated $342,131 in sales tax revenue, 2.6% of Englewood's total tax revenue",
           "images": [],
           "referencedHostIds": [],
-          "source": "",
+          "source": "Denver Post - February 1, 1996",
           "additionalContent": {},
           "version": "0.5.0"
         },
