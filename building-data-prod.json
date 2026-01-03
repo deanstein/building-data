@@ -1018,6 +1018,20 @@
           "source": "cc-historical-narrative",
           "additionalContent": {},
           "version": "0.5.1"
+        },
+        {
+          "id": "f2c0e9fb-fc6d-4588-9d84-b8ab8eba8635",
+          "type": "media",
+          "date": "1978-03-09",
+          "isApprxDate": false,
+          "description": "A boat show in the Blue Mall as part of the 1978 Fall Fun Fest event series",
+          "images": [
+            "blue_mall._1978_03_09_boat_show_2"
+          ],
+          "referencedHostIds": [],
+          "source": "",
+          "additionalContent": {},
+          "version": "0.5.1"
         }
       ],
       "timelineEventReferences": [],
