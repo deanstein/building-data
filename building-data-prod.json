@@ -982,6 +982,42 @@
           "source": "cc-historical-narrative",
           "additionalContent": {},
           "version": "0.5.1"
+        },
+        {
+          "id": "867d1cc9-bee8-4184-b32e-cb35f0d91382",
+          "type": "planning",
+          "date": "1996-02-01",
+          "isApprxDate": true,
+          "description": "Englewood city offcials favored redevelopment of the site as a \"power center\" containing \"super stores\" such as Target, Barnes and Noble, and Circuit City. This plan met substantial opposition from Englewood residents, who preferred that the site be redeveloped to include a performing arts complex, small retail stores, and a park. In particular, the citizens' group resisted redevelopment that included \"a sea of parking.\" ",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "cc-historical-narrative",
+          "additionalContent": {},
+          "version": "0.5.1"
+        },
+        {
+          "id": "8d6cb94b-5146-4021-8a3f-666395e29a1c",
+          "type": "ownershipChange",
+          "date": "1997-08-20",
+          "isApprxDate": false,
+          "description": "The City of Englewood announced that it had reached preliminary agreement with the mall's owners, Equitable and Cindermak Associates (successor to Kravco), to obtain the property \"as-is,\" except Cindermak Associates would pay costs Of removing asbestos and lead-based paint.",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "cc-historical-narrative",
+          "additionalContent": {},
+          "version": "0.5.1"
+        },
+        {
+          "id": "ef87b55b-58af-48db-a133-288922e01a81",
+          "type": "construction",
+          "date": "1998-08-18",
+          "isApprxDate": false,
+          "description": "Former Englewood mayor Elmer Schwab joined a crowd of about 400 persons to watch a wrecking ball smash into the fomer J.C. Penney Auto Center, thus beginning demolition of most of Cinderella City.",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "cc-historical-narrative",
+          "additionalContent": {},
+          "version": "0.5.1"
         }
       ],
       "timelineEventReferences": [],
