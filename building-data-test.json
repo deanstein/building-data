@@ -189,8 +189,9 @@
           "description": "Something happened in 1990! Let's make an edit here. And here! Another edit!",
           "images": [],
           "referencedHostIds": [],
+          "source": "",
           "additionalContent": {},
-          "version": "0.2.0"
+          "version": "0.5.1"
         },
         {
           "id": "13e664a1-5f08-49e3-8c84-609b9f5efa69",
@@ -200,8 +201,9 @@
           "description": "Something else happened in 1995!",
           "images": [],
           "referencedHostIds": [],
+          "source": "",
           "additionalContent": {},
-          "version": "0.2.0"
+          "version": "0.5.1"
         },
         {
           "id": "06147099-8c7a-4f9d-953e-77cf4ae607b6",
@@ -211,8 +213,9 @@
           "description": "This is a test of images! A ton of images to force a very wide image thumbnail group.",
           "images": [],
           "referencedHostIds": [],
+          "source": "",
           "additionalContent": {},
-          "version": "0.2.0"
+          "version": "0.5.1"
         },
         {
           "id": "712222da-6d82-456b-9862-641350cec4c6",
@@ -222,8 +225,9 @@
           "description": "Here's a 2007 event!",
           "images": [],
           "referencedHostIds": [],
+          "source": "",
           "additionalContent": {},
-          "version": "0.2.0"
+          "version": "0.5.1"
         },
         {
           "id": "6bed0575-98c8-4a96-95cc-3ddc7d618dfb",
@@ -233,8 +237,9 @@
           "description": "A 2010 date! And approximate.",
           "images": [],
           "referencedHostIds": [],
+          "source": "",
           "additionalContent": {},
-          "version": "0.2.0"
+          "version": "0.5.1"
         },
         {
           "id": "327f755c-6489-4692-822b-5c505cc23fa2",
@@ -244,8 +249,9 @@
           "description": "A 2002 event!",
           "images": [],
           "referencedHostIds": [],
+          "source": "",
           "additionalContent": {},
-          "version": "0.2.0"
+          "version": "0.5.1"
         },
         {
           "id": "d0de1ada-508f-4968-ae24-3aec883fae20",
@@ -255,19 +261,21 @@
           "description": "A 2004 event!",
           "images": [],
           "referencedHostIds": [],
+          "source": "",
           "additionalContent": {},
-          "version": "0.2.0"
+          "version": "0.5.1"
         }
       ],
       "timelineEventReferences": [],
       "contextualEvents": [],
-      "version": "0.3.0",
+      "version": "0.5.1",
       "imageMetaRegistryRepoName": "jdg-ui-svelte",
       "imageMetaRegistryRepo": ""
     },
     {
       "id": "545872f2-1d1d-445c-bf85-be9655739aeb",
       "name": "Test: Event at Inception",
+      "imageMetaRegistryRepo": "",
       "avatarImage": "",
       "inceptionDate": "1966-03-05",
       "cessationDate": "",
@@ -280,8 +288,9 @@
           "description": "A 1972 event! And an edit!",
           "images": [],
           "referencedHostIds": [],
+          "source": "",
           "additionalContent": {},
-          "version": "0.2.0"
+          "version": "0.5.1"
         },
         {
           "id": "11c762fc-2ed0-4649-9fd3-367bf5706a00",
@@ -291,8 +300,9 @@
           "description": "This event corresponds with the \"inception event\"",
           "images": [],
           "referencedHostIds": [],
+          "source": "",
           "additionalContent": {},
-          "version": "0.2.0"
+          "version": "0.5.1"
         },
         {
           "id": "f62d9630-4da6-4c07-8238-0b9d145a38d6",
@@ -302,8 +312,9 @@
           "description": "This is a 1980 event",
           "images": [],
           "referencedHostIds": [],
+          "source": "",
           "additionalContent": {},
-          "version": "0.2.0"
+          "version": "0.5.1"
         },
         {
           "id": "e94e3f61-002d-4de6-bca4-bfa077e3b273",
@@ -313,8 +324,9 @@
           "description": "A 1995 event!",
           "images": [],
           "referencedHostIds": [],
+          "source": "",
           "additionalContent": {},
-          "version": "0.2.0"
+          "version": "0.5.1"
         },
         {
           "id": "361bfe27-6972-41ef-bae2-c7c2373054e1",
@@ -324,8 +336,9 @@
           "description": "A 1990 event! Let's make an edit. And another! One more edit! Again!",
           "images": [],
           "referencedHostIds": [],
+          "source": "",
           "additionalContent": {},
-          "version": "0.2.0"
+          "version": "0.5.1"
         },
         {
           "id": "6236c1a7-0c28-4ef4-a434-8a193710cc5b",
@@ -335,8 +348,9 @@
           "description": "A 1998 event",
           "images": [],
           "referencedHostIds": [],
+          "source": "",
           "additionalContent": {},
-          "version": "0.2.0"
+          "version": "0.5.1"
         },
         {
           "id": "4082e077-5e6d-4d3a-8bfb-980a64787208",
@@ -346,13 +360,26 @@
           "description": "A 2005 event!",
           "images": [],
           "referencedHostIds": [],
+          "source": "",
           "additionalContent": {},
-          "version": "0.2.0"
+          "version": "0.5.1"
+        },
+        {
+          "id": "68cc88f2-8f17-47f6-b5d2-dbbf2fd1f3e0",
+          "type": "generic",
+          "date": "1990-02-01",
+          "isApprxDate": false,
+          "description": "This is a new event.",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "",
+          "additionalContent": {},
+          "version": "0.5.1"
         }
       ],
       "timelineEventReferences": [],
       "contextualEvents": [],
-      "version": "0.3.0",
+      "version": "0.5.1",
       "imageMetaRegistryRepoName": "jdg-ui-svelte"
     }
   ]
