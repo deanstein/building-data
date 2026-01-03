@@ -946,6 +946,30 @@
           "source": "cc-historical-narrative",
           "additionalContent": {},
           "version": "0.5.1"
+        },
+        {
+          "id": "a86b03f6-73a6-45d1-8050-fb9098d9e81c",
+          "type": "statistic",
+          "date": "1991-12-06",
+          "isApprxDate": false,
+          "description": "To support the mall, the City of Englewood considered locating city offces, the city library, or a community center in the mall. The city also encouraged Swedish Medical to locate a day care or outreach medical center in the mall, and the City contemplated converting the mall to an entertainment and restaurant complex with less retail space",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "cc-historical-narrative",
+          "additionalContent": {},
+          "version": "0.5.1"
+        },
+        {
+          "id": "25ed802f-76fa-40bd-9285-6b44b2514025",
+          "type": "ownershipChange",
+          "date": "1993-01-01",
+          "isApprxDate": true,
+          "description": "May D&F is converted to Foley's",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "cc-historical-narrative",
+          "additionalContent": {},
+          "version": "0.5.1"
         }
       ],
       "timelineEventReferences": [],
