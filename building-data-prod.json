@@ -17,7 +17,8 @@
           "images": [
             "blue_mall._1968_03_07_von_frellick",
             "blue_mall._1968_03_07_grand_opening_crowds_1",
-            "parking._1968_03_07_parking"
+            "parking._1968_03_07_parking",
+            "history._1968_03_07_Von_Frellicks_start_fountain"
           ],
           "referencedHostIds": [],
           "source": "",
@@ -735,7 +736,9 @@
           "date": "1966-03-30",
           "isApprxDate": false,
           "description": "Groundbreaking for New Englewood Shopping Center - a name that Von Frellick later lengthened to \"New Englewood the Cinderella City.\"",
-          "images": [],
+          "images": [
+            "history._1966_03_31_groundbreaking"
+          ],
           "referencedHostIds": [],
           "source": "cc-historical-narrative",
           "additionalContent": {},
