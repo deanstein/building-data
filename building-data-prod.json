@@ -1032,6 +1032,18 @@
           "source": "",
           "additionalContent": {},
           "version": "0.5.1"
+        },
+        {
+          "id": "2166794d-cb8b-4c4b-8733-bc06191b622d",
+          "type": "generic",
+          "date": "2018-03-01",
+          "isApprxDate": true,
+          "description": "The Cinderella City Project is launched by Josh Goldstein in an effort to preserve the mall by reconstructing it as a virtual simulation.",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "",
+          "additionalContent": {},
+          "version": "0.5.1"
         }
       ],
       "timelineEventReferences": [],
