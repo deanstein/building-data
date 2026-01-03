@@ -158,7 +158,9 @@
           "date": "1960-09-25",
           "isApprxDate": false,
           "description": "\"The architecture is of the Georgetown, Colorado era, the time of the gold and silver camps. That makes sense today, since we can use the cupolas for air conditioning equipment. And the entire area, landscaped minus signs, is designed to blend like a park into the surrounding community.\" - Gerri Von Frellick",
-          "images": [],
+          "images": [
+            "concept_art._1960_rendering_enhanced"
+          ],
           "referencedHostIds": [],
           "source": "cc-historical-narrative",
           "additionalContent": {
