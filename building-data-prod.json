@@ -1045,6 +1045,20 @@
           "source": "",
           "additionalContent": {},
           "version": "0.5.1"
+        },
+        {
+          "id": "fbcf97cb-0eca-4d12-98cd-eacb42e84783",
+          "type": "media",
+          "date": "1970-08-13",
+          "isApprxDate": false,
+          "description": "Two students and a teacher walk into the Englewood High School City Campus on the mezzanine level of Cinderella City.",
+          "images": [
+            "city_campus_1"
+          ],
+          "referencedHostIds": [],
+          "source": "",
+          "additionalContent": {},
+          "version": "0.5.1"
         }
       ],
       "timelineEventReferences": [],
