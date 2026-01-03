@@ -447,7 +447,7 @@
         },
         {
           "id": "9f0ba542-872d-494a-9cc7-ef4ad545ca6a",
-          "type": "generic",
+          "type": "statistic",
           "date": "1992-01-01",
           "isApprxDate": false,
           "description": "Generated $1.85 million in sales tax revenue; about 12% of Englewood's total sales tax revenue",
@@ -643,7 +643,7 @@
         },
         {
           "id": "333e97bf-4ed6-4dee-87b7-e82c7d9d9d92",
-          "type": "ownershipChange",
+          "type": "ownershipNegotiation",
           "date": "1997-04-05",
           "isApprxDate": false,
           "description": "Equitable agrees to transfer the Cinderella City property to the City of Englewood. It also agrees to spend $1.2 million in environmental cleanup. The City would then buy the Joslins building from Mercantile for $400,000.",
@@ -703,7 +703,7 @@
         },
         {
           "id": "7f54f206-8818-4838-9135-cdfd375ccf9a",
-          "type": "generic",
+          "type": "ownershipNegotiation",
           "date": "1962-11-07",
           "isApprxDate": false,
           "description": "Englewood businessmen, led by Don Carney, president of the FIrst National Bank of Englewood, suggested Englewood City Park as a logical alternative location, noting that the sale of the park would allow the city to develop smaller and safer parks throughout the city.",
@@ -799,7 +799,7 @@
         },
         {
           "id": "6d301b70-bd6b-4fdc-a4fc-d5f54b4c40aa",
-          "type": "ownershipChange",
+          "type": "ownershipNegotiation",
           "date": "1986-11-01",
           "isApprxDate": false,
           "description": "Ken Moore, executive vice president of Kravco Inc., confirms Cinderella City is for sale.",
@@ -837,7 +837,7 @@
         },
         {
           "id": "242d85ea-da6b-4064-8e99-afe32e2e4b35",
-          "type": "renovation",
+          "type": "structural",
           "date": "1973-01-26",
           "isApprxDate": true,
           "description": "Structural problems at Cinderella City become publicly acknowledged",
@@ -849,7 +849,7 @@
         },
         {
           "id": "81626a55-0848-4ef8-bf4a-165dba4c9545",
-          "type": "renovation",
+          "type": "structural",
           "date": "1972-12-01",
           "isApprxDate": false,
           "description": "A routine inspection revealed concrete flaking from a pillar corbel, and a person who had been involved in the construction of the mall said the J.C. Penney store would be a good place to look for similar problems.",
@@ -875,7 +875,7 @@
         },
         {
           "id": "11de97aa-a0a2-4221-b76e-19b2dd107672",
-          "type": "renovation",
+          "type": "structural",
           "date": "1973-01-26",
           "isApprxDate": false,
           "description": "Inspecting engineer Lyman Frasier wasn't nearly as confident. Asked if the J.C. Penney store had been in danger of collapse, he responded that \"it would be wise to shore it up. How's that for evading your question?\" Frasier termed the cracks in the J.C. Penney store and the parking structures \"critical,\" but cracking in other areas of the mall was less severe. ",
@@ -973,7 +973,7 @@
         },
         {
           "id": "2bbbdc91-7147-4b37-a945-4d25f2d49f2a",
-          "type": "ownershipChange",
+          "type": "ownershipNegotiation",
           "date": "1995-12-01",
           "isApprxDate": true,
           "description": "Equitable Life Assurance Company agreed to donate the mall to the City of Englewood, but the City cautiously declined to accept the property until environmental hazards, primarily asbestos and lead-based paint, were cleaned up",
@@ -1009,7 +1009,7 @@
         },
         {
           "id": "ef87b55b-58af-48db-a133-288922e01a81",
-          "type": "construction",
+          "type": "demolition",
           "date": "1998-08-18",
           "isApprxDate": false,
           "description": "Former Englewood mayor Elmer Schwab joined a crowd of about 400 persons to watch a wrecking ball smash into the fomer J.C. Penney Auto Center, thus beginning demolition of most of Cinderella City. Only the former Foley's department store building and a portion of an adjacent parking garage would remain standing. The store would be remodeled into a new City Hall, including courtrooms and a public library. ",
