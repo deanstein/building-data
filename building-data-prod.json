@@ -968,7 +968,7 @@
         },
         {
           "id": "25ed802f-76fa-40bd-9285-6b44b2514025",
-          "type": "ownershipChange",
+          "type": "rebrand",
           "date": "1993-01-01",
           "isApprxDate": true,
           "description": "May D&F is converted to Foley's",
@@ -1045,7 +1045,7 @@
           "type": "generic",
           "date": "2018-03-01",
           "isApprxDate": true,
-          "description": "The Cinderella City Project is launched by Josh Goldstein in an effort to preserve the mall by reconstructing it as a virtual simulation.",
+          "description": "The Cinderella City Project is publicly launched by Josh Goldstein as an Instagram and Facebook account in an effort to preserve the mall by reconstructing it as a virtual simulation and sharing historic facts and images.",
           "images": [],
           "referencedHostIds": [],
           "source": "",
