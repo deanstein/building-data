@@ -1066,6 +1066,21 @@
           "source": "",
           "additionalContent": {},
           "version": "0.5.1"
+        },
+        {
+          "id": "2b6802c9-8bd4-443e-8c66-0e8fb88fab7b",
+          "type": "media",
+          "date": "1963-01-10",
+          "isApprxDate": false,
+          "description": "Renderings show an updated and more modern design for Cinderella City at the east Hampden and Franklin site.",
+          "images": [
+            "concept_art._1963_01_10_aerial_rendering",
+            "concept_art._1963_01_10_Denver_rendering"
+          ],
+          "referencedHostIds": [],
+          "source": "",
+          "additionalContent": {},
+          "version": "0.5.1"
         }
       ],
       "timelineEventReferences": [],
