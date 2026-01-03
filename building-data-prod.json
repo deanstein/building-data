@@ -19,7 +19,7 @@
           ],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.5.0",
+          "version": "0.5.1",
           "source": ""
         },
         {
@@ -31,7 +31,7 @@
           "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.5.0",
+          "version": "0.5.1",
           "source": ""
         },
         {
@@ -45,7 +45,7 @@
           ],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.5.0",
+          "version": "0.5.1",
           "source": ""
         },
         {
@@ -60,7 +60,7 @@
           ],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.5.0",
+          "version": "0.5.1",
           "source": ""
         },
         {
@@ -74,7 +74,7 @@
           ],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.5.0",
+          "version": "0.5.1",
           "source": ""
         },
         {
@@ -88,7 +88,7 @@
           ],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.5.0",
+          "version": "0.5.1",
           "source": ""
         },
         {
@@ -102,7 +102,7 @@
           ],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.5.0",
+          "version": "0.5.1",
           "source": ""
         },
         {
@@ -116,7 +116,7 @@
           ],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.5.0",
+          "version": "0.5.1",
           "source": ""
         },
         {
@@ -132,7 +132,7 @@
           "additionalContent": {
             "publication": ""
           },
-          "version": "0.5.0",
+          "version": "0.5.1",
           "source": "Rocky Mountain News - December 30, 1978"
         },
         {
@@ -146,7 +146,7 @@
           ],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.5.0",
+          "version": "0.5.1",
           "source": ""
         },
         {
@@ -160,7 +160,7 @@
           "additionalContent": {
             "attribution": "Gerri Von Frellick"
           },
-          "version": "0.5.0",
+          "version": "0.5.1",
           "source": "cc-historical-narrative"
         },
         {
@@ -172,7 +172,7 @@
           "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.5.0",
+          "version": "0.5.1",
           "source": "cc-historical-narrative"
         },
         {
@@ -186,7 +186,7 @@
           "additionalContent": {
             "attribution": "Gerri Von Frellick"
           },
-          "version": "0.5.0",
+          "version": "0.5.1",
           "source": "cc-historical-narrative"
         },
         {
@@ -198,7 +198,7 @@
           "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.5.0",
+          "version": "0.5.1",
           "source": "cc-historical-narrative"
         },
         {
@@ -210,7 +210,7 @@
           "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.5.0",
+          "version": "0.5.1",
           "source": "Englewood Sentinel - November 4, 1987"
         },
         {
@@ -222,7 +222,7 @@
           "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.5.0",
+          "version": "0.5.1",
           "source": "Englewood Sentinel - October 3, 1984"
         },
         {
@@ -236,7 +236,7 @@
           "additionalContent": {
             "publication": ""
           },
-          "version": "0.5.0",
+          "version": "0.5.1",
           "source": ""
         },
         {
@@ -244,12 +244,12 @@
           "type": "ownershipChange",
           "date": "1980-01-01",
           "isApprxDate": true,
-          "description": "Cinderella City is purchased by Equitable Life Assurance Society of the United States and KRAVCO as a joint venture called Capital Alliance Companies",
+          "description": "Cinderella City is purchased by Capital Alliance Companies, a joint venture of Equitable Life Assurance Society of the United States and Kravco Inc. Capital assumed the mortgage and paid the family $12 million. Von Frellick also sold his leasehold to operate the mall to Capital Alliance for a reported $35 million.",
           "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.5.0",
-          "source": "Rocky Mountain News - May 24, 1983"
+          "version": "0.5.1",
+          "source": "cc-historical-narrative"
         },
         {
           "id": "e819df00-bd57-4be1-a8d8-ac491cf13dfc",
@@ -260,7 +260,7 @@
           "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.5.0",
+          "version": "0.5.1",
           "source": ""
         },
         {
@@ -274,7 +274,7 @@
           "additionalContent": {
             "publication": ""
           },
-          "version": "0.5.0",
+          "version": "0.5.1",
           "source": ""
         },
         {
@@ -286,7 +286,7 @@
           "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.5.0",
+          "version": "0.5.1",
           "source": ""
         },
         {
@@ -294,11 +294,11 @@
           "type": "planning",
           "date": "1977-12-01",
           "isApprxDate": true,
-          "description": "Kravco, 25% owner of Cinderella City, begins working with Equitable Life Assurance Society on a potential purchase and renovation plan for Cinderella City.",
+          "description": "Kravco, future 25% owner of Cinderella City, begins working with Equitable Life Assurance Society on a potential purchase and renovation plan for Cinderella City.",
           "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.5.0",
+          "version": "0.5.1",
           "source": ""
         },
         {
@@ -312,7 +312,7 @@
           "additionalContent": {
             "attribution": "Cam Morton, Vice President of Development at Kravco"
           },
-          "version": "0.5.0",
+          "version": "0.5.1",
           "source": "Rocky Mountain News - May 24, 1983"
         },
         {
@@ -324,7 +324,7 @@
           "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.5.0",
+          "version": "0.5.1",
           "source": "Rocky Mountain News - May 24, 1983"
         },
         {
@@ -338,7 +338,7 @@
           "additionalContent": {
             "publication": ""
           },
-          "version": "0.5.0",
+          "version": "0.5.1",
           "source": ""
         },
         {
@@ -350,7 +350,7 @@
           "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.5.0",
+          "version": "0.5.1",
           "source": ""
         },
         {
@@ -364,7 +364,7 @@
           "additionalContent": {
             "publication": ""
           },
-          "version": "0.5.0",
+          "version": "0.5.1",
           "source": ""
         },
         {
@@ -378,7 +378,7 @@
           "additionalContent": {
             "publication": ""
           },
-          "version": "0.5.0",
+          "version": "0.5.1",
           "source": ""
         },
         {
@@ -392,7 +392,7 @@
           "additionalContent": {
             "publication": ""
           },
-          "version": "0.5.0",
+          "version": "0.5.1",
           "source": ""
         },
         {
@@ -406,7 +406,7 @@
           "additionalContent": {
             "publication": ""
           },
-          "version": "0.5.0",
+          "version": "0.5.1",
           "source": ""
         },
         {
@@ -418,7 +418,7 @@
           "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.5.0",
+          "version": "0.5.1",
           "source": "Rocky Mountain News - February 15, 1993"
         },
         {
@@ -430,7 +430,7 @@
           "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.5.0",
+          "version": "0.5.1",
           "source": "Rocky Mountain News - February 15, 1993"
         },
         {
@@ -442,7 +442,7 @@
           "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.5.0",
+          "version": "0.5.1",
           "source": "Rocky Mountain News - February 15, 1993"
         },
         {
@@ -454,7 +454,7 @@
           "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.5.0",
+          "version": "0.5.1",
           "source": "Rocky Mountain News - February 15, 1993"
         },
         {
@@ -466,7 +466,7 @@
           "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.5.0",
+          "version": "0.5.1",
           "source": ""
         },
         {
@@ -478,7 +478,7 @@
           "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.5.0",
+          "version": "0.5.1",
           "source": ""
         },
         {
@@ -490,7 +490,7 @@
           "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.5.0",
+          "version": "0.5.1",
           "source": ""
         },
         {
@@ -502,7 +502,7 @@
           "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.5.0",
+          "version": "0.5.1",
           "source": ""
         },
         {
@@ -514,7 +514,7 @@
           "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.5.0",
+          "version": "0.5.1",
           "source": ""
         },
         {
@@ -526,7 +526,7 @@
           "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.5.0",
+          "version": "0.5.1",
           "source": "Denver Post - August 19, 1994"
         },
         {
@@ -540,7 +540,7 @@
           "additionalContent": {
             "publication": ""
           },
-          "version": "0.5.0",
+          "version": "0.5.1",
           "source": ""
         },
         {
@@ -552,7 +552,7 @@
           "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.5.0",
+          "version": "0.5.1",
           "source": "Rocky Mountain News - September 1, 1994"
         },
         {
@@ -564,7 +564,7 @@
           "images": [],
           "referencedHostIds": [],
           "additionalContent": {},
-          "version": "0.5.0",
+          "version": "0.5.1",
           "source": "Denver Post - December 10, 1995"
         },
         {
@@ -578,7 +578,7 @@
           "additionalContent": {
             "publication": ""
           },
-          "version": "0.5.0",
+          "version": "0.5.1",
           "source": ""
         },
         {
@@ -591,7 +591,7 @@
           "referencedHostIds": [],
           "source": "Denver Post - February 1, 1996",
           "additionalContent": {},
-          "version": "0.5.0"
+          "version": "0.5.1"
         },
         {
           "id": "e85a9bc7-84d7-4e5d-936a-ff6ddb91cd63",
@@ -603,7 +603,7 @@
           "referencedHostIds": [],
           "source": "",
           "additionalContent": {},
-          "version": "0.5.0"
+          "version": "0.5.1"
         },
         {
           "id": "b5b99476-fe03-44ad-a165-c02959e13804",
@@ -615,7 +615,7 @@
           "referencedHostIds": [],
           "source": "Denver Post - February 1, 1996",
           "additionalContent": {},
-          "version": "0.5.0"
+          "version": "0.5.1"
         },
         {
           "id": "2182e7ea-ed07-417c-b435-fdf96b6f3b03",
@@ -627,7 +627,7 @@
           "referencedHostIds": [],
           "source": "Denver Post - February 1, 1996",
           "additionalContent": {},
-          "version": "0.5.0"
+          "version": "0.5.1"
         },
         {
           "id": "2d510700-6377-4002-8862-1ea3a0249198",
@@ -639,7 +639,7 @@
           "referencedHostIds": [],
           "source": "Denver Post - February 1, 1996",
           "additionalContent": {},
-          "version": "0.5.0"
+          "version": "0.5.1"
         },
         {
           "id": "333e97bf-4ed6-4dee-87b7-e82c7d9d9d92",
@@ -651,7 +651,7 @@
           "referencedHostIds": [],
           "source": "Denver Post - April 5, 1997",
           "additionalContent": {},
-          "version": "0.5.0"
+          "version": "0.5.1"
         },
         {
           "id": "b16e7c30-8c4f-47e2-a50a-ba252331bd54",
@@ -663,7 +663,7 @@
           "referencedHostIds": [],
           "source": "",
           "additionalContent": {},
-          "version": "0.5.0"
+          "version": "0.5.1"
         },
         {
           "id": "125a169e-0cbc-4bf5-87f0-4fa0bf6793d9",
@@ -675,7 +675,7 @@
           "referencedHostIds": [],
           "source": "cc-historical-narrative",
           "additionalContent": {},
-          "version": "0.5.0"
+          "version": "0.5.1"
         },
         {
           "id": "e9805eac-300e-4df2-8bae-bdc44cb3f93e",
@@ -687,7 +687,7 @@
           "referencedHostIds": [],
           "source": "cc-historical-narrative",
           "additionalContent": {},
-          "version": "0.5.0"
+          "version": "0.5.1"
         },
         {
           "id": "343f02b4-612b-4437-badb-71dd14ed243c",
@@ -699,7 +699,7 @@
           "referencedHostIds": [],
           "source": "cc-historical-narrative",
           "additionalContent": {},
-          "version": "0.5.0"
+          "version": "0.5.1"
         },
         {
           "id": "7f54f206-8818-4838-9135-cdfd375ccf9a",
@@ -711,7 +711,7 @@
           "referencedHostIds": [],
           "source": "cc-historical-narrative",
           "additionalContent": {},
-          "version": "0.5.0"
+          "version": "0.5.1"
         },
         {
           "id": "a0f06ded-3ba0-4bdd-89dc-cad74167f4c4",
@@ -723,7 +723,7 @@
           "referencedHostIds": [],
           "source": "",
           "additionalContent": {},
-          "version": "0.5.0"
+          "version": "0.5.1"
         },
         {
           "id": "5739843c-7886-4f47-bd0f-d2b8fccfa08d",
@@ -735,7 +735,7 @@
           "referencedHostIds": [],
           "source": "cc-historical-narrative",
           "additionalContent": {},
-          "version": "0.5.0"
+          "version": "0.5.1"
         },
         {
           "id": "f601142e-38de-4164-9969-c3a66cc6faf2",
@@ -747,7 +747,7 @@
           "referencedHostIds": [],
           "source": "cc-historical-narrative",
           "additionalContent": {},
-          "version": "0.5.0"
+          "version": "0.5.1"
         },
         {
           "id": "55ce7323-5339-4af0-bc19-cde8c3fabef9",
@@ -759,7 +759,7 @@
           "referencedHostIds": [],
           "source": "cc-historical-narrative",
           "additionalContent": {},
-          "version": "0.5.0"
+          "version": "0.5.1"
         },
         {
           "id": "86919ce3-8059-47d8-8680-b43422c33521",
@@ -771,7 +771,7 @@
           "referencedHostIds": [],
           "source": "",
           "additionalContent": {},
-          "version": "0.5.0"
+          "version": "0.5.1"
         },
         {
           "id": "b4f8d217-053d-48d1-9969-3a1c8df74a4b",
@@ -783,7 +783,7 @@
           "referencedHostIds": [],
           "source": "cc-historical-narrative",
           "additionalContent": {},
-          "version": "0.5.0"
+          "version": "0.5.1"
         },
         {
           "id": "03fc81cc-0cdf-4fca-8e6c-b893fce820ea",
@@ -795,7 +795,7 @@
           "referencedHostIds": [],
           "source": "cc-historical-narrative",
           "additionalContent": {},
-          "version": "0.5.0"
+          "version": "0.5.1"
         },
         {
           "id": "6d301b70-bd6b-4fdc-a4fc-d5f54b4c40aa",
@@ -807,7 +807,7 @@
           "referencedHostIds": [],
           "source": "Denver Post - November 12, 1986",
           "additionalContent": {},
-          "version": "0.5.0"
+          "version": "0.5.1"
         },
         {
           "id": "2c141cb6-44b6-4b1f-ad74-c8641602b738",
@@ -821,7 +821,7 @@
           "additionalContent": {
             "attribution": "David Cord, senior investment broker"
           },
-          "version": "0.5.0"
+          "version": "0.5.1"
         },
         {
           "id": "2f1d9f6d-c2c5-4d41-b2f4-0d8e2fdadb6a",
@@ -833,7 +833,7 @@
           "referencedHostIds": [],
           "source": "Rocky Mountain News - June 19, 1969",
           "additionalContent": {},
-          "version": "0.5.0"
+          "version": "0.5.1"
         },
         {
           "id": "242d85ea-da6b-4064-8e99-afe32e2e4b35",
@@ -845,7 +845,7 @@
           "referencedHostIds": [],
           "source": "Greeley Daily Tribune - January 26, 1973",
           "additionalContent": {},
-          "version": "0.5.0"
+          "version": "0.5.1"
         },
         {
           "id": "81626a55-0848-4ef8-bf4a-165dba4c9545",
@@ -857,7 +857,7 @@
           "referencedHostIds": [],
           "source": "cc-historical-narrative",
           "additionalContent": {},
-          "version": "0.5.0"
+          "version": "0.5.1"
         },
         {
           "id": "789b428e-4773-46d1-96ef-11715b96f390",
@@ -871,12 +871,86 @@
           "additionalContent": {
             "attribution": "Gerri Von Frellick"
           },
-          "version": "0.5.0"
+          "version": "0.5.1"
+        },
+        {
+          "id": "11de97aa-a0a2-4221-b76e-19b2dd107672",
+          "type": "renovation",
+          "date": "1973-01-26",
+          "isApprxDate": false,
+          "description": "Inspecting engineer Lyman Frasier wasn't nearly as confident. Asked if the J.C. Penney store had been in danger of collapse, he responded that \"it would be wise to shore it up. How's that for evading your question?\" Frasier termed the cracks in the J.C. Penney store and the parking structures \"critical,\" but cracking in other areas of the mall was less severe. ",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "cc-historical-narrative",
+          "additionalContent": {},
+          "version": "0.5.1"
+        },
+        {
+          "id": "fe2389c0-218d-40ff-9736-140a111d6df7",
+          "type": "renovation",
+          "date": "1973-01-26",
+          "isApprxDate": false,
+          "description": "The structural problems in the Penney store were mitigated by using steel scaffolding to relieve loads on the faulty corbels and erection of eleven sets of shoring. Emergency repairs to the parking structures included erection of 22 sets of shoring to hold up nine critical areas of the structure",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "cc-historical-narrative",
+          "additionalContent": {},
+          "version": "0.5.1"
+        },
+        {
+          "id": "1229f2df-b39b-4c12-b275-e718bec80703",
+          "type": "ownershipChange",
+          "date": "1978-01-01",
+          "isApprxDate": true,
+          "description": "Gerri Von Frellick passes ownership of 200-year property lease of Cinderella City to his daughter, Gerri Lu Von Frellick, although he retained management of the mall.",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "cc-historical-narrative",
+          "additionalContent": {},
+          "version": "0.5.1"
+        },
+        {
+          "id": "7823b6cf-5c73-4238-97ba-75b631124ee0",
+          "type": "quote",
+          "date": "1978-11-01",
+          "isApprxDate": true,
+          "description": "Von Frellick's wife said at the time that the managing of the mall was like running a city and \"was killing\" her husband.",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "cc-historical-narrative",
+          "additionalContent": {
+            "attribution": "Gerri Von Frellick's wife"
+          },
+          "version": "0.5.1"
+        },
+        {
+          "id": "e9f9bed7-584c-4148-a84b-04a23e822499",
+          "type": "generic",
+          "date": "1990-01-01",
+          "isApprxDate": true,
+          "description": "Generated $2.4 million in sales tax revenue",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "cc-historical-narrative",
+          "additionalContent": {},
+          "version": "0.5.1"
+        },
+        {
+          "id": "d81d7918-60f8-48cf-a232-95fa022321bc",
+          "type": "statistic",
+          "date": "1993-10-01",
+          "isApprxDate": true,
+          "description": "Sharply reduced tax income from the mall was directly blamed for elimination of 26 positions in Englewood's city workforce and moth-balling of the new Bookmobile in October 1993.",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "cc-historical-narrative",
+          "additionalContent": {},
+          "version": "0.5.1"
         }
       ],
       "timelineEventReferences": [],
       "contextualEvents": [],
-      "version": "0.5.0",
+      "version": "0.5.1",
       "imageMetaRegistryRepo": "ccp-website"
     },
     {
