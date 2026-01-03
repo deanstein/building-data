@@ -165,7 +165,7 @@
         },
         {
           "id": "9fd876f4-1444-455a-a434-ea2a03b2d4cb",
-          "type": "generic",
+          "type": "planning",
           "date": "1960-09-25",
           "isApprxDate": false,
           "description": "Von Frellick announced that financing for the mall was assured, and he intended to build the mall regardless of opposition.",
@@ -191,7 +191,7 @@
         },
         {
           "id": "10f4da9a-50d2-4178-a411-ef812c9acfbc",
-          "type": "generic",
+          "type": "planning",
           "date": "1960-08-01",
           "isApprxDate": true,
           "description": "Gerri Von Frellick, a veteran shopping mall developer, announced plans to build a shopping mall at East Hampden Avenue and South Franklin Street.\n\nVon Frellick proposed to build a \"new concept\" mall, with stores out of the weather under a single roof beside an air-conditioned mall or plaza. The mall, to be called Cinderella City, would be a two-level structure of Victorian architecture.",
@@ -265,14 +265,14 @@
         },
         {
           "id": "96c59da8-1579-468a-b37a-adb74cb10a6e",
-          "type": "article",
+          "type": "quote",
           "date": "1983-05-24",
           "isApprxDate": false,
           "description": "\"It needed an uplift phyiscally, mentally, and morally\" - Early Reynolds, Cinderella City Generam Manager",
           "images": [],
           "referencedHostIds": [],
           "additionalContent": {
-            "publication": ""
+            "attribution": ""
           },
           "version": "0.5.1",
           "source": ""
