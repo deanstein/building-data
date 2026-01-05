@@ -1091,7 +1091,7 @@
           "type": "media",
           "date": "1962-11-06",
           "isApprxDate": false,
-          "description": "A heated, 6-hour City Council meeting takes place where opponents and proponents of the Cinderella City shopping center expressed their concerns",
+          "description": "A heated, 6-hour City Council meeting takes place where opponents and proponents of the Cinderella City shopping center expressed their concerns. Von Frellick was personally in attendance, hoping to convince the zoning board to approve the rezoning for the Hampden and Franklin site from unzoned to commercial.",
           "images": [
             "history._1962_11_06_council_meeting"
           ],
@@ -1109,6 +1109,18 @@
           "images": [],
           "referencedHostIds": [],
           "source": "Denver Post - January 10, 1963",
+          "additionalContent": {},
+          "version": "0.5.1"
+        },
+        {
+          "id": "dcca86e5-0e8a-4c4b-b606-055afe7f7575",
+          "type": "legal",
+          "date": "1963-01-15",
+          "isApprxDate": false,
+          "description": "Von Frellick announces his intent to sue the City of Englewood to force them to issue the building permits he was denied thrice.",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "Rocky Mountain News - January 15, 1963",
           "additionalContent": {},
           "version": "0.5.1"
         }
