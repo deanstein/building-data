@@ -697,12 +697,12 @@
         {
           "id": "343f02b4-612b-4437-badb-71dd14ed243c",
           "type": "legal",
-          "date": "1962-11-01",
-          "isApprxDate": true,
-          "description": "Englewood City Council passes the proposed zoning change 5-2 for the Hampden and Franklin property. However, the city attorney determined that a 3/4 vote was necessary because more than 20% of the residents had petitioned against the project.",
+          "date": "1962-11-19",
+          "isApprxDate": false,
+          "description": "Englewood City Council initially passes the proposed zoning change 5-2 for the Hampden and Franklin property. However, the city attorney determined that a 3/4 vote was necessary because more than 20% of the residents had petitioned against the project, so the zoning change effort failed in the end.",
           "images": [],
           "referencedHostIds": [],
-          "source": "cc-historical-narrative",
+          "source": "Denver Post - November 20, 1962",
           "additionalContent": {},
           "version": "0.5.1"
         },
@@ -1097,6 +1097,18 @@
           ],
           "referencedHostIds": [],
           "source": "Denver Post - November 6, 1962",
+          "additionalContent": {},
+          "version": "0.5.1"
+        },
+        {
+          "id": "b3526d3f-1d64-4e69-9851-b054fcb6c21c",
+          "type": "ownershipNegotiation",
+          "date": "1963-01-10",
+          "isApprxDate": false,
+          "description": "In a move called \"bluster\" and \"huff and puff\", Von Frellick announces he's purchased the 55-acre property at east Hampden and Franklin, even though the zoning change vote recently failed. He promised to apply for a building permit days later, claiming that since the land was not zoned, he didn't have to wait for rezoning to start the process.",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "Denver Post - January 10, 1963",
           "additionalContent": {},
           "version": "0.5.1"
         }
