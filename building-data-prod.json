@@ -709,9 +709,9 @@
         {
           "id": "7f54f206-8818-4838-9135-cdfd375ccf9a",
           "type": "ownershipNegotiation",
-          "date": "1963-11-07",
+          "date": "1963-11-01",
           "isApprxDate": false,
-          "description": "Englewood businessmen, led by Don Carney, president of the FIrst National Bank of Englewood, suggested Englewood City Park as a logical alternative location, noting that the sale of the park would allow the city to develop smaller and safer parks throughout the city.",
+          "description": "Englewood Citizens' Action Committee, led by Don Carney, president of First National Bank of Englewood, suggested Englewood City Park as a logical alternative location, noting that the sale of the park would allow the city to develop smaller and safer parks throughout the city.",
           "images": [],
           "referencedHostIds": [],
           "source": "cc-historical-narrative",
@@ -726,7 +726,7 @@
           "description": "Von Frellick accepts Englewood's offer to build on the City Park property.",
           "images": [],
           "referencedHostIds": [],
-          "source": "",
+          "source": "cc-historical-narrative",
           "additionalContent": {},
           "version": "0.5.1"
         },
@@ -1145,6 +1145,54 @@
           "images": [],
           "referencedHostIds": [],
           "source": "Rocky Mountain News - September 24, 1963",
+          "additionalContent": {},
+          "version": "0.5.1"
+        },
+        {
+          "id": "ac3a7e4b-3005-4ed1-b07e-1e1883a66767",
+          "type": "ownershipNegotiation",
+          "date": "1963-11-05",
+          "isApprxDate": false,
+          "description": "Von Frellick rejects the Citizens' Action Committee offer to develop Cinderella City on the City Park site.",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "Englewood Herald - November 5, 1963",
+          "additionalContent": {},
+          "version": "0.5.1"
+        },
+        {
+          "id": "3a683a4a-fe07-496b-a347-240718826852",
+          "type": "legal",
+          "date": "1963-11-15",
+          "isApprxDate": false,
+          "description": "Von Frellick's lawsuit against the City of Englewood, attempting to compel them to release building permits for his mall project, is dismissed by Littleton District Judge Marvin W. Foote.",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "Englewood Herald - November 16, 1963",
+          "additionalContent": {},
+          "version": "0.5.1"
+        },
+        {
+          "id": "d87d5682-e09d-4bfc-a0a3-e3b55ac46225",
+          "type": "legal",
+          "date": "1964-04-07",
+          "isApprxDate": false,
+          "description": "Englewood residents vote to allow Von Frellick to purchase the City Park property for the New Englewood shopping center.",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "Englewood Herald - March 20, 1964",
+          "additionalContent": {},
+          "version": "0.5.1"
+        },
+        {
+          "id": "b14c23cb-e2ac-47ce-908f-4854f626ddc9",
+          "type": "legal",
+          "date": "1965-07-19",
+          "isApprxDate": false,
+          "description": "Colorado Supreme Court clears the way for the New Englewood shopping center on the City Park site in a 7-0 unanimous decision. This decision also upheld the validity of the rezoning of the park, and upheld the special election on April 7, 1964 where voters authorized the sale of the park and a subsequent special election in which the voters approved the rezoning.",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "Rocky Mountain News - July 20, 1965",
           "additionalContent": {},
           "version": "0.5.1"
         }
