@@ -1563,7 +1563,7 @@
           "id": "d7c38628-2f55-4ff4-b453-feac4ee7c43d",
           "type": "opening",
           "date": "1962-01-01",
-          "isApprxDate": false,
+          "isApprxDate": true,
           "description": "Crossroads Mall in Boulder, CO opens",
           "images": [],
           "referencedHostIds": [],
