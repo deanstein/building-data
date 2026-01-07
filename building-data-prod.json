@@ -1545,6 +1545,20 @@
           "source": "Denver Post - December 5, 1984",
           "additionalContent": {},
           "version": "0.5.1"
+        },
+        {
+          "id": "7fac0ec0-11da-469c-bb1f-a950ada59571",
+          "type": "quote",
+          "date": "1984-12-05",
+          "isApprxDate": false,
+          "description": "\"Every time I go out there, I get absolutely heartsick [about the disarray caused by the renovation]. But our volume is up over a year ago... we're going to break all records at our Villa store.\" - Jerry Gart, President of Gart Sports",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "Denver Post - December 5, 1984",
+          "additionalContent": {
+            "attribution": "Jerry Gart, President of Gart Sports"
+          },
+          "version": "0.5.1"
         }
       ],
       "timelineEventReferences": [],
