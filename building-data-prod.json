@@ -1470,9 +1470,9 @@
           "description": "Villa Italia opens to the public.",
           "images": [],
           "referencedHostIds": [],
+          "source": "",
           "additionalContent": {},
-          "version": "0.5.0",
-          "source": ""
+          "version": "0.5.1"
         },
         {
           "id": "305f4bd5-e799-4659-a7fa-becfc66f5a49",
@@ -1482,9 +1482,9 @@
           "description": "Villa Italia closes to the public.",
           "images": [],
           "referencedHostIds": [],
+          "source": "",
           "additionalContent": {},
-          "version": "0.5.0",
-          "source": ""
+          "version": "0.5.1"
         },
         {
           "id": "22372630-b1d1-478c-9bd2-8dd400a9e926",
@@ -1494,9 +1494,9 @@
           "description": "Construction starts on new Broadway Southwest store",
           "images": [],
           "referencedHostIds": [],
+          "source": "Englewood Sentinel - October 3, 1984",
           "additionalContent": {},
-          "version": "0.5.0",
-          "source": "Englewood Sentinel - October 3, 1984"
+          "version": "0.5.1"
         },
         {
           "id": "f0b88ca9-3902-41cc-b161-807e53d5183d",
@@ -1506,14 +1506,26 @@
           "description": "Renovation and expansion of Villa Italia is scheduled to begin. Its cost is estimated at $31 million, excluding a new department store, more than double Cinderella City's $12 million renovation which completed earlier that year.",
           "images": [],
           "referencedHostIds": [],
+          "source": "Rocky Mountain News - May 24, 1983",
           "additionalContent": {},
-          "version": "0.5.0",
-          "source": "Rocky Mountain News - May 24, 1983"
+          "version": "0.5.1"
+        },
+        {
+          "id": "6b56482e-9f73-4f38-994d-fd87beebfe09",
+          "type": "construction",
+          "date": "1964-12-09",
+          "isApprxDate": false,
+          "description": "Groundbreaking for Villa Italia",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "",
+          "additionalContent": {},
+          "version": "0.5.1"
         }
       ],
       "timelineEventReferences": [],
       "contextualEvents": [],
-      "version": "0.5.0"
+      "version": "0.5.1"
     },
     {
       "id": "3b88cfcf-7e74-42b2-873b-2d807db89950",
