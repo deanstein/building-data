@@ -1514,6 +1514,18 @@
       "timelineEventReferences": [],
       "contextualEvents": [],
       "version": "0.5.0"
+    },
+    {
+      "id": "3b88cfcf-7e74-42b2-873b-2d807db89950",
+      "name": "Von Frellick Malls",
+      "imageMetaRegistryRepo": "",
+      "avatarImage": "jdg_avatar_placeholder",
+      "inceptionDate": "",
+      "cessationDate": "",
+      "timelineEvents": [],
+      "timelineEventReferences": [],
+      "contextualEvents": [],
+      "version": "0.5.1"
     }
   ]
 }
