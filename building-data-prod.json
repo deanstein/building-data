@@ -1522,7 +1522,80 @@
       "avatarImage": "jdg_avatar_placeholder",
       "inceptionDate": "",
       "cessationDate": "",
-      "timelineEvents": [],
+      "timelineEvents": [
+        {
+          "id": "5504059f-b1e7-4f40-a7f5-c867014396fa",
+          "type": "opening",
+          "date": "1956-01-01",
+          "isApprxDate": true,
+          "description": "Lakeside Mall in Lakeside, CO opens",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "",
+          "additionalContent": {},
+          "version": "0.5.1"
+        },
+        {
+          "id": "14a7bd75-4e43-447d-b7e4-55a7b3ec77dd",
+          "type": "opening",
+          "date": "1958-01-01",
+          "isApprxDate": true,
+          "description": "Big Town in Dallas, TX opens",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "",
+          "additionalContent": {},
+          "version": "0.5.1"
+        },
+        {
+          "id": "5fc09113-110e-46c2-bc04-0c993507a7fd",
+          "type": "opening",
+          "date": "1960-01-01",
+          "isApprxDate": true,
+          "description": "Sunset Center opens in Amarillo, TX",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "",
+          "additionalContent": {},
+          "version": "0.5.1"
+        },
+        {
+          "id": "d7c38628-2f55-4ff4-b453-feac4ee7c43d",
+          "type": "opening",
+          "date": "1962-01-01",
+          "isApprxDate": false,
+          "description": "Crossroads Mall in Boulder, CO opens",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "",
+          "additionalContent": {},
+          "version": "0.5.1"
+        },
+        {
+          "id": "d56a7d29-1a21-45a8-a0ea-7107a5d9de3c",
+          "type": "generic",
+          "date": "1966-03-07",
+          "isApprxDate": false,
+          "description": "Villa Italia in Lakewood, CO opens",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "",
+          "additionalContent": {},
+          "version": "0.5.1"
+        },
+        {
+          "id": "6338319f-762c-4fcc-b598-72b9b572460a",
+          "type": "opening",
+          "date": "1968-03-07",
+          "isApprxDate": false,
+          "description": "Cinderella City in Englewood, CO opens",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "",
+          "additionalContent": {},
+          "version": "0.5.1"
+        }
+      ],
       "timelineEventReferences": [],
       "contextualEvents": [],
       "version": "0.5.1"
