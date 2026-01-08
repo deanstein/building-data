@@ -1607,6 +1607,30 @@
           "source": "Denver Post - October 16, 1985",
           "additionalContent": {},
           "version": "0.5.1"
+        },
+        {
+          "id": "1b280e3a-f2d3-4802-b27d-9ec921fa6339",
+          "type": "statistic",
+          "date": "1983-01-01",
+          "isApprxDate": true,
+          "description": "Generated $1.84 million in sales tax revenue",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "Denver Post - October 16, 1985",
+          "additionalContent": {},
+          "version": "0.5.1"
+        },
+        {
+          "id": "ff5db239-3ab9-48b5-8a3b-14001d6355e6",
+          "type": "statistic",
+          "date": "1984-01-01",
+          "isApprxDate": false,
+          "description": "Generated $1.74 million in sales tax revenue",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "Denver Post - October 16, 1985",
+          "additionalContent": {},
+          "version": "0.5.1"
         }
       ],
       "timelineEventReferences": [],
