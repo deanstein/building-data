@@ -1527,7 +1527,7 @@
           "type": "construction",
           "date": "1984-09-26",
           "isApprxDate": false,
-          "description": "Most of the east mall roof has been removed with new roof starting.\nMost of the steel and roof are erected for the west mall.",
+          "description": "Construction update:\nWest mall work started first, and has old roof removed and new steel erected\nEast mall roof is almost removed, new roof starting soon",
           "images": [],
           "referencedHostIds": [],
           "source": "Denver Post (?) - September 26, 1984",
@@ -1558,6 +1558,30 @@
           "additionalContent": {
             "attribution": "Jerry Gart, President of Gart Sports"
           },
+          "version": "0.5.1"
+        },
+        {
+          "id": "a9b0d1a2-4f63-41c9-b2b9-b92d8c8fff96",
+          "type": "demolition",
+          "date": "1984-01-01",
+          "isApprxDate": true,
+          "description": "Original King Soopers just north of the mall is demolished",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "Heritage Lakewood Photo Record 2007.037.582",
+          "additionalContent": {},
+          "version": "0.5.1"
+        },
+        {
+          "id": "d4b71607-b487-4a2c-b630-fc5bf93aba13",
+          "type": "planning",
+          "date": "1977-12-01",
+          "isApprxDate": false,
+          "description": "Purchase and renovation planning begins as Kravco and Equitable Life contemplate purchasing Villa Italia and Cinderella City from Gerri Von Frellick",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "Denver Post - December 5, 1984",
+          "additionalContent": {},
           "version": "0.5.1"
         }
       ],
