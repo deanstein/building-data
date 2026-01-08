@@ -1631,6 +1631,20 @@
           "source": "Denver Post - October 16, 1985",
           "additionalContent": {},
           "version": "0.5.1"
+        },
+        {
+          "id": "a8f01ec5-eb55-4db5-b684-ac5149509ebe",
+          "type": "quote",
+          "date": "1985-10-16",
+          "isApprxDate": false,
+          "description": "\"About 35% of the stores closed during the expansion, and for the big ones that did stay open, there was a fall-off in sales.\" - Lakewood budget manager Jim Zelenski",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "Denver Post - October 16, 1985",
+          "additionalContent": {
+            "attribution": "Lakewood budget manager Jim Zelenski"
+          },
+          "version": "0.5.1"
         }
       ],
       "timelineEventReferences": [],
