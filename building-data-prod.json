@@ -200,7 +200,10 @@
           "date": "1960-08-01",
           "isApprxDate": true,
           "description": "Gerri Von Frellick, a veteran shopping mall developer, announced plans to build a shopping mall at East Hampden Avenue and South Franklin Street.\nVon Frellick proposed to build a \"new concept\" mall, with stores out of the weather under a single roof beside an air-conditioned mall or plaza. The mall, to be called Cinderella City, would be a two-level structure of Victorian architecture.",
-          "images": [],
+          "images": [
+            "concept_art._1960_08_14_aerial_rendering",
+            "concept_art._1960_08_14_site_plan"
+          ],
           "referencedHostIds": [],
           "source": "cc-historical-narrative",
           "additionalContent": {},
