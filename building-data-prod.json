@@ -1195,6 +1195,20 @@
           "source": "Rocky Mountain News - July 20, 1965",
           "additionalContent": {},
           "version": "0.5.1"
+        },
+        {
+          "id": "48487cb4-d5e3-40ac-ad62-99255737b44e",
+          "type": "media",
+          "date": "1961-06-19",
+          "isApprxDate": false,
+          "description": "Protestors show up at an Englewood citizens committee to support the fight against the proposed Cinderella City shopping center on the KLZ Radio Tower site, on Hampden Ave., just west of University Blvd.\n\nSigns include \"Roses are red, violets are blue, Cinderella City I hate you\" and \"As Abstract as Cinderella City.\"",
+          "images": [
+            "history._1961_06_19_protestors"
+          ],
+          "referencedHostIds": [],
+          "source": "see-images",
+          "additionalContent": {},
+          "version": "0.5.1"
         }
       ],
       "timelineEventReferences": [],
