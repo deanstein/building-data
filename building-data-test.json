@@ -1,1466 +1,162 @@
 {
   "allBuildings": [
     {
-      "id": "d5193216-b5b1-4c88-b0ad-8d725f5b962e",
+      "id": "74d92940-4c98-4963-acdd-d7a6264f5426",
       "name": "Cinderella City Mall",
-      "imageMetaRegistryRepo": "ccp-website",
-      "avatarImage": "blue_mall_60s70s_2",
+      "imageMetaRegistryRepo": "jdg-ui-svelte",
+      "avatarImage": "aerial_60s70s_1",
       "inceptionDate": "1968-03-07",
       "cessationDate": "1997-12-31",
       "timelineEvents": [
         {
-          "id": "6d1fe5b3-988a-47e0-8765-57ff563db0f9",
+          "id": "c13ce629-065f-4cd9-b280-26faf509f755",
           "type": "opening",
           "date": "1968-03-07",
           "isApprxDate": false,
-          "description": "Cinderella City opens for business with 107 stores initially. Gerri Von Frellick was joined by his wife, Reba Mae, and daughter, Gerri Lu. Reba Mae pulled a gold-colored lever to start the pumps for the 35-foot fountain in the Blue Room.",
+          "description": "Cinderella City opens for business",
           "images": [
-            "blue_mall._1968_03_07_von_frellick",
-            "blue_mall._1968_03_07_grand_opening_crowds_1",
-            "parking._1968_03_07_parking",
-            "history._1968_03_07_Von_Frellicks_start_fountain"
+            "ccm._1968_03_07_von_frellick",
+            "ccm._1968_03_07_grand_opening_crowds_1"
           ],
-          "referencedHostIds": [],
-          "source": "see-images",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "7d346604-9400-4c05-998f-3f1f72dbaa65",
-          "type": "closure",
-          "date": "1997-12-31",
-          "isApprxDate": false,
-          "description": "Montgomery Ward closes its store, effectively closing Cinderella City.",
-          "images": [],
           "referencedHostIds": [],
           "source": "",
           "additionalContent": {},
           "version": "0.5.1"
         },
         {
-          "id": "99288ccb-019b-4948-9c66-bc46f232593e",
+          "id": "a5f05697-d981-4fa9-b928-9f03aff5ca5a",
           "type": "media",
           "date": "1998-02-01",
           "isApprxDate": true,
           "description": "The abandoned southeast Blue Mall entrance watches silently over an empty parking deck.",
           "images": [
-            "blue_mall_80s90s_exterior_1"
+            "ccm._1998_01_01_blue_mall_mw_entrance"
           ],
           "referencedHostIds": [],
-          "source": "see-images",
+          "source": "",
           "additionalContent": {},
           "version": "0.5.1"
         },
         {
-          "id": "57eba2ec-9a5c-4764-9e90-462f0dbb6970",
+          "id": "75e4a224-c5d1-426b-b5e0-f3198a48ffd6",
           "type": "media",
           "date": "1967-01-01",
           "isApprxDate": true,
           "description": "Concept sketches released showing Cinderella City's proposed design.",
           "images": [
-            "concept_art._1967_01_01_blue_mall_exterior_rendering",
-            "concept_art_1"
+            "ccm._1967_blue_mall_interior_rendering",
+            "ccm._1967_01_01_blue_mall_exterior_rendering"
           ],
           "referencedHostIds": [],
-          "source": "see-images",
+          "source": "",
           "additionalContent": {},
           "version": "0.5.1"
         },
         {
-          "id": "627ede2f-f40f-4a38-bdd7-0c2671262f38",
+          "id": "e62ecffb-943d-4c3d-9533-3d50a71654b3",
+          "type": "closure",
+          "date": "1997-12-31",
+          "isApprxDate": false,
+          "description": "Cinderella City closes to the public when the last remaining tenant, Montgomery Ward, vacates its store.",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "",
+          "additionalContent": {},
+          "version": "0.5.1"
+        },
+        {
+          "id": "4f4972a6-ffb2-4fa5-b2e7-98d90ba58c28",
           "type": "media",
           "date": "1981-06-25",
           "isApprxDate": false,
           "description": "A sketch of the proposed Rose Mall renovation.",
           "images": [
-            "rose_mall._1981_06_25_rose_mall_sketch"
+            "ccm._1981_06_25_rose_mall_sketch"
           ],
           "referencedHostIds": [],
-          "source": "see-images",
+          "source": "",
           "additionalContent": {},
           "version": "0.5.1"
         },
         {
-          "id": "17e561d6-34a7-45c9-b453-806fd0f0cf33",
+          "id": "870f7c2b-b291-4083-84a2-1f6e154b7f8c",
           "type": "media",
           "date": "1981-12-23",
           "isApprxDate": false,
           "description": "A sketch of the Blue Mall from the 1981 architectural drawing set for the upcoming Cinderella City renovation.",
           "images": [
-            "blue_mall._1981_12_23_center_court_sketch"
+            "ccm._1981_12_23_center_court_sketch"
           ],
           "referencedHostIds": [],
-          "source": "see-images",
+          "source": "",
           "additionalContent": {},
           "version": "0.5.1"
         },
         {
-          "id": "4cd0de13-84a6-43a7-8ae9-727052e83ee9",
+          "id": "da77455a-df38-445d-aec7-fdcfaf35e566",
           "type": "media",
           "date": "1983-05-19",
           "isApprxDate": false,
           "description": "The newly-renovated Blue Mall and Food Court are shown in a press photo.",
           "images": [
-            "blue_mall._1983_05_19_blue_mall_and_food_court"
+            "ccm._1983_05_19_blue_mall_and_food_court"
           ],
           "referencedHostIds": [],
-          "source": "see-images",
+          "source": "",
           "additionalContent": {},
           "version": "0.5.1"
         },
         {
-          "id": "16481e91-075b-4f88-843c-7b9106770ce0",
-          "type": "media",
+          "id": "4cf8d474-46a5-4ec7-a7ce-9349d9020845",
+          "type": "generic",
           "date": "1968-03-01",
           "isApprxDate": true,
-          "description": "An early look at the Blue Mall before Cinderella City opened for business.",
+          "description": "An early look at the Blue Mall before the mall opened.",
           "images": [
-            "blue_mall._1968_blue_mall"
+            "ccm._1968_blue_mall"
           ],
           "referencedHostIds": [],
-          "source": "see-images",
+          "source": "",
           "additionalContent": {},
           "version": "0.5.1"
         },
         {
-          "id": "8ca6dcb1-ffe4-4ea6-aa53-a3c6560ebbad",
+          "id": "4a6b0b1e-4990-440d-a3e1-04d22b6d8e31",
           "type": "article",
           "date": "1978-12-30",
           "isApprxDate": false,
-          "description": "Von Frellick's Cinderella City interest sold for $35 million",
+          "description": "Gerri Von Frellick sells Cinderella City to KRAVCO Real Estate Holdings.",
           "images": [
-            "history._1978_12_30_von_frellick"
+            "ccm._1978_12_30_von_frellick"
           ],
           "referencedHostIds": [],
-          "source": "Rocky Mountain News - December 30, 1978",
-          "additionalContent": {
-            "publication": ""
-          },
+          "source": "",
+          "additionalContent": {},
           "version": "0.5.1"
         },
         {
-          "id": "e0743684-eef0-4e92-aa72-fbc97aba5259",
+          "id": "5aaef837-2637-464e-9eef-232d7c14b06d",
           "type": "media",
           "date": "1987-01-01",
           "isApprxDate": true,
           "description": "A photo of the renovated Rose Mall.",
           "images": [
-            "rose_mall_80s90s_1"
+            "ccm._1987_rose_mall"
           ],
           "referencedHostIds": [],
-          "source": "see-images",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "0b54e83d-3b3d-42f9-bf56-4c5e0809c0b2",
-          "type": "quote",
-          "date": "1960-09-25",
-          "isApprxDate": false,
-          "description": "\"The architecture is of the Georgetown, Colorado era, the time of the gold and silver camps. That makes sense today, since we can use the cupolas for air conditioning equipment. And the entire area, landscaped minus signs, is designed to blend like a park into the surrounding community.\" \n- Gerri Von Frellick",
-          "images": [
-            "concept_art._1960_rendering"
-          ],
-          "referencedHostIds": [],
-          "source": "cc-historical-narrative",
-          "additionalContent": {
-            "attribution": "Gerri Von Frellick"
-          },
-          "version": "0.5.1"
-        },
-        {
-          "id": "9fd876f4-1444-455a-a434-ea2a03b2d4cb",
-          "type": "planning",
-          "date": "1960-09-25",
-          "isApprxDate": false,
-          "description": "Von Frellick announced that financing for the mall was assured, and he intended to build the mall regardless of opposition.",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "cc-historical-narrative",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "85888b13-326c-4cfb-a21e-53788ebf7d37",
-          "type": "quote",
-          "date": "1960-09-25",
-          "isApprxDate": false,
-          "description": "\"... because three years of surveys shows that's the place a regional shopping center is needed and should be located.\" - Gerri Von Frellick",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "cc-historical-narrative",
-          "additionalContent": {
-            "attribution": "Gerri Von Frellick"
-          },
-          "version": "0.5.1"
-        },
-        {
-          "id": "10f4da9a-50d2-4178-a411-ef812c9acfbc",
-          "type": "planning",
-          "date": "1960-08-01",
-          "isApprxDate": true,
-          "description": "Gerri Von Frellick, a veteran shopping mall developer, announced plans to build a shopping mall at East Hampden Avenue and South Franklin Street.\nVon Frellick proposed to build a \"new concept\" mall, with stores out of the weather under a single roof beside an air-conditioned mall or plaza. The mall, to be called Cinderella City, would be a two-level structure of Victorian architecture.",
-          "images": [
-            "concept_art._1960_08_14_aerial_rendering",
-            "concept_art._1960_08_14_site_plan"
-          ],
-          "referencedHostIds": [],
-          "source": "cc-historical-narrative",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "f7764948-7d00-4c6c-84d1-e3d410c8cc03",
-          "type": "opening",
-          "date": "1987-11-05",
-          "isApprxDate": false,
-          "description": "Montgomery Ward opens at Cinderella City in the former Denver Dry Goods building",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "Englewood Sentinel - November 4, 1987",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "848ea9ba-9a93-4320-a5cc-5df9b64d3a9f",
-          "type": "renovation",
-          "date": "1984-10-03",
-          "isApprxDate": false,
-          "description": "Broadway Southwest breaks ground on Cinderella City store after the Neusteters demolition completed",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "Englewood Sentinel - October 3, 1984",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "1ed5f003-96f5-4502-9560-02391be03d8d",
-          "type": "article",
-          "date": "1995-04-09",
-          "isApprxDate": false,
-          "description": "4 tenants remain at Cinderella City",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "",
-          "additionalContent": {
-            "publication": ""
-          },
-          "version": "0.5.1"
-        },
-        {
-          "id": "7fc24149-9a15-4a4e-89a4-36b987f0330f",
-          "type": "ownershipChange",
-          "date": "1980-01-01",
-          "isApprxDate": true,
-          "description": "Cinderella City is purchased by Capital Alliance Companies, a joint venture of Equitable Life Assurance Society of the United States and Kravco Inc. Capital assumed the mortgage and paid the family $12 million. \nVon Frellick also sold his leasehold to operate the mall to Capital Alliance for a reported $35 million.",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "cc-historical-narrative",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "e819df00-bd57-4be1-a8d8-ac491cf13dfc",
-          "type": "renovation",
-          "date": "1983-05-01",
-          "isApprxDate": true,
-          "description": "Phase I and Phase II of the renovation are complete, adding skylights, 127,000 square feet of parquet flooring, and more than 60,000 square feet of new retail and food court space in a former parking garage.",
-          "images": [],
-          "referencedHostIds": [],
           "source": "",
           "additionalContent": {},
           "version": "0.5.1"
         },
         {
-          "id": "96c59da8-1579-468a-b37a-adb74cb10a6e",
-          "type": "quote",
-          "date": "1983-05-24",
-          "isApprxDate": false,
-          "description": "\"It needed an uplift phyiscally, mentally, and morally\" - Early Reynolds, Cinderella City Generam Manager",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "",
-          "additionalContent": {
-            "attribution": ""
-          },
-          "version": "0.5.1"
-        },
-        {
-          "id": "989bce48-ed64-4fbc-9061-8462226cf1d8",
-          "type": "renovation",
-          "date": "1984-03-01",
-          "isApprxDate": false,
-          "description": "Phase III of the renovation begins: Demolition of the Neusteters to make room for Broadway Southwest. The cost is nearly the total of the first two phases.",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "0ec2292e-75e6-4e44-86a5-44f36f8732e2",
-          "type": "planning",
-          "date": "1977-12-01",
-          "isApprxDate": true,
-          "description": "Kravco, future 25% owner of Cinderella City, begins working with Equitable Life Assurance Society on a potential purchase and renovation plan for Cinderella City.",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "a686dd9d-f1f2-4292-8f5b-e90b211cffb5",
-          "type": "quote",
-          "date": "1977-12-15",
-          "isApprxDate": false,
-          "description": "\"We started this process in 1977, before we were aware of plans for Southwest Plaza\" - Cam Morton, Vice President of Development at Kravco",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "Rocky Mountain News - May 24, 1983",
-          "additionalContent": {
-            "attribution": "Cam Morton, Vice President of Development at Kravco"
-          },
-          "version": "0.5.1"
-        },
-        {
-          "id": "0f1182e8-0f0e-4af4-a38b-de0cae45a3cc",
-          "type": "planning",
-          "date": "1981-01-01",
-          "isApprxDate": true,
-          "description": "Kravco and Equitable announce $12 million renovation plans to rejuvenate Cinderella City in two phases.",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "Rocky Mountain News - May 24, 1983",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "c7891ca2-4092-472e-9a4d-471b138d0585",
-          "type": "article",
-          "date": "1984-07-18",
-          "isApprxDate": false,
-          "description": "Queen of malls bids to regain crown",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "",
-          "additionalContent": {
-            "publication": ""
-          },
-          "version": "0.5.1"
-        },
-        {
-          "id": "b3e574b2-a93a-49c6-baaa-7ea826d22552",
-          "type": "renovation",
-          "date": "1982-02-01",
-          "isApprxDate": true,
-          "description": "Work begins on Phase I of the Cinderella City renovation: Improvements to Rose and Shamrock Malls",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "c9b6b253-8212-4c20-a12f-0793bd700f1e",
-          "type": "article",
-          "date": "1984-08-08",
-          "isApprxDate": false,
-          "description": "Cinderella City renovation lifts Englewood",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "",
-          "additionalContent": {
-            "publication": ""
-          },
-          "version": "0.5.1"
-        },
-        {
-          "id": "d2c90d68-b120-4c82-81b8-13ccfdcf4062",
-          "type": "article",
-          "date": "1991-12-06",
-          "isApprxDate": false,
-          "description": "Cinderella City now a stepsister",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "",
-          "additionalContent": {
-            "publication": ""
-          },
-          "version": "0.5.1"
-        },
-        {
-          "id": "cc961945-39c3-40df-b3d1-5a59c66f6062",
-          "type": "article",
-          "date": "1994-03-22",
-          "isApprxDate": false,
-          "description": "Forlorn Cinderella City slumbers",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "",
-          "additionalContent": {
-            "publication": ""
-          },
-          "version": "0.5.1"
-        },
-        {
-          "id": "c58e72fc-e46f-48ca-8c81-afd053041401",
-          "type": "article",
-          "date": "1993-02-15",
-          "isApprxDate": false,
-          "description": "Englewood to put Cinderella City up for sale",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "",
-          "additionalContent": {
-            "publication": ""
-          },
-          "version": "0.5.1"
-        },
-        {
-          "id": "f9c53af4-f0d3-4a3d-995f-9ed3f0293346",
-          "type": "statistic",
-          "date": "1993-02-01",
-          "isApprxDate": true,
-          "description": "Mall hits 50% vacancy rate",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "Rocky Mountain News - February 15, 1993",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "e8a9516e-05b1-4f9a-8ee0-72eb181a2a23",
-          "type": "statistic",
-          "date": "1981-01-01",
-          "isApprxDate": true,
-          "description": "Generated nearly $3 million in sales tax revenue, about 45% of Englewood's total tax revenue",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "Rocky Mountain News - February 15, 1993",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "c37208a9-8cb2-4498-8752-8d69a651ac02",
-          "type": "statistic",
-          "date": "1991-01-01",
-          "isApprxDate": false,
-          "description": "Generated $2.2 million in sales tax revenue",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "Rocky Mountain News - February 15, 1993",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "9f0ba542-872d-494a-9cc7-ef4ad545ca6a",
-          "type": "statistic",
-          "date": "1992-01-01",
-          "isApprxDate": false,
-          "description": "Generated $1.85 million in sales tax revenue; about 12% of Englewood's total sales tax revenue",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "Rocky Mountain News - February 15, 1993",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "bf603ece-be04-4cdc-b470-8e8800a01ee1",
-          "type": "closure",
-          "date": "1994-01-29",
-          "isApprxDate": false,
-          "description": "Foley's closes its Cinderella City store",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "e0087f4c-8b11-46e8-93df-486b11e7575e",
-          "type": "closure",
-          "date": "1994-05-28",
-          "isApprxDate": false,
-          "description": "JC Penney closes its Cinderella City store",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "89039f83-9f2d-4af0-8e1c-1b6eb031a84a",
-          "type": "statistic",
-          "date": "1994-03-12",
-          "isApprxDate": false,
-          "description": "35 stores remain operating",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "9b7b1815-b713-4ac8-abff-2f2a6d6975b3",
-          "type": "renovation",
-          "date": "1976-01-01",
-          "isApprxDate": true,
-          "description": "Final repairs are made to the parking deck",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "26283239-7ebe-42f3-b918-91619d893e65",
-          "type": "renovation",
-          "date": "1982-08-01",
-          "isApprxDate": true,
-          "description": "Work begins on Phase II of Cinderella City: Blue Mall, food court, and Gold Mall",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "7441fd1b-6ad2-479d-9b4b-57bf46b25eb3",
-          "type": "closure",
-          "date": "1995-02-01",
-          "isApprxDate": true,
-          "description": "Joslins closes its Cinderella City store",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "Denver Post - August 19, 1994",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "d3fb377f-fe43-48be-a86c-256ef56abcd3",
-          "type": "article",
-          "date": "1994-08-19",
-          "isApprxDate": false,
-          "description": "End near for Cinderella City - Joslins will pull out next year",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "",
-          "additionalContent": {
-            "publication": ""
-          },
-          "version": "0.5.1"
-        },
-        {
-          "id": "224c8a2e-662b-42b3-8e02-848ca641fda0",
-          "type": "closure",
-          "date": "1994-09-10",
-          "isApprxDate": false,
-          "description": "Wells Music closes its Cinderella City store and reopens the same day at 685 S. Broadway",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "Rocky Mountain News - September 1, 1994",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "0cefa8af-eef8-4e00-8fa3-43f51b091593",
-          "type": "statistic",
-          "date": "1995-12-10",
-          "isApprxDate": false,
-          "description": "Only Montgomery Ward, Lenscrafters, and Village Inn remain",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "Denver Post - December 10, 1995",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "a747eb70-9328-44ff-acb3-a811b3b660a1",
-          "type": "article",
-          "date": "1996-02-01",
-          "isApprxDate": false,
-          "description": "Mall site enters next phase",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "",
-          "additionalContent": {
-            "publication": ""
-          },
-          "version": "0.5.1"
-        },
-        {
-          "id": "bfc01ceb-bb8d-42d1-8a7d-277d1fd86b6b",
-          "type": "statistic",
-          "date": "1974-01-01",
-          "isApprxDate": true,
-          "description": "Generated $2.2 million in sales tax revenue, 52% of Englewood's total tax revenue",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "Denver Post - February 1, 1996",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "e85a9bc7-84d7-4e5d-936a-ff6ddb91cd63",
+          "id": "7e9e983a-5150-4e30-b8e5-5b4518408c83",
           "type": "generic",
-          "date": "",
+          "date": "1979-08-01",
           "isApprxDate": false,
-          "description": "Generated $3.4 million in sales tax revenue, 47% of Englewood's total tax revenue",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "b5b99476-fe03-44ad-a165-c02959e13804",
-          "type": "statistic",
-          "date": "1980-01-01",
-          "isApprxDate": true,
-          "description": "Generated $3.4 million in sales tax revenue, 47% of Englewood's total tax revenue.",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "Denver Post - February 1, 1996",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "2182e7ea-ed07-417c-b435-fdf96b6f3b03",
-          "type": "statistic",
-          "date": "1984-01-01",
-          "isApprxDate": true,
-          "description": "Generated $2.9 million in sales tax revenue, about 30% of Englewood's total tax revenue",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "Denver Post - February 1, 1996",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "2d510700-6377-4002-8862-1ea3a0249198",
-          "type": "statistic",
-          "date": "1995-01-01",
-          "isApprxDate": true,
-          "description": "Generated $342,131 in sales tax revenue, 2.6% of Englewood's total tax revenue",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "Denver Post - February 1, 1996",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "333e97bf-4ed6-4dee-87b7-e82c7d9d9d92",
-          "type": "ownershipNegotiation",
-          "date": "1997-04-05",
-          "isApprxDate": false,
-          "description": "Equitable agrees to transfer the Cinderella City property to the City of Englewood. It also agrees to spend $1.2 million in environmental cleanup. The City would then buy the Joslins building from Mercantile for $400,000.",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "Denver Post - April 5, 1997",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "b16e7c30-8c4f-47e2-a50a-ba252331bd54",
-          "type": "closure",
-          "date": "1997-07-07",
-          "isApprxDate": false,
-          "description": "Montgomery Ward files for Chapter 11 bankruptcy.",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "125a169e-0cbc-4bf5-87f0-4fa0bf6793d9",
-          "type": "legal",
-          "date": "1961-06-20",
-          "isApprxDate": false,
-          "description": "Englewood City Commission unanimously voted to annex the Hampden and Franklin site for commercial development amid jeers and loud protests.",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "cc-historical-narrative",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "e9805eac-300e-4df2-8bae-bdc44cb3f93e",
-          "type": "legal",
-          "date": "1962-04-01",
-          "isApprxDate": true,
-          "description": "Arapahoe County judge Robert B. Lee ruled that the annexation and zoning of the Cinderella City land in a single action violated Englewood's city charter.",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "cc-historical-narrative",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "343f02b4-612b-4437-badb-71dd14ed243c",
-          "type": "legal",
-          "date": "1962-11-19",
-          "isApprxDate": false,
-          "description": "Englewood City Council initially passes the proposed zoning change 5-2 for the Hampden and Franklin property. \nHowever, the city attorney determined that a 3/4 vote was necessary because more than 20% of the residents had petitioned against the project, so the zoning change effort failed in the end.",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "Denver Post - November 20, 1962",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "7f54f206-8818-4838-9135-cdfd375ccf9a",
-          "type": "ownershipNegotiation",
-          "date": "1963-11-01",
-          "isApprxDate": false,
-          "description": "Englewood Citizens' Action Committee, led by Don Carney, president of First National Bank of Englewood, suggested Englewood City Park as a logical alternative location, noting that the sale of the park would allow the city to develop smaller and safer parks throughout the city.",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "cc-historical-narrative",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "a0f06ded-3ba0-4bdd-89dc-cad74167f4c4",
-          "type": "ownershipChange",
-          "date": "1964-02-01",
-          "isApprxDate": true,
-          "description": "Von Frellick accepts Englewood's offer to build on the City Park property.",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "cc-historical-narrative",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "5739843c-7886-4f47-bd0f-d2b8fccfa08d",
-          "type": "construction",
-          "date": "1966-03-30",
-          "isApprxDate": false,
-          "description": "Groundbreaking for New Englewood Shopping Center - a name that Von Frellick later lengthened to \"New Englewood the Cinderella City.\"",
+          "description": "Neusteters",
           "images": [
-            "history._1966_03_31_groundbreaking"
+            "image_testing.test"
           ],
-          "referencedHostIds": [],
-          "source": "cc-historical-narrative",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "f601142e-38de-4164-9969-c3a66cc6faf2",
-          "type": "opening",
-          "date": "1968-07-25",
-          "isApprxDate": false,
-          "description": "Second Grand Opening - 35 new stores opened for business, bringing the number to 141.",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "cc-historical-narrative",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "55ce7323-5339-4af0-bc19-cde8c3fabef9",
-          "type": "statistic",
-          "date": "1970-01-01",
-          "isApprxDate": true,
-          "description": "Cinderella City has 213 tenants and an average of 31,000 visitors and 14,000 cars daily",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "cc-historical-narrative",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "86919ce3-8059-47d8-8680-b43422c33521",
-          "type": "statistic",
-          "date": "1971-10-01",
-          "isApprxDate": false,
-          "description": "Cinderella City had 207 retail outlets, law and medical offices, accountants, investment counselors, beauty salons, barber shops, an Englewood High School City Campus, employment agencies, insurance companies, an advising agency, a radio station, oil company offices, a computer center, and purchasing offices of Martin Marieteta Company.",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "b4f8d217-053d-48d1-9969-3a1c8df74a4b",
-          "type": "opening",
-          "date": "1969-09-01",
-          "isApprxDate": true,
-          "description": "Von Frellick and Englewood Schools administrator Don Harper opened the City Campus at Cinderella City - a branch of Englewood High School in Cinderella City's mezzanine level",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "cc-historical-narrative",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "03fc81cc-0cdf-4fca-8e6c-b893fce820ea",
-          "type": "statistic",
-          "date": "1970-05-01",
-          "isApprxDate": true,
-          "description": "310 students enrolled in the City Campus programs.",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "cc-historical-narrative",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "6d301b70-bd6b-4fdc-a4fc-d5f54b4c40aa",
-          "type": "ownershipNegotiation",
-          "date": "1986-11-01",
-          "isApprxDate": false,
-          "description": "Ken Moore, executive vice president of Kravco Inc., confirms Cinderella City is for sale.",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "Denver Post - November 12, 1986",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "2c141cb6-44b6-4b1f-ad74-c8641602b738",
-          "type": "quote",
-          "date": "1986-11-12",
-          "isApprxDate": false,
-          "description": "\"It's not a Grade A mall, but an adequate mall\" - David Cord, senior investment broker",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "Denver Post - November 12, 1986",
-          "additionalContent": {
-            "attribution": "David Cord, senior investment broker"
-          },
-          "version": "0.5.1"
-        },
-        {
-          "id": "2f1d9f6d-c2c5-4d41-b2f4-0d8e2fdadb6a",
-          "type": "planning",
-          "date": "1969-06-19",
-          "isApprxDate": false,
-          "description": "Feasibility study under way for hotel at Cinderella City",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "Rocky Mountain News - June 19, 1969",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "242d85ea-da6b-4064-8e99-afe32e2e4b35",
-          "type": "structural",
-          "date": "1973-01-26",
-          "isApprxDate": true,
-          "description": "Structural problems at Cinderella City become publicly acknowledged",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "Greeley Daily Tribune - January 26, 1973",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "81626a55-0848-4ef8-bf4a-165dba4c9545",
-          "type": "structural",
-          "date": "1972-12-01",
-          "isApprxDate": false,
-          "description": "A routine inspection revealed concrete flaking from a pillar corbel, and a person who had been involved in the construction of the mall said the J.C. Penney store would be a good place to look for similar problems.",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "cc-historical-narrative",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "789b428e-4773-46d1-96ef-11715b96f390",
-          "type": "quote",
-          "date": "1973-01-26",
-          "isApprxDate": false,
-          "description": "\"There was never any precarious situation or any dange out there that I'm aware of.\" - Gerri Von Frellick",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "cc-historical-narrative",
-          "additionalContent": {
-            "attribution": "Gerri Von Frellick"
-          },
-          "version": "0.5.1"
-        },
-        {
-          "id": "11de97aa-a0a2-4221-b76e-19b2dd107672",
-          "type": "structural",
-          "date": "1973-01-26",
-          "isApprxDate": false,
-          "description": "Inspecting engineer Lyman Frasier wasn't nearly as confident. Asked if the J.C. Penney store had been in danger of collapse, he responded that \"it would be wise to shore it up. How's that for evading your question?\" \nFrasier termed the cracks in the J.C. Penney store and the parking structures \"critical,\" but cracking in other areas of the mall was less severe. ",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "cc-historical-narrative",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "fe2389c0-218d-40ff-9736-140a111d6df7",
-          "type": "renovation",
-          "date": "1973-01-26",
-          "isApprxDate": false,
-          "description": "The structural problems in the Penney store were mitigated by using steel scaffolding to relieve loads on the faulty corbels and erection of eleven sets of shoring. \nEmergency repairs to the parking structures included erection of 22 sets of shoring to hold up nine critical areas of the structure",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "cc-historical-narrative",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "1229f2df-b39b-4c12-b275-e718bec80703",
-          "type": "ownershipChange",
-          "date": "1978-01-01",
-          "isApprxDate": true,
-          "description": "Gerri Von Frellick passes ownership of 200-year property lease of Cinderella City to his daughter, Gerri Lu Von Frellick, although he retained management of the mall.",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "cc-historical-narrative",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "7823b6cf-5c73-4238-97ba-75b631124ee0",
-          "type": "quote",
-          "date": "1978-11-01",
-          "isApprxDate": true,
-          "description": "Von Frellick's wife said at the time that the managing of the mall was like running a city and \"was killing\" her husband.",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "cc-historical-narrative",
-          "additionalContent": {
-            "attribution": "Gerri Von Frellick's wife"
-          },
-          "version": "0.5.1"
-        },
-        {
-          "id": "e9f9bed7-584c-4148-a84b-04a23e822499",
-          "type": "generic",
-          "date": "1990-01-01",
-          "isApprxDate": true,
-          "description": "Generated $2.4 million in sales tax revenue",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "cc-historical-narrative",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "d81d7918-60f8-48cf-a232-95fa022321bc",
-          "type": "statistic",
-          "date": "1993-10-01",
-          "isApprxDate": true,
-          "description": "Sharply reduced tax income from the mall was directly blamed for elimination of 26 positions in Englewood's city workforce and moth-balling of the new Bookmobile in October 1993.",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "cc-historical-narrative",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "a86b03f6-73a6-45d1-8050-fb9098d9e81c",
-          "type": "statistic",
-          "date": "1991-12-06",
-          "isApprxDate": false,
-          "description": "To support the mall, the City of Englewood considered locating city offces, the city library, or a community center in the mall. The city also encouraged Swedish Medical to locate a day care or outreach medical center in the mall, and the City contemplated converting the mall to an entertainment and restaurant complex with less retail space",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "cc-historical-narrative",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "25ed802f-76fa-40bd-9285-6b44b2514025",
-          "type": "rebrand",
-          "date": "1993-01-01",
-          "isApprxDate": true,
-          "description": "May D&F is converted to Foley's",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "cc-historical-narrative",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "2bbbdc91-7147-4b37-a945-4d25f2d49f2a",
-          "type": "ownershipNegotiation",
-          "date": "1995-12-01",
-          "isApprxDate": true,
-          "description": "Equitable Life Assurance Company agreed to donate the mall to the City of Englewood, but the City cautiously declined to accept the property until environmental hazards, primarily asbestos and lead-based paint, were cleaned up",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "cc-historical-narrative",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "867d1cc9-bee8-4184-b32e-cb35f0d91382",
-          "type": "planning",
-          "date": "1996-02-01",
-          "isApprxDate": true,
-          "description": "Englewood city offcials favored redevelopment of the site as a \"power center\" containing \"super stores\" such as Target, Barnes and Noble, and Circuit City. \nThis plan met substantial opposition from Englewood residents, who preferred that the site be redeveloped to include a performing arts complex, small retail stores, and a park. \nIn particular, the citizens' group resisted redevelopment that included \"a sea of parking.\" ",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "cc-historical-narrative",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "8d6cb94b-5146-4021-8a3f-666395e29a1c",
-          "type": "ownershipChange",
-          "date": "1997-08-20",
-          "isApprxDate": false,
-          "description": "The City of Englewood announced that it had reached preliminary agreement with the mall's owners, Equitable and Cindermak Associates (successor to Kravco), to obtain the property \"as-is,\" except Cindermak Associates would pay costs Of removing asbestos and lead-based paint.",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "cc-historical-narrative",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "ef87b55b-58af-48db-a133-288922e01a81",
-          "type": "demolition",
-          "date": "1998-08-18",
-          "isApprxDate": false,
-          "description": "Former Englewood mayor Elmer Schwab joined a crowd of about 400 persons to watch a wrecking ball smash into the fomer J.C. Penney Auto Center, thus beginning demolition of most of Cinderella City. \nOnly the former Foley's department store building and a portion of an adjacent parking garage would remain standing. The store would be remodeled into a new City Hall, including courtrooms and a public library. ",
-          "images": [
-            "demolition._1998_08_18_demolition_celebration__1_"
-          ],
-          "referencedHostIds": [],
-          "source": "cc-historical-narrative",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "f2c0e9fb-fc6d-4588-9d84-b8ab8eba8635",
-          "type": "media",
-          "date": "1978-03-09",
-          "isApprxDate": false,
-          "description": "A boat show in the Blue Mall as part of the 1978 Fall Fun Fest event series",
-          "images": [
-            "blue_mall._1978_03_09_boat_show_2"
-          ],
-          "referencedHostIds": [],
-          "source": "see-images",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "2166794d-cb8b-4c4b-8733-bc06191b622d",
-          "type": "generic",
-          "date": "2018-03-01",
-          "isApprxDate": true,
-          "description": "The Cinderella City Project is publicly launched by Josh Goldstein as an Instagram and Facebook account in an effort to preserve the mall by reconstructing it as a virtual simulation and sharing historic facts and images.",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "fbcf97cb-0eca-4d12-98cd-eacb42e84783",
-          "type": "media",
-          "date": "1970-08-13",
-          "isApprxDate": false,
-          "description": "Two students and a teacher walk into the Englewood High School City Campus on the mezzanine level of Cinderella City.",
-          "images": [
-            "city_campus_1",
-            "rose_mall._1970_08_13_city_campus"
-          ],
-          "referencedHostIds": [],
-          "source": "see-images",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "2b6802c9-8bd4-443e-8c66-0e8fb88fab7b",
-          "type": "media",
-          "date": "1963-01-10",
-          "isApprxDate": false,
-          "description": "Renderings show an updated and more modern design for Cinderella City at the east Hampden and Franklin site.",
-          "images": [
-            "concept_art._1963_01_10_aerial_rendering",
-            "concept_art._1963_01_10_Denver_rendering",
-            "concept_art._1963_01_10_Montgomery_Ward_rendering",
-            "image_testing._1963_01_10_court_rendering"
-          ],
-          "referencedHostIds": [],
-          "source": "",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "0f06c7a8-dc09-442c-aba4-862b3583ae76",
-          "type": "media",
-          "date": "1962-11-06",
-          "isApprxDate": false,
-          "description": "A heated, 6-hour City Council meeting takes place where opponents and proponents of the Cinderella City shopping center expressed their concerns. \nVon Frellick was personally in attendance, hoping to convince the zoning board to approve the rezoning for the Hampden and Franklin site from unzoned to commercial.",
-          "images": [
-            "history._1962_11_06_council_meeting"
-          ],
-          "referencedHostIds": [],
-          "source": "Denver Post - November 6, 1962",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "b3526d3f-1d64-4e69-9851-b054fcb6c21c",
-          "type": "ownershipNegotiation",
-          "date": "1963-01-10",
-          "isApprxDate": false,
-          "description": "In a move called \"bluster\" and \"huff and puff\", Von Frellick announces he's purchased the 55-acre property at east Hampden and Franklin, even though the zoning change vote recently failed. \nHe promised to apply for a building permit days later, claiming that since the land was not zoned, he didn't have to wait for rezoning to start the process.",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "Denver Post - January 10, 1963",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "dcca86e5-0e8a-4c4b-b606-055afe7f7575",
-          "type": "legal",
-          "date": "1963-01-15",
-          "isApprxDate": false,
-          "description": "Von Frellick announces his intent to sue the City of Englewood to force them to issue the building permits he was denied thrice.",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "Rocky Mountain News - January 15, 1963",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "342c1a12-c325-4f60-bda2-1021bf7e72a4",
-          "type": "legal",
-          "date": "1963-08-19",
-          "isApprxDate": false,
-          "description": "Englewood City Council reverses their earlier rejection of the zoning change after finding a City Charter which indicates only a simple majority would be needed to pass Von Frellick's rezoning request.",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "Englewood Herald - August 20, 1963",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "0be53c94-d8ca-4754-9ec5-4e16ad6943ca",
-          "type": "legal",
-          "date": "1963-09-24",
-          "isApprxDate": false,
-          "description": "Littleton District Court temporarily restrains the Cinderella City development pending a lawsuit claiming that the previous rezoning effort was legally null and void.",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "Rocky Mountain News - September 24, 1963",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "ac3a7e4b-3005-4ed1-b07e-1e1883a66767",
-          "type": "ownershipNegotiation",
-          "date": "1963-11-05",
-          "isApprxDate": false,
-          "description": "Von Frellick rejects the Citizens' Action Committee offer to develop Cinderella City on the City Park site.",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "Englewood Herald - November 5, 1963",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "3a683a4a-fe07-496b-a347-240718826852",
-          "type": "legal",
-          "date": "1963-11-15",
-          "isApprxDate": false,
-          "description": "Von Frellick's lawsuit against the City of Englewood, attempting to compel them to release building permits for his mall project, is dismissed by Littleton District Judge Marvin W. Foote.",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "Englewood Herald - November 16, 1963",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "d87d5682-e09d-4bfc-a0a3-e3b55ac46225",
-          "type": "legal",
-          "date": "1964-04-07",
-          "isApprxDate": false,
-          "description": "Englewood residents vote to allow Von Frellick to purchase the City Park property for the New Englewood shopping center.",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "Englewood Herald - March 20, 1964",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "b14c23cb-e2ac-47ce-908f-4854f626ddc9",
-          "type": "legal",
-          "date": "1965-07-19",
-          "isApprxDate": false,
-          "description": "Colorado Supreme Court clears the way for the New Englewood shopping center on the City Park site in a 7-0 unanimous decision. \nThis decision also upheld the validity of the rezoning of the park, and upheld the special election on April 7, 1964 where voters authorized the sale of the park and a subsequent special election in which the voters approved the rezoning.",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "Rocky Mountain News - July 20, 1965",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "48487cb4-d5e3-40ac-ad62-99255737b44e",
-          "type": "media",
-          "date": "1961-06-19",
-          "isApprxDate": false,
-          "description": "Protestors show up at an Englewood citizens committee to support the fight against the proposed Cinderella City shopping center on the KLZ Radio Tower site, on Hampden Ave., just west of University Blvd.\n\nSigns include \"Roses are red, violets are blue, Cinderella City I hate you\" and \"As Abstract as Cinderella City.\"",
-          "images": [
-            "history._1961_06_19_protestors"
-          ],
-          "referencedHostIds": [],
-          "source": "see-images",
-          "additionalContent": {},
-          "version": "0.5.1"
-        }
-      ],
-      "timelineEventReferences": [],
-      "contextualEvents": [],
-      "version": "0.5.1"
-    },
-    {
-      "id": "f3c286ae-7610-4473-8917-50d230c8410f",
-      "name": "Lakeside Mall",
-      "imageMetaRegistryRepo": "",
-      "avatarImage": "jdg_avatar_placeholder",
-      "inceptionDate": "1956-08-31",
-      "cessationDate": "2004-01-01",
-      "timelineEvents": [
-        {
-          "id": "7904b88c-f156-462c-9229-bf021ee0885d",
-          "type": "opening",
-          "date": "1956-08-31",
-          "isApprxDate": false,
-          "description": "Lakeside Shopping Center opens to the public.",
-          "images": [],
-          "referencedHostIds": [],
-          "additionalContent": {},
-          "version": "0.5.1",
-          "source": ""
-        },
-        {
-          "id": "10f1e6f4-9404-4ef6-90ad-8b7c0e6a55eb",
-          "type": "closure",
-          "date": "2004-01-01",
-          "isApprxDate": true,
-          "description": "Lakeside Center closes to the public.",
-          "images": [],
-          "referencedHostIds": [],
-          "additionalContent": {},
-          "version": "0.5.1",
-          "source": ""
-        },
-        {
-          "id": "44941059-2867-48bc-a1b7-0f3039cabec1",
-          "type": "article",
-          "date": "1976-07-14",
-          "isApprxDate": false,
-          "description": "Remodeling Slated at Lakeside Mall",
-          "images": [],
-          "referencedHostIds": [],
-          "additionalContent": {},
-          "version": "0.5.1",
-          "source": ""
-        },
-        {
-          "id": "dbaac58d-166d-486e-afc7-f2d00fcf087d",
-          "type": "article",
-          "date": "1976-09-15",
-          "isApprxDate": false,
-          "description": "Lakeside Mall Schedules 'Escalator Marathon'",
-          "images": [],
-          "referencedHostIds": [],
-          "additionalContent": {},
-          "version": "0.5.1",
-          "source": ""
-        },
-        {
-          "id": "a8b87822-4830-4512-98c0-d34b1c87bcbc",
-          "type": "renovation",
-          "date": "1976-10-29",
-          "isApprxDate": false,
-          "description": "Lake Level Mall renovation opens",
-          "images": [],
-          "referencedHostIds": [],
-          "additionalContent": {},
-          "version": "0.5.1",
-          "source": ""
-        },
-        {
-          "id": "52941126-010c-4616-9dad-6816e846d0aa",
-          "type": "article",
-          "date": "1976-10-29",
-          "isApprxDate": false,
-          "description": "Real Estate Investment Reports Higher Earnings",
-          "images": [],
-          "referencedHostIds": [],
-          "additionalContent": {},
-          "version": "0.5.1",
-          "source": ""
-        },
-        {
-          "id": "0bc07824-98a4-4ff6-9324-605af7aacd1c",
-          "type": "generic",
-          "date": "1983-07-14",
-          "isApprxDate": false,
-          "description": "Lakeside Mall details face lift with price tag of $1.6 million",
-          "images": [],
-          "referencedHostIds": [],
-          "additionalContent": {},
-          "version": "0.5.1",
-          "source": ""
-        },
-        {
-          "id": "039d09d2-edcf-4c2c-84bd-4d45e57492ce",
-          "type": "renovation",
-          "date": "1984-03-01",
-          "isApprxDate": true,
-          "description": "Food court addition, called \"Courtyard Cafes\", completes",
-          "images": [],
-          "referencedHostIds": [],
-          "additionalContent": {},
-          "version": "0.5.1",
-          "source": ""
-        },
-        {
-          "id": "2f09d7c1-c42a-439e-87d2-2b9a1fd331f4",
-          "type": "article",
-          "date": "1983-07-20",
-          "isApprxDate": false,
-          "description": "Lakeside Mall Renovation to Include Outdoor Cafe Settings",
-          "images": [],
-          "referencedHostIds": [],
-          "additionalContent": {},
-          "version": "0.5.1",
-          "source": ""
-        },
-        {
-          "id": "ebc64c71-d796-425b-a996-cd97b3cb236f",
-          "type": "renovation",
-          "date": "1987-03-01",
-          "isApprxDate": false,
-          "description": "The Denver store becomes a \"Specialty Shops\" location",
-          "images": [],
-          "referencedHostIds": [],
-          "additionalContent": {},
-          "version": "0.5.1",
-          "source": ""
-        },
-        {
-          "id": "5f430535-dd1c-489f-b8dd-a892b68ca529",
-          "type": "article",
-          "date": "1987-08-30",
-          "isApprxDate": false,
-          "description": "Lakeside Mall checked for asbestos particles",
-          "images": [],
-          "referencedHostIds": [],
-          "additionalContent": {},
-          "version": "0.5.1",
-          "source": ""
-        },
-        {
-          "id": "bb41c14e-78cd-4c4a-b8c7-77c7eb1c3530",
-          "type": "article",
-          "date": "1987-09-01",
-          "isApprxDate": false,
-          "description": "Mall to decide plans for asbestos testing",
-          "images": [],
-          "referencedHostIds": [],
-          "additionalContent": {},
-          "version": "0.5.1",
-          "source": ""
-        },
-        {
-          "id": "49b2bf52-c596-40ac-b784-a48f6e977140",
-          "type": "article",
-          "date": "1987-09-03",
-          "isApprxDate": false,
-          "description": "Lakeside Mall agrees to more testing",
-          "images": [],
-          "referencedHostIds": [],
-          "additionalContent": {},
-          "version": "0.5.1",
-          "source": ""
-        },
-        {
-          "id": "c6cc603e-84d0-4789-85bd-3b8acaff2bac",
-          "type": "article",
-          "date": "1987-09-15",
-          "isApprxDate": false,
-          "description": "Health complaints by Lakeside merchants revealed",
-          "images": [],
-          "referencedHostIds": [],
-          "additionalContent": {},
-          "version": "0.5.1",
-          "source": ""
-        },
-        {
-          "id": "ff65cd8d-9a64-48c2-a67f-29b61d089e8f",
-          "type": "article",
-          "date": "1987-09-23",
-          "isApprxDate": false,
-          "description": "Asbestos closes store at Lakeside Mall",
-          "images": [],
-          "referencedHostIds": [],
-          "additionalContent": {},
-          "version": "0.5.1",
-          "source": ""
-        },
-        {
-          "id": "ec1eb20a-0c87-4700-9804-3fea3a7a0760",
-          "type": "article",
-          "date": "1987-09-25",
-          "isApprxDate": false,
-          "description": "Lakeside asbestos 'danger' to public",
-          "images": [],
-          "referencedHostIds": [],
-          "additionalContent": {},
-          "version": "0.5.1",
-          "source": ""
-        },
-        {
-          "id": "4e9e89eb-569b-42d1-bac1-87b137189dbf",
-          "type": "article",
-          "date": "1987-09-29",
-          "isApprxDate": false,
-          "description": "State health officials close 4 stores, hall at Lakeside",
-          "images": [],
-          "referencedHostIds": [],
-          "additionalContent": {},
-          "version": "0.5.1",
-          "source": ""
-        },
-        {
-          "id": "0e6c9bd4-90f1-46ba-bc3e-bd1897804c2b",
-          "type": "article",
-          "date": "1987-10-04",
-          "isApprxDate": false,
-          "description": "Asbestos threat called overrated",
-          "images": [],
-          "referencedHostIds": [],
-          "additionalContent": {},
-          "version": "0.5.1",
-          "source": ""
-        },
-        {
-          "id": "f7aa1b20-4f2f-4e55-915c-fb69919f84cc",
-          "type": "article",
-          "date": "1988-10-07",
-          "isApprxDate": false,
-          "description": "Lakeside Mall seeks annexation to Wheat Ridge",
-          "images": [],
-          "referencedHostIds": [],
-          "additionalContent": {},
-          "version": "0.5.1",
-          "source": ""
-        },
-        {
-          "id": "79674d3d-3165-4b23-a1a4-69a41ca65805",
-          "type": "opening",
-          "date": "1958-08-01",
-          "isApprxDate": true,
-          "description": "Montgomery Ward opens",
-          "images": [],
           "referencedHostIds": [],
           "source": "",
           "additionalContent": {},
@@ -1469,269 +165,52 @@
       ],
       "timelineEventReferences": [],
       "contextualEvents": [],
-      "version": "0.5.1"
+      "version": "0.5.1",
+      "imageMetaRegistryRepoName": "jdg-ui-svelte"
     },
     {
-      "id": "b6f3c98c-db83-4cab-b081-9b31390d4b0e",
+      "id": "d038f5d3-4134-40b0-945f-119529452086",
       "name": "Villa Italia Mall",
-      "imageMetaRegistryRepo": "",
-      "avatarImage": "jdg_avatar_placeholder",
-      "inceptionDate": "1966-03-07",
-      "cessationDate": "2001-07-01",
       "timelineEvents": [
         {
-          "id": "08722251-32eb-4e16-a4b2-62e33b562035",
-          "type": "opening",
-          "date": "1966-03-07",
+          "id": "9eed97db-b653-4403-8980-56519f61c9a3",
+          "type": "generic",
+          "date": "1966-03-03",
           "isApprxDate": false,
-          "description": "Villa Italia opens to the public.",
+          "description": "Villa Italia opens to the public",
           "images": [],
           "referencedHostIds": [],
-          "source": "",
           "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "305f4bd5-e799-4659-a7fa-becfc66f5a49",
-          "type": "closure",
-          "date": "2001-07-01",
-          "isApprxDate": false,
-          "description": "Villa Italia closes to the public.",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "22372630-b1d1-478c-9bd2-8dd400a9e926",
-          "type": "renovation",
-          "date": "1984-10-03",
-          "isApprxDate": false,
-          "description": "Construction starts on new Broadway Southwest store",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "Englewood Sentinel - October 3, 1984",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "f0b88ca9-3902-41cc-b161-807e53d5183d",
-          "type": "renovation",
-          "date": "1983-10-01",
-          "isApprxDate": true,
-          "description": "Renovation and expansion of Villa Italia is scheduled to begin. Its cost is estimated at $31 million, excluding a new department store, more than double Cinderella City's $12 million renovation which completed earlier that year.",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "Rocky Mountain News - May 24, 1983",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "6b56482e-9f73-4f38-994d-fd87beebfe09",
-          "type": "construction",
-          "date": "1964-12-09",
-          "isApprxDate": false,
-          "description": "Groundbreaking for Villa Italia",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "4756a33b-88cc-4a33-92a6-a8f4560c0923",
-          "type": "construction",
-          "date": "1984-09-26",
-          "isApprxDate": false,
-          "description": "Construction update:\nWest mall work started first, old roof removed and new steel erected\nEast mall roof is almost removed, new roof starting soon",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "Denver Post (?) - September 26, 1984",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "9c53fb04-663a-4176-a2a9-b37bd5d103b5",
-          "type": "celebration",
-          "date": "1985-11-01",
-          "isApprxDate": true,
-          "description": "Grand reopening eremonies as Villa Italia completes its two-year renovation which added a second level and over 250,000 square feet, bringing it to 1.3 million square feet",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "Denver Post - December 5, 1984",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "7fac0ec0-11da-469c-bb1f-a950ada59571",
-          "type": "quote",
-          "date": "1984-12-05",
-          "isApprxDate": false,
-          "description": "\"Every time I go out there, I get absolutely heartsick [about the disarray caused by the renovation]. But our volume is up over a year ago... we're going to break all records at our Villa store.\" - Jerry Gart, Gart Sports President",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "Denver Post - December 5, 1984",
-          "additionalContent": {
-            "attribution": "Jerry Gart, President of Gart Sports"
-          },
-          "version": "0.5.1"
-        },
-        {
-          "id": "a9b0d1a2-4f63-41c9-b2b9-b92d8c8fff96",
-          "type": "demolition",
-          "date": "1984-01-01",
-          "isApprxDate": true,
-          "description": "Villa Italia's renovation starts as the original King Soopers just north of the mall is demolished",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "Heritage Lakewood Photo Record 2007.037.582",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "d4b71607-b487-4a2c-b630-fc5bf93aba13",
-          "type": "planning",
-          "date": "1977-12-01",
-          "isApprxDate": false,
-          "description": "Purchase and renovation planning begins as Kravco and Equitable Life contemplate purchasing Villa Italia and Cinderella City from Gerri Von Frellick",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "Denver Post - December 5, 1984",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "bc5e6f0b-dffa-47c1-8485-cdce51e9f4b9",
-          "type": "renovation",
-          "date": "1984-05-01",
-          "isApprxDate": true,
-          "description": "Joslins expands its Villa Italia store from 145,000 square feet to 175,000 square feet, now the largest in the Joslins chain.",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "Denver Post - October 16, 1985",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "1b280e3a-f2d3-4802-b27d-9ec921fa6339",
-          "type": "statistic",
-          "date": "1983-01-01",
-          "isApprxDate": true,
-          "description": "Generated $1.84 million in sales tax revenue",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "Denver Post - October 16, 1985",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "ff5db239-3ab9-48b5-8a3b-14001d6355e6",
-          "type": "statistic",
-          "date": "1984-01-01",
-          "isApprxDate": true,
-          "description": "Generated $1.74 million in sales tax revenue",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "Denver Post - October 16, 1985",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "a8f01ec5-eb55-4db5-b684-ac5149509ebe",
-          "type": "quote",
-          "date": "1985-10-16",
-          "isApprxDate": false,
-          "description": "\"About 35% of the stores closed during the expansion, and for the big ones that did stay open, there was a fall-off in sales.\" - Lakewood budget manager Jim Zelenski",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "Denver Post - October 16, 1985",
-          "additionalContent": {
-            "attribution": "Lakewood budget manager Jim Zelenski"
-          },
-          "version": "0.5.1"
-        },
-        {
-          "id": "1608c862-d160-4e67-83ef-bf41bffc241b",
-          "type": "quote",
-          "date": "1984-12-05",
-          "isApprxDate": false,
-          "description": "\"Raising the roof on the one-story structure and adding a second floor is the major portion of work. The effort has been attempted only one other time in the United States.\" - Clint Cochran, Kravco regional property manager",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "",
-          "additionalContent": {
-            "attribution": "Clint Cochran, Kravco regional property manager"
-          },
-          "version": "0.5.1"
+          "version": "0.2.0"
         }
       ],
       "timelineEventReferences": [],
       "contextualEvents": [],
-      "version": "0.5.1"
+      "version": "0.2.0",
+      "inceptionDate": "",
+      "cessationDate": ""
     },
     {
-      "id": "3b88cfcf-7e74-42b2-873b-2d807db89950",
-      "name": "Von Frellick Malls",
-      "imageMetaRegistryRepo": "",
-      "avatarImage": "jdg_avatar_placeholder",
-      "inceptionDate": "",
-      "cessationDate": "1968-03-07",
+      "id": "4b922eac-f355-4d5f-810d-9c98bf218a13",
+      "name": "Lakeside Mall",
+      "timelineEvents": [],
+      "timelineEventReferences": [],
+      "contextualEvents": [],
+      "version": "0.1.0"
+    },
+    {
+      "id": "bdeaaad5-f6a2-4414-9548-00ed1f7cb902",
+      "name": "Test: No Event at Inception",
+      "avatarImage": "",
+      "inceptionDate": "1966-03-05",
+      "cessationDate": "",
       "timelineEvents": [
         {
-          "id": "5504059f-b1e7-4f40-a7f5-c867014396fa",
-          "type": "opening",
-          "date": "1956-01-01",
-          "isApprxDate": true,
-          "description": "Lakeside Mall in Lakeside, CO opens",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "14a7bd75-4e43-447d-b7e4-55a7b3ec77dd",
-          "type": "opening",
-          "date": "1958-01-01",
-          "isApprxDate": true,
-          "description": "Big Town in Dallas, TX opens",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "5fc09113-110e-46c2-bc04-0c993507a7fd",
-          "type": "opening",
-          "date": "1960-01-01",
-          "isApprxDate": true,
-          "description": "Sunset Center opens in Amarillo, TX",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "d7c38628-2f55-4ff4-b453-feac4ee7c43d",
-          "type": "opening",
-          "date": "1962-01-01",
-          "isApprxDate": true,
-          "description": "Crossroads Mall in Boulder, CO opens",
-          "images": [],
-          "referencedHostIds": [],
-          "source": "",
-          "additionalContent": {},
-          "version": "0.5.1"
-        },
-        {
-          "id": "d56a7d29-1a21-45a8-a0ea-7107a5d9de3c",
-          "type": "opening",
-          "date": "1966-03-07",
+          "id": "7fc8364b-16d4-480f-aaac-30de901ab650",
+          "type": "generic",
+          "date": "1990-02-21",
           "isApprxDate": false,
-          "description": "Villa Italia in Lakewood, CO opens",
+          "description": "Something happened in 1990! Let's make an edit here. And here! Another edit!",
           "images": [],
           "referencedHostIds": [],
           "source": "",
@@ -1739,11 +218,71 @@
           "version": "0.5.1"
         },
         {
-          "id": "6338319f-762c-4fcc-b598-72b9b572460a",
-          "type": "opening",
-          "date": "1968-03-07",
+          "id": "13e664a1-5f08-49e3-8c84-609b9f5efa69",
+          "type": "generic",
+          "date": "1995-02-21",
           "isApprxDate": false,
-          "description": "Cinderella City in Englewood, CO opens",
+          "description": "Something else happened in 1995!",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "",
+          "additionalContent": {},
+          "version": "0.5.1"
+        },
+        {
+          "id": "06147099-8c7a-4f9d-953e-77cf4ae607b6",
+          "type": "media",
+          "date": "2000-02-21",
+          "isApprxDate": false,
+          "description": "This is a test of images! A ton of images to force a very wide image thumbnail group.",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "",
+          "additionalContent": {},
+          "version": "0.5.1"
+        },
+        {
+          "id": "712222da-6d82-456b-9862-641350cec4c6",
+          "type": "generic",
+          "date": "2007-02-21",
+          "isApprxDate": false,
+          "description": "Here's a 2007 event!",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "",
+          "additionalContent": {},
+          "version": "0.5.1"
+        },
+        {
+          "id": "6bed0575-98c8-4a96-95cc-3ddc7d618dfb",
+          "type": "generic",
+          "date": "2010-02-21",
+          "isApprxDate": true,
+          "description": "A 2010 date! And approximate.",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "",
+          "additionalContent": {},
+          "version": "0.5.1"
+        },
+        {
+          "id": "327f755c-6489-4692-822b-5c505cc23fa2",
+          "type": "generic",
+          "date": "2002-02-22",
+          "isApprxDate": false,
+          "description": "A 2002 event!",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "",
+          "additionalContent": {},
+          "version": "0.5.1"
+        },
+        {
+          "id": "d0de1ada-508f-4968-ae24-3aec883fae20",
+          "type": "generic",
+          "date": "2004-04-04",
+          "isApprxDate": false,
+          "description": "A 2004 event!",
           "images": [],
           "referencedHostIds": [],
           "source": "",
@@ -1753,7 +292,119 @@
       ],
       "timelineEventReferences": [],
       "contextualEvents": [],
-      "version": "0.5.1"
+      "version": "0.5.1",
+      "imageMetaRegistryRepoName": "jdg-ui-svelte",
+      "imageMetaRegistryRepo": ""
+    },
+    {
+      "id": "545872f2-1d1d-445c-bf85-be9655739aeb",
+      "name": "Test: Event at Inception",
+      "imageMetaRegistryRepo": "",
+      "avatarImage": "",
+      "inceptionDate": "1966-03-05",
+      "cessationDate": "",
+      "timelineEvents": [
+        {
+          "id": "1980b16a-5cf9-41c5-8147-d755fcf441af",
+          "type": "generic",
+          "date": "1972-07-23",
+          "isApprxDate": false,
+          "description": "A 1972 event! And an edit!",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "",
+          "additionalContent": {},
+          "version": "0.5.1"
+        },
+        {
+          "id": "11c762fc-2ed0-4649-9fd3-367bf5706a00",
+          "type": "generic",
+          "date": "1966-03-05",
+          "isApprxDate": false,
+          "description": "This event corresponds with the \"inception event\"",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "",
+          "additionalContent": {},
+          "version": "0.5.1"
+        },
+        {
+          "id": "f62d9630-4da6-4c07-8238-0b9d145a38d6",
+          "type": "generic",
+          "date": "1980-08-01",
+          "isApprxDate": false,
+          "description": "This is a 1980 event",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "",
+          "additionalContent": {},
+          "version": "0.5.1"
+        },
+        {
+          "id": "e94e3f61-002d-4de6-bca4-bfa077e3b273",
+          "type": "generic",
+          "date": "1995-02-01",
+          "isApprxDate": false,
+          "description": "A 1995 event!",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "",
+          "additionalContent": {},
+          "version": "0.5.1"
+        },
+        {
+          "id": "361bfe27-6972-41ef-bae2-c7c2373054e1",
+          "type": "generic",
+          "date": "1990-04-01",
+          "isApprxDate": false,
+          "description": "A 1990 event! Let's make an edit. And another! One more edit! Again!",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "",
+          "additionalContent": {},
+          "version": "0.5.1"
+        },
+        {
+          "id": "6236c1a7-0c28-4ef4-a434-8a193710cc5b",
+          "type": "generic",
+          "date": "1998-01-21",
+          "isApprxDate": false,
+          "description": "A 1998 event",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "",
+          "additionalContent": {},
+          "version": "0.5.1"
+        },
+        {
+          "id": "4082e077-5e6d-4d3a-8bfb-980a64787208",
+          "type": "generic",
+          "date": "2005-05-05",
+          "isApprxDate": false,
+          "description": "A 2005 event!",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "",
+          "additionalContent": {},
+          "version": "0.5.1"
+        },
+        {
+          "id": "68cc88f2-8f17-47f6-b5d2-dbbf2fd1f3e0",
+          "type": "generic",
+          "date": "1990-02-01",
+          "isApprxDate": false,
+          "description": "This is a new event.",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "",
+          "additionalContent": {},
+          "version": "0.5.1"
+        }
+      ],
+      "timelineEventReferences": [],
+      "contextualEvents": [],
+      "version": "0.5.1",
+      "imageMetaRegistryRepoName": "jdg-ui-svelte"
     }
   ]
 }
