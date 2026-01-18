@@ -75,7 +75,7 @@
           "type": "media",
           "date": "1981-06-25",
           "isApprxDate": false,
-          "isMediaWrapper": false,
+          "isMediaWrapper": true,
           "description": "A sketch of the proposed Rose Mall renovation.",
           "images": [
             "rose_mall._1981_06_25_rose_mall_sketch"
@@ -1116,7 +1116,7 @@
           "type": "media",
           "date": "1978-03-09",
           "isApprxDate": false,
-          "isMediaWrapper": false,
+          "isMediaWrapper": true,
           "description": "A boat show in the Blue Mall as part of the 1978 Fall Fun Fest event series",
           "images": [
             "blue_mall._1978_03_09_boat_show_2"
@@ -1144,10 +1144,9 @@
           "type": "media",
           "date": "1970-08-13",
           "isApprxDate": false,
-          "isMediaWrapper": false,
+          "isMediaWrapper": true,
           "description": "Two students and a teacher walk into the Englewood High School City Campus on the mezzanine level of Cinderella City.",
           "images": [
-            "city_campus_1",
             "rose_mall._1970_08_13_city_campus"
           ],
           "referencedHostIds": [],
