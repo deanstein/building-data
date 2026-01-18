@@ -120,7 +120,7 @@
           "type": "media",
           "date": "1968-03-01",
           "isApprxDate": true,
-          "isMediaWrapper": false,
+          "isMediaWrapper": true,
           "description": "An early look at the Blue Mall before Cinderella City opened for business.",
           "images": [
             "blue_mall._1968_blue_mall"
