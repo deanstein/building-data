@@ -118,7 +118,7 @@
           "type": "media",
           "date": "1968-03-01",
           "isApprxDate": true,
-          "isMediaWrapper": false,
+          "isMediaWrapper": true,
           "description": "An early look at the Blue Mall before the mall opened.",
           "images": [
             "ccm._1968_blue_mall"
@@ -134,7 +134,7 @@
           "type": "article",
           "date": "1978-12-30",
           "isApprxDate": false,
-          "isMediaWrapper": false,
+          "isMediaWrapper": true,
           "description": "Gerri Von Frellick sells Cinderella City to KRAVCO Real Estate Holdings.",
           "images": [
             "ccm._1978_12_30_von_frellick"
