@@ -13,6 +13,7 @@
           "type": "opening",
           "date": "1968-03-07",
           "isApprxDate": false,
+          "isMediaWrapper": false,
           "description": "Cinderella City opens for business",
           "images": [
             "ccm._1968_03_07_von_frellick",
@@ -21,13 +22,14 @@
           "referencedHostIds": [],
           "source": "",
           "additionalContent": {},
-          "version": "0.5.1"
+          "version": "0.6.0"
         },
         {
           "id": "a5f05697-d981-4fa9-b928-9f03aff5ca5a",
           "type": "media",
           "date": "1998-02-01",
           "isApprxDate": true,
+          "isMediaWrapper": false,
           "description": "The abandoned southeast Blue Mall entrance watches silently over an empty parking deck.",
           "images": [
             "ccm._1998_01_01_blue_mall_mw_entrance"
@@ -35,13 +37,14 @@
           "referencedHostIds": [],
           "source": "",
           "additionalContent": {},
-          "version": "0.5.1"
+          "version": "0.6.0"
         },
         {
           "id": "75e4a224-c5d1-426b-b5e0-f3198a48ffd6",
           "type": "media",
           "date": "1967-01-01",
           "isApprxDate": true,
+          "isMediaWrapper": false,
           "description": "Concept sketches released showing Cinderella City's proposed design.",
           "images": [
             "ccm._1967_blue_mall_interior_rendering",
@@ -50,25 +53,27 @@
           "referencedHostIds": [],
           "source": "",
           "additionalContent": {},
-          "version": "0.5.1"
+          "version": "0.6.0"
         },
         {
           "id": "e62ecffb-943d-4c3d-9533-3d50a71654b3",
           "type": "closure",
           "date": "1997-12-31",
           "isApprxDate": false,
+          "isMediaWrapper": false,
           "description": "Cinderella City closes to the public when the last remaining tenant, Montgomery Ward, vacates its store.",
           "images": [],
           "referencedHostIds": [],
           "source": "",
           "additionalContent": {},
-          "version": "0.5.1"
+          "version": "0.6.0"
         },
         {
           "id": "4f4972a6-ffb2-4fa5-b2e7-98d90ba58c28",
           "type": "media",
           "date": "1981-06-25",
           "isApprxDate": false,
+          "isMediaWrapper": false,
           "description": "A sketch of the proposed Rose Mall renovation.",
           "images": [
             "ccm._1981_06_25_rose_mall_sketch"
@@ -76,13 +81,14 @@
           "referencedHostIds": [],
           "source": "",
           "additionalContent": {},
-          "version": "0.5.1"
+          "version": "0.6.0"
         },
         {
           "id": "870f7c2b-b291-4083-84a2-1f6e154b7f8c",
           "type": "media",
           "date": "1981-12-23",
           "isApprxDate": false,
+          "isMediaWrapper": false,
           "description": "A sketch of the Blue Mall from the 1981 architectural drawing set for the upcoming Cinderella City renovation.",
           "images": [
             "ccm._1981_12_23_center_court_sketch"
@@ -90,13 +96,14 @@
           "referencedHostIds": [],
           "source": "",
           "additionalContent": {},
-          "version": "0.5.1"
+          "version": "0.6.0"
         },
         {
           "id": "da77455a-df38-445d-aec7-fdcfaf35e566",
           "type": "media",
           "date": "1983-05-19",
           "isApprxDate": false,
+          "isMediaWrapper": false,
           "description": "The newly-renovated Blue Mall and Food Court are shown in a press photo.",
           "images": [
             "ccm._1983_05_19_blue_mall_and_food_court"
@@ -104,13 +111,14 @@
           "referencedHostIds": [],
           "source": "",
           "additionalContent": {},
-          "version": "0.5.1"
+          "version": "0.6.0"
         },
         {
           "id": "4cf8d474-46a5-4ec7-a7ce-9349d9020845",
-          "type": "generic",
+          "type": "media",
           "date": "1968-03-01",
           "isApprxDate": true,
+          "isMediaWrapper": false,
           "description": "An early look at the Blue Mall before the mall opened.",
           "images": [
             "ccm._1968_blue_mall"
@@ -118,13 +126,15 @@
           "referencedHostIds": [],
           "source": "",
           "additionalContent": {},
-          "version": "0.5.1"
+          "version": "0.6.0",
+          "isImageWrapper": true
         },
         {
           "id": "4a6b0b1e-4990-440d-a3e1-04d22b6d8e31",
           "type": "article",
           "date": "1978-12-30",
           "isApprxDate": false,
+          "isMediaWrapper": false,
           "description": "Gerri Von Frellick sells Cinderella City to KRAVCO Real Estate Holdings.",
           "images": [
             "ccm._1978_12_30_von_frellick"
@@ -132,13 +142,15 @@
           "referencedHostIds": [],
           "source": "",
           "additionalContent": {},
-          "version": "0.5.1"
+          "version": "0.6.0",
+          "isImageWrapper": true
         },
         {
           "id": "5aaef837-2637-464e-9eef-232d7c14b06d",
           "type": "media",
           "date": "1987-01-01",
           "isApprxDate": true,
+          "isMediaWrapper": false,
           "description": "A photo of the renovated Rose Mall.",
           "images": [
             "ccm._1987_rose_mall"
@@ -146,13 +158,14 @@
           "referencedHostIds": [],
           "source": "",
           "additionalContent": {},
-          "version": "0.5.1"
+          "version": "0.6.0"
         },
         {
           "id": "7e9e983a-5150-4e30-b8e5-5b4518408c83",
           "type": "generic",
           "date": "1979-08-01",
           "isApprxDate": false,
+          "isMediaWrapper": false,
           "description": "Neusteters",
           "images": [
             "image_testing.test"
@@ -160,12 +173,12 @@
           "referencedHostIds": [],
           "source": "",
           "additionalContent": {},
-          "version": "0.5.1"
+          "version": "0.6.0"
         }
       ],
       "timelineEventReferences": [],
       "contextualEvents": [],
-      "version": "0.5.1",
+      "version": "0.6.0",
       "imageMetaRegistryRepoName": "jdg-ui-svelte"
     },
     {
