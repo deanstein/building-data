@@ -24,7 +24,7 @@
           "referencedHostIds": [],
           "source": "see-images",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "7d346604-9400-4c05-998f-3f1f72dbaa65",
@@ -37,7 +37,7 @@
           "referencedHostIds": [],
           "source": "",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "99288ccb-019b-4948-9c66-bc46f232593e",
@@ -52,7 +52,7 @@
           "referencedHostIds": [],
           "source": "see-images",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "57eba2ec-9a5c-4764-9e90-462f0dbb6970",
@@ -68,7 +68,7 @@
           "referencedHostIds": [],
           "source": "see-images",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "627ede2f-f40f-4a38-bdd7-0c2671262f38",
@@ -83,7 +83,7 @@
           "referencedHostIds": [],
           "source": "see-images",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "17e561d6-34a7-45c9-b453-806fd0f0cf33",
@@ -98,7 +98,7 @@
           "referencedHostIds": [],
           "source": "see-images",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "4cd0de13-84a6-43a7-8ae9-727052e83ee9",
@@ -113,7 +113,7 @@
           "referencedHostIds": [],
           "source": "see-images",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "16481e91-075b-4f88-843c-7b9106770ce0",
@@ -128,7 +128,7 @@
           "referencedHostIds": [],
           "source": "see-images",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "8ca6dcb1-ffe4-4ea6-aa53-a3c6560ebbad",
@@ -145,7 +145,7 @@
           "additionalContent": {
             "publication": ""
           },
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "e0743684-eef0-4e92-aa72-fbc97aba5259",
@@ -160,7 +160,7 @@
           "referencedHostIds": [],
           "source": "see-images",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "0b54e83d-3b3d-42f9-bf56-4c5e0809c0b2",
@@ -177,7 +177,7 @@
           "additionalContent": {
             "attribution": "Gerri Von Frellick"
           },
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "9fd876f4-1444-455a-a434-ea2a03b2d4cb",
@@ -190,7 +190,7 @@
           "referencedHostIds": [],
           "source": "cc-historical-narrative",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "85888b13-326c-4cfb-a21e-53788ebf7d37",
@@ -205,7 +205,7 @@
           "additionalContent": {
             "attribution": "Gerri Von Frellick"
           },
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "10f4da9a-50d2-4178-a411-ef812c9acfbc",
@@ -213,7 +213,7 @@
           "date": "1960-08-01",
           "isApprxDate": true,
           "isMediaWrapper": false,
-          "description": "Gerri Von Frellick, a veteran shopping mall developer, announced plans to build a shopping mall at East Hampden Avenue and South Franklin Street.\nVon Frellick proposed to build a \"new concept\" mall, with stores out of the weather under a single roof beside an air-conditioned mall or plaza. The mall, to be called Cinderella City, would be a two-level structure of Victorian architecture.",
+          "description": "Gerri Von Frellick, a veteran shopping mall developer, announced plans to build a shopping mall at East Hampden Avenue and South Franklin Street.\nVon Frellick proposed to build a \"new concept\" mall, with stores out of the weather under a single roof beside an air-conditioned mall or plaza.",
           "images": [
             "concept_art._1960_08_14_aerial_rendering",
             "concept_art._1960_08_14_site_plan"
@@ -221,7 +221,7 @@
           "referencedHostIds": [],
           "source": "cc-historical-narrative",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "f7764948-7d00-4c6c-84d1-e3d410c8cc03",
@@ -234,7 +234,7 @@
           "referencedHostIds": [],
           "source": "Englewood Sentinel - November 4, 1987",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "848ea9ba-9a93-4320-a5cc-5df9b64d3a9f",
@@ -247,7 +247,7 @@
           "referencedHostIds": [],
           "source": "Englewood Sentinel - October 3, 1984",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "1ed5f003-96f5-4502-9560-02391be03d8d",
@@ -262,7 +262,7 @@
           "additionalContent": {
             "publication": ""
           },
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "7fc24149-9a15-4a4e-89a4-36b987f0330f",
@@ -275,7 +275,7 @@
           "referencedHostIds": [],
           "source": "cc-historical-narrative",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "e819df00-bd57-4be1-a8d8-ac491cf13dfc",
@@ -288,7 +288,7 @@
           "referencedHostIds": [],
           "source": "",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "96c59da8-1579-468a-b37a-adb74cb10a6e",
@@ -303,7 +303,7 @@
           "additionalContent": {
             "attribution": ""
           },
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "989bce48-ed64-4fbc-9061-8462226cf1d8",
@@ -316,7 +316,7 @@
           "referencedHostIds": [],
           "source": "",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "0ec2292e-75e6-4e44-86a5-44f36f8732e2",
@@ -329,7 +329,7 @@
           "referencedHostIds": [],
           "source": "",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "a686dd9d-f1f2-4292-8f5b-e90b211cffb5",
@@ -344,7 +344,7 @@
           "additionalContent": {
             "attribution": "Cam Morton, Vice President of Development at Kravco"
           },
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "0f1182e8-0f0e-4af4-a38b-de0cae45a3cc",
@@ -357,7 +357,7 @@
           "referencedHostIds": [],
           "source": "Rocky Mountain News - May 24, 1983",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "c7891ca2-4092-472e-9a4d-471b138d0585",
@@ -372,7 +372,7 @@
           "additionalContent": {
             "publication": ""
           },
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "b3e574b2-a93a-49c6-baaa-7ea826d22552",
@@ -385,7 +385,7 @@
           "referencedHostIds": [],
           "source": "",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "c9b6b253-8212-4c20-a12f-0793bd700f1e",
@@ -400,7 +400,7 @@
           "additionalContent": {
             "publication": ""
           },
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "d2c90d68-b120-4c82-81b8-13ccfdcf4062",
@@ -415,7 +415,7 @@
           "additionalContent": {
             "publication": ""
           },
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "cc961945-39c3-40df-b3d1-5a59c66f6062",
@@ -430,7 +430,7 @@
           "additionalContent": {
             "publication": ""
           },
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "c58e72fc-e46f-48ca-8c81-afd053041401",
@@ -445,7 +445,7 @@
           "additionalContent": {
             "publication": ""
           },
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "f9c53af4-f0d3-4a3d-995f-9ed3f0293346",
@@ -458,7 +458,7 @@
           "referencedHostIds": [],
           "source": "Rocky Mountain News - February 15, 1993",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "e8a9516e-05b1-4f9a-8ee0-72eb181a2a23",
@@ -471,7 +471,7 @@
           "referencedHostIds": [],
           "source": "Rocky Mountain News - February 15, 1993",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "c37208a9-8cb2-4498-8752-8d69a651ac02",
@@ -484,7 +484,7 @@
           "referencedHostIds": [],
           "source": "Rocky Mountain News - February 15, 1993",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "9f0ba542-872d-494a-9cc7-ef4ad545ca6a",
@@ -497,7 +497,7 @@
           "referencedHostIds": [],
           "source": "Rocky Mountain News - February 15, 1993",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "bf603ece-be04-4cdc-b470-8e8800a01ee1",
@@ -510,7 +510,7 @@
           "referencedHostIds": [],
           "source": "",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "e0087f4c-8b11-46e8-93df-486b11e7575e",
@@ -523,7 +523,7 @@
           "referencedHostIds": [],
           "source": "",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "89039f83-9f2d-4af0-8e1c-1b6eb031a84a",
@@ -536,7 +536,7 @@
           "referencedHostIds": [],
           "source": "",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "9b7b1815-b713-4ac8-abff-2f2a6d6975b3",
@@ -549,7 +549,7 @@
           "referencedHostIds": [],
           "source": "",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "26283239-7ebe-42f3-b918-91619d893e65",
@@ -562,7 +562,7 @@
           "referencedHostIds": [],
           "source": "",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "7441fd1b-6ad2-479d-9b4b-57bf46b25eb3",
@@ -575,7 +575,7 @@
           "referencedHostIds": [],
           "source": "Denver Post - August 19, 1994",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "d3fb377f-fe43-48be-a86c-256ef56abcd3",
@@ -590,7 +590,7 @@
           "additionalContent": {
             "publication": ""
           },
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "224c8a2e-662b-42b3-8e02-848ca641fda0",
@@ -603,7 +603,7 @@
           "referencedHostIds": [],
           "source": "Rocky Mountain News - September 1, 1994",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "0cefa8af-eef8-4e00-8fa3-43f51b091593",
@@ -616,7 +616,7 @@
           "referencedHostIds": [],
           "source": "Denver Post - December 10, 1995",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "a747eb70-9328-44ff-acb3-a811b3b660a1",
@@ -631,7 +631,7 @@
           "additionalContent": {
             "publication": ""
           },
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "bfc01ceb-bb8d-42d1-8a7d-277d1fd86b6b",
@@ -644,7 +644,7 @@
           "referencedHostIds": [],
           "source": "Denver Post - February 1, 1996",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "e85a9bc7-84d7-4e5d-936a-ff6ddb91cd63",
@@ -657,7 +657,7 @@
           "referencedHostIds": [],
           "source": "",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "b5b99476-fe03-44ad-a165-c02959e13804",
@@ -670,7 +670,7 @@
           "referencedHostIds": [],
           "source": "Denver Post - February 1, 1996",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "2182e7ea-ed07-417c-b435-fdf96b6f3b03",
@@ -683,7 +683,7 @@
           "referencedHostIds": [],
           "source": "Denver Post - February 1, 1996",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "2d510700-6377-4002-8862-1ea3a0249198",
@@ -696,7 +696,7 @@
           "referencedHostIds": [],
           "source": "Denver Post - February 1, 1996",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "333e97bf-4ed6-4dee-87b7-e82c7d9d9d92",
@@ -709,7 +709,7 @@
           "referencedHostIds": [],
           "source": "Denver Post - April 5, 1997",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "b16e7c30-8c4f-47e2-a50a-ba252331bd54",
@@ -722,7 +722,7 @@
           "referencedHostIds": [],
           "source": "",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "125a169e-0cbc-4bf5-87f0-4fa0bf6793d9",
@@ -735,7 +735,7 @@
           "referencedHostIds": [],
           "source": "cc-historical-narrative",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "e9805eac-300e-4df2-8bae-bdc44cb3f93e",
@@ -748,7 +748,7 @@
           "referencedHostIds": [],
           "source": "cc-historical-narrative",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "343f02b4-612b-4437-badb-71dd14ed243c",
@@ -761,7 +761,7 @@
           "referencedHostIds": [],
           "source": "Denver Post - November 20, 1962",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "7f54f206-8818-4838-9135-cdfd375ccf9a",
@@ -774,7 +774,7 @@
           "referencedHostIds": [],
           "source": "cc-historical-narrative",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "a0f06ded-3ba0-4bdd-89dc-cad74167f4c4",
@@ -787,7 +787,7 @@
           "referencedHostIds": [],
           "source": "cc-historical-narrative",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "5739843c-7886-4f47-bd0f-d2b8fccfa08d",
@@ -802,7 +802,7 @@
           "referencedHostIds": [],
           "source": "cc-historical-narrative",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "f601142e-38de-4164-9969-c3a66cc6faf2",
@@ -815,7 +815,7 @@
           "referencedHostIds": [],
           "source": "cc-historical-narrative",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "55ce7323-5339-4af0-bc19-cde8c3fabef9",
@@ -828,7 +828,7 @@
           "referencedHostIds": [],
           "source": "cc-historical-narrative",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "86919ce3-8059-47d8-8680-b43422c33521",
@@ -841,7 +841,7 @@
           "referencedHostIds": [],
           "source": "",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "b4f8d217-053d-48d1-9969-3a1c8df74a4b",
@@ -854,7 +854,7 @@
           "referencedHostIds": [],
           "source": "cc-historical-narrative",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "03fc81cc-0cdf-4fca-8e6c-b893fce820ea",
@@ -867,7 +867,7 @@
           "referencedHostIds": [],
           "source": "cc-historical-narrative",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "6d301b70-bd6b-4fdc-a4fc-d5f54b4c40aa",
@@ -880,7 +880,7 @@
           "referencedHostIds": [],
           "source": "Denver Post - November 12, 1986",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "2c141cb6-44b6-4b1f-ad74-c8641602b738",
@@ -895,7 +895,7 @@
           "additionalContent": {
             "attribution": "David Cord, senior investment broker"
           },
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "2f1d9f6d-c2c5-4d41-b2f4-0d8e2fdadb6a",
@@ -908,7 +908,7 @@
           "referencedHostIds": [],
           "source": "Rocky Mountain News - June 19, 1969",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "242d85ea-da6b-4064-8e99-afe32e2e4b35",
@@ -921,7 +921,7 @@
           "referencedHostIds": [],
           "source": "Greeley Daily Tribune - January 26, 1973",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "81626a55-0848-4ef8-bf4a-165dba4c9545",
@@ -934,7 +934,7 @@
           "referencedHostIds": [],
           "source": "cc-historical-narrative",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "789b428e-4773-46d1-96ef-11715b96f390",
@@ -949,7 +949,7 @@
           "additionalContent": {
             "attribution": "Gerri Von Frellick"
           },
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "11de97aa-a0a2-4221-b76e-19b2dd107672",
@@ -962,7 +962,7 @@
           "referencedHostIds": [],
           "source": "cc-historical-narrative",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "fe2389c0-218d-40ff-9736-140a111d6df7",
@@ -975,7 +975,7 @@
           "referencedHostIds": [],
           "source": "cc-historical-narrative",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "1229f2df-b39b-4c12-b275-e718bec80703",
@@ -988,7 +988,7 @@
           "referencedHostIds": [],
           "source": "cc-historical-narrative",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "7823b6cf-5c73-4238-97ba-75b631124ee0",
@@ -1003,7 +1003,7 @@
           "additionalContent": {
             "attribution": "Gerri Von Frellick's wife"
           },
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "e9f9bed7-584c-4148-a84b-04a23e822499",
@@ -1016,7 +1016,7 @@
           "referencedHostIds": [],
           "source": "cc-historical-narrative",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "d81d7918-60f8-48cf-a232-95fa022321bc",
@@ -1029,7 +1029,7 @@
           "referencedHostIds": [],
           "source": "cc-historical-narrative",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "a86b03f6-73a6-45d1-8050-fb9098d9e81c",
@@ -1042,7 +1042,7 @@
           "referencedHostIds": [],
           "source": "cc-historical-narrative",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "25ed802f-76fa-40bd-9285-6b44b2514025",
@@ -1055,7 +1055,7 @@
           "referencedHostIds": [],
           "source": "cc-historical-narrative",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "2bbbdc91-7147-4b37-a945-4d25f2d49f2a",
@@ -1068,7 +1068,7 @@
           "referencedHostIds": [],
           "source": "cc-historical-narrative",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "867d1cc9-bee8-4184-b32e-cb35f0d91382",
@@ -1081,7 +1081,7 @@
           "referencedHostIds": [],
           "source": "cc-historical-narrative",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "8d6cb94b-5146-4021-8a3f-666395e29a1c",
@@ -1094,7 +1094,7 @@
           "referencedHostIds": [],
           "source": "cc-historical-narrative",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "ef87b55b-58af-48db-a133-288922e01a81",
@@ -1109,7 +1109,7 @@
           "referencedHostIds": [],
           "source": "cc-historical-narrative",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "f2c0e9fb-fc6d-4588-9d84-b8ab8eba8635",
@@ -1124,7 +1124,7 @@
           "referencedHostIds": [],
           "source": "see-images",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "2166794d-cb8b-4c4b-8733-bc06191b622d",
@@ -1137,7 +1137,7 @@
           "referencedHostIds": [],
           "source": "",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "fbcf97cb-0eca-4d12-98cd-eacb42e84783",
@@ -1152,7 +1152,7 @@
           "referencedHostIds": [],
           "source": "see-images",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "2b6802c9-8bd4-443e-8c66-0e8fb88fab7b",
@@ -1170,7 +1170,7 @@
           "referencedHostIds": [],
           "source": "",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "0f06c7a8-dc09-442c-aba4-862b3583ae76",
@@ -1186,7 +1186,7 @@
           "referencedHostIds": [],
           "source": "Denver Post - November 6, 1962",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "b3526d3f-1d64-4e69-9851-b054fcb6c21c",
@@ -1199,7 +1199,7 @@
           "referencedHostIds": [],
           "source": "Denver Post - January 10, 1963",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "dcca86e5-0e8a-4c4b-b606-055afe7f7575",
@@ -1212,7 +1212,7 @@
           "referencedHostIds": [],
           "source": "Rocky Mountain News - January 15, 1963",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "342c1a12-c325-4f60-bda2-1021bf7e72a4",
@@ -1225,7 +1225,7 @@
           "referencedHostIds": [],
           "source": "Englewood Herald - August 20, 1963",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "0be53c94-d8ca-4754-9ec5-4e16ad6943ca",
@@ -1238,7 +1238,7 @@
           "referencedHostIds": [],
           "source": "Rocky Mountain News - September 24, 1963",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "ac3a7e4b-3005-4ed1-b07e-1e1883a66767",
@@ -1251,7 +1251,7 @@
           "referencedHostIds": [],
           "source": "Englewood Herald - November 5, 1963",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "3a683a4a-fe07-496b-a347-240718826852",
@@ -1264,7 +1264,7 @@
           "referencedHostIds": [],
           "source": "Englewood Herald - November 16, 1963",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "d87d5682-e09d-4bfc-a0a3-e3b55ac46225",
@@ -1277,7 +1277,7 @@
           "referencedHostIds": [],
           "source": "Englewood Herald - March 20, 1964",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "b14c23cb-e2ac-47ce-908f-4854f626ddc9",
@@ -1290,7 +1290,7 @@
           "referencedHostIds": [],
           "source": "Rocky Mountain News - July 20, 1965",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "48487cb4-d5e3-40ac-ad62-99255737b44e",
@@ -1305,7 +1305,7 @@
           "referencedHostIds": [],
           "source": "see-images",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         },
         {
           "id": "812d7f64-2d35-43cb-98bc-76b175abb676",
@@ -1320,12 +1320,12 @@
           "referencedHostIds": [],
           "source": "",
           "additionalContent": {},
-          "version": "0.6.0"
+          "version": "0.7.1"
         }
       ],
       "timelineEventReferences": [],
       "contextualEvents": [],
-      "version": "0.6.0"
+      "version": "0.7.1"
     },
     {
       "id": "f3c286ae-7610-4473-8917-50d230c8410f",
