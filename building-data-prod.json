@@ -210,13 +210,14 @@
         {
           "id": "10f4da9a-50d2-4178-a411-ef812c9acfbc",
           "type": "planning",
-          "date": "1960-08-01",
-          "isApprxDate": true,
+          "date": "1960-08-14",
+          "isApprxDate": false,
           "isMediaWrapper": false,
           "description": "Gerri Von Frellick, a veteran shopping mall developer, announced plans to build a shopping mall at East Hampden Avenue and South Franklin Street.\nVon Frellick proposed to build a \"new concept\" mall, with stores out of the weather under a single roof beside an air-conditioned mall or plaza.",
           "images": [
             "concept_art._1960_08_14_aerial_rendering",
-            "concept_art._1960_08_14_site_plan"
+            "concept_art._1960_08_14_site_plan",
+            "articles._1960_08_14_RMN_huge_shopping_center"
           ],
           "referencedHostIds": [],
           "source": "cc-historical-narrative",
