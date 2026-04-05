@@ -1322,6 +1322,21 @@
           "source": "",
           "additionalContent": {},
           "version": "0.7.1"
+        },
+        {
+          "id": "d9be22b4-ce3d-4a29-a61e-5955930777bb",
+          "type": "article",
+          "date": "1962-04-08",
+          "isApprxDate": false,
+          "isMediaWrapper": true,
+          "description": "",
+          "images": [
+            "articles._1962_04_08_RMN_Cinderella_City_promoter_vows_to_start_over"
+          ],
+          "referencedHostIds": [],
+          "source": "",
+          "additionalContent": {},
+          "version": "0.7.1"
         }
       ],
       "timelineEventReferences": [],
