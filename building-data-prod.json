@@ -1352,6 +1352,21 @@
           "source": "",
           "additionalContent": {},
           "version": "0.7.1"
+        },
+        {
+          "id": "d3cdf1e4-a082-4738-a7f6-81ce390db60a",
+          "type": "article",
+          "date": "1960-09-25",
+          "isApprxDate": false,
+          "isMediaWrapper": true,
+          "description": "",
+          "images": [
+            "articles._1960_09_25_DP_shopping_center_architecture_to_blend_1"
+          ],
+          "referencedHostIds": [],
+          "source": "",
+          "additionalContent": {},
+          "version": "0.7.1"
         }
       ],
       "timelineEventReferences": [],
