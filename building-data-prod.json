@@ -1337,6 +1337,21 @@
           "source": "",
           "additionalContent": {},
           "version": "0.7.1"
+        },
+        {
+          "id": "331b9170-9dc2-458f-a7f9-b2d167d78640",
+          "type": "article",
+          "date": "1960-12-14",
+          "isApprxDate": false,
+          "isMediaWrapper": true,
+          "description": "",
+          "images": [
+            "articles._1960_12_14_DP_area_planners_reject"
+          ],
+          "referencedHostIds": [],
+          "source": "",
+          "additionalContent": {},
+          "version": "0.7.1"
         }
       ],
       "timelineEventReferences": [],
