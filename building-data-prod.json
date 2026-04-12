@@ -1367,6 +1367,21 @@
           "source": "",
           "additionalContent": {},
           "version": "0.7.1"
+        },
+        {
+          "id": "d60b765a-0b03-446c-aa25-6f7d7ef06d02",
+          "type": "article",
+          "date": "1962-11-20",
+          "isApprxDate": false,
+          "isMediaWrapper": true,
+          "description": "",
+          "images": [
+            "articles._1962_11_20_DP_zone_change_falls_short_by_one_vote"
+          ],
+          "referencedHostIds": [],
+          "source": "",
+          "additionalContent": {},
+          "version": "0.7.1"
         }
       ],
       "timelineEventReferences": [],
