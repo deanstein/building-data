@@ -1395,6 +1395,19 @@
           "source": "",
           "additionalContent": {},
           "version": "0.7.1"
+        },
+        {
+          "id": "d74dd934-2c7a-4e22-845c-70c13da7e8ab",
+          "type": "opening",
+          "date": "1987-10-04",
+          "isApprxDate": false,
+          "isMediaWrapper": false,
+          "description": "May D&F opens in the former Broadway Southwest building",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "",
+          "additionalContent": {},
+          "version": "0.7.1"
         }
       ],
       "timelineEventReferences": [],
