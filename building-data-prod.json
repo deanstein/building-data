@@ -1382,6 +1382,19 @@
           "source": "",
           "additionalContent": {},
           "version": "0.7.1"
+        },
+        {
+          "id": "a66aa997-a017-47f3-a8da-488134a9b37e",
+          "type": "opening",
+          "date": "1985-10-01",
+          "isApprxDate": true,
+          "isMediaWrapper": false,
+          "description": "Broadway Southwest opens",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "",
+          "additionalContent": {},
+          "version": "0.7.1"
         }
       ],
       "timelineEventReferences": [],
