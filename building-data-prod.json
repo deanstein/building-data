@@ -1408,6 +1408,19 @@
           "source": "",
           "additionalContent": {},
           "version": "0.7.1"
+        },
+        {
+          "id": "b5e707c8-1dcb-4d98-878e-7c1bdfeb01d0",
+          "type": "opening",
+          "date": "1968-09-07",
+          "isApprxDate": false,
+          "isMediaWrapper": false,
+          "description": "Englewood High School City Campus opens on the mezzanine level of Rose Mall.",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "Rocky Mountain News",
+          "additionalContent": {},
+          "version": "0.7.1"
         }
       ],
       "timelineEventReferences": [],
