@@ -943,7 +943,7 @@
           "date": "1973-01-26",
           "isApprxDate": false,
           "isMediaWrapper": false,
-          "description": "\"There was never any precarious situation or any dange out there that I'm aware of.\" - Gerri Von Frellick",
+          "description": "\"There was never any precarious situation or any danger out there that I'm aware of.\" - Gerri Von Frellick",
           "images": [],
           "referencedHostIds": [],
           "source": "cc-historical-narrative",
@@ -1419,6 +1419,19 @@
           "images": [],
           "referencedHostIds": [],
           "source": "Rocky Mountain News",
+          "additionalContent": {},
+          "version": "0.7.1"
+        },
+        {
+          "id": "125e5eca-8208-4d94-b7d5-2f246e4a5dad",
+          "type": "statistic",
+          "date": "1980-05-01",
+          "isApprxDate": true,
+          "isMediaWrapper": false,
+          "description": "2 City Campus employees listed in the 1980 Englewood High School yearbook",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "1980 Englewood High School Yearbook",
           "additionalContent": {},
           "version": "0.7.1"
         }
