@@ -928,7 +928,7 @@
           "id": "81626a55-0848-4ef8-bf4a-165dba4c9545",
           "type": "structural",
           "date": "1972-12-01",
-          "isApprxDate": false,
+          "isApprxDate": true,
           "isMediaWrapper": false,
           "description": "A routine inspection revealed concrete flaking from a pillar corbel, and a person who had been involved in the construction of the mall said the J.C. Penney store would be a good place to look for similar problems.",
           "images": [],
