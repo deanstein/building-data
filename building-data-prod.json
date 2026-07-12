@@ -308,7 +308,7 @@
           "id": "989bce48-ed64-4fbc-9061-8462226cf1d8",
           "type": "renovation",
           "date": "1984-03-01",
-          "isApprxDate": false,
+          "isApprxDate": true,
           "isMediaWrapper": false,
           "description": "Phase III of the renovation begins: Demolition of the Neusteters to make room for Broadway Southwest. The cost is nearly the total of the first two phases.",
           "images": [],
