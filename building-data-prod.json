@@ -1439,7 +1439,7 @@
           "date": "1977-10-05",
           "isApprxDate": false,
           "isMediaWrapper": false,
-          "description": "Gart Brothers sports opens.",
+          "description": "Gart Brothers sports opens in Shamrock Mall.",
           "images": [],
           "referencedHostIds": [],
           "source": "Denver Post - October 5, 1977",
@@ -1452,10 +1452,10 @@
           "date": "1977-11-02",
           "isApprxDate": false,
           "isMediaWrapper": false,
-          "description": "Front Page opens in Cinderella City.",
+          "description": "Front Page opens in Cinder Alley.",
           "images": [],
           "referencedHostIds": [],
-          "source": "",
+          "source": "Rocky Mountain News - December 4, 1977",
           "additionalContent": {},
           "version": "0.7.1"
         }
