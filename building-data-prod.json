@@ -1471,6 +1471,19 @@
           "source": "Rocky Mountain News - July 30, 1971",
           "additionalContent": {},
           "version": "0.7.1"
+        },
+        {
+          "id": "9269b7bd-f3f2-4ce4-9c52-c54046e95589",
+          "type": "article",
+          "date": "1973-01-26",
+          "isApprxDate": false,
+          "isMediaWrapper": false,
+          "description": "Cracked roof supports troubled Cinderella City",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "Denver Post - January 26, 1973",
+          "additionalContent": {},
+          "version": "0.7.1"
         }
       ],
       "timelineEventReferences": [],
