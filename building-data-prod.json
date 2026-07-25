@@ -1445,6 +1445,19 @@
           "source": "Denver Post - October 5, 1977",
           "additionalContent": {},
           "version": "0.7.1"
+        },
+        {
+          "id": "84bb8c8f-eeb2-4877-9580-5dfd03bcc7c4",
+          "type": "opening",
+          "date": "1977-11-02",
+          "isApprxDate": false,
+          "isMediaWrapper": false,
+          "description": "Front Page opens in Cinderella City.",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "",
+          "additionalContent": {},
+          "version": "0.7.1"
         }
       ],
       "timelineEventReferences": [],
