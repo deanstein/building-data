@@ -1432,6 +1432,19 @@
           "source": "1980 Englewood High School Yearbook",
           "additionalContent": {},
           "version": "0.7.1"
+        },
+        {
+          "id": "83072dd9-f5d3-4452-95ad-17e24264b256",
+          "type": "opening",
+          "date": "1977-10-05",
+          "isApprxDate": false,
+          "isMediaWrapper": false,
+          "description": "Gart Brothers sports opens.",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "Denver Post - October 5, 1977",
+          "additionalContent": {},
+          "version": "0.7.1"
         }
       ],
       "timelineEventReferences": [],
