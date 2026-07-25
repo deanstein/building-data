@@ -1458,6 +1458,19 @@
           "source": "Rocky Mountain News - December 4, 1977",
           "additionalContent": {},
           "version": "0.7.1"
+        },
+        {
+          "id": "3b0e5ea9-a70c-4b0b-a6e3-07d8526030ee",
+          "type": "article",
+          "date": "1971-07-30",
+          "isApprxDate": false,
+          "isMediaWrapper": false,
+          "description": "Cinderella City to open Sundays",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "Rocky Mountain News - July 30, 1971",
+          "additionalContent": {},
+          "version": "0.7.1"
         }
       ],
       "timelineEventReferences": [],
