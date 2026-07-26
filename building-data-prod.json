@@ -1497,6 +1497,19 @@
           "source": "Rocky Mountain News - July 24, 1974",
           "additionalContent": {},
           "version": "0.7.1"
+        },
+        {
+          "id": "eb3cf15a-a0bf-40f2-88e5-4a20fa70a28b",
+          "type": "opening",
+          "date": "1968-09-25",
+          "isApprxDate": false,
+          "isMediaWrapper": false,
+          "description": "General Nutrition Centers opens in Blue Mall.",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "Denver Post - September 19, 1968",
+          "additionalContent": {},
+          "version": "0.7.1"
         }
       ],
       "timelineEventReferences": [],
