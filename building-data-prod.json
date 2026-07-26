@@ -1536,6 +1536,19 @@
           "source": "Rocky Mountain News - July 23, 1968",
           "additionalContent": {},
           "version": "0.7.1"
+        },
+        {
+          "id": "e056a749-f7cf-4a7e-a801-97863d274ef7",
+          "type": "article",
+          "date": "1968-03-27",
+          "isApprxDate": false,
+          "isMediaWrapper": false,
+          "description": "Cinderella City walkout ends",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "Rocky Mountain News - March 27, 1968",
+          "additionalContent": {},
+          "version": "0.7.1"
         }
       ],
       "timelineEventReferences": [],
