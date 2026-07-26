@@ -1523,6 +1523,19 @@
           "source": "Denver Post - December 3, 1968",
           "additionalContent": {},
           "version": "0.7.1"
+        },
+        {
+          "id": "6029d11b-945e-4fd7-8df3-b0c0e89c0555",
+          "type": "opening",
+          "date": "1968-07-25",
+          "isApprxDate": false,
+          "isMediaWrapper": false,
+          "description": "Denver Dry Goods opens.",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "Rocky Mountain News - July 23, 1968",
+          "additionalContent": {},
+          "version": "0.7.1"
         }
       ],
       "timelineEventReferences": [],
