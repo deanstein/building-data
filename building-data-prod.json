@@ -1484,6 +1484,19 @@
           "source": "Denver Post - January 26, 1973",
           "additionalContent": {},
           "version": "0.7.1"
+        },
+        {
+          "id": "a2c5d1aa-24da-4bf8-bb41-4d03fc4dbd97",
+          "type": "article",
+          "date": "1974-07-24",
+          "isApprxDate": false,
+          "isMediaWrapper": false,
+          "description": "Arrest is made in bomb-extortion plot in Englewood",
+          "images": [],
+          "referencedHostIds": [],
+          "source": "Rocky Mountain News - July 24, 1974",
+          "additionalContent": {},
+          "version": "0.7.1"
         }
       ],
       "timelineEventReferences": [],
